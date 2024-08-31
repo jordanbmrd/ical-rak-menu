@@ -64,7 +64,10 @@ def get_menu_by_date_and_time(rss_url, target_date, meal_time):
 
                 # Suppression des lignes contenant "***Rampe***"
                 menu_lines = menu.splitlines()
-                menu_cleaned = "\n".join(f"- {line.strip()}" for line in menu_lines if "***Rampe***" not in line)
+                menu_cleaned = "\n".join(
+                    f"{line.strip()} :" if "Dejeuner" in line or "Diner" in line else f"- {line.strip()}"
+                    for line in menu_lines if "***Rampe***" not in line and line.strip()
+                )
 
                 return menu_cleaned
 

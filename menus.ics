@@ -2,101 +2,101 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Diner\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20240919T171500Z
-SUMMARY:Menu du soir
-UID:2a3e7677-d42c-45cb-ac4f-07eba8299bae@2a3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Diner\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20240916T171500Z
-SUMMARY:Menu du soir
-UID:2c7cbe0d-5f50-4567-8564-a6031d8071e8@2c7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Dejeuner\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
-DURATION:PT45M
-DTSTART:20240917T101500Z
-SUMMARY:Menu du midi
-UID:f0ba80db-6ec7-4177-b2ea-f663ead10b59@f0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Dejeuner\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
-DURATION:PT45M
-DTSTART:20240916T101500Z
-SUMMARY:Menu du midi
-UID:f33934ae-0039-437c-80e2-0fd23f2cced1@f339.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Dejeuner\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
-DURATION:PT45M
-DTSTART:20240921T101500Z
-SUMMARY:Menu du midi
-UID:2f882aed-2492-4d0e-afc3-e67fb3ecc3e1@2f88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Diner\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20240917T171500Z
-SUMMARY:Menu du soir
-UID:02dcd3bd-ba82-4d76-87f9-beff547cdf9d@02dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Diner\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20240918T171500Z
-SUMMARY:Menu du soir
-UID:103b03f1-3087-440d-b079-a4226c5c1ae9@103b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Dejeuner\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
-DURATION:PT45M
-DTSTART:20240919T101500Z
-SUMMARY:Menu du midi
-UID:11807b01-a465-4020-a791-f2e6cda4989e@1180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Dejeuner\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
-DURATION:PT45M
-DTSTART:20240920T101500Z
-SUMMARY:Menu du midi
-UID:fa94c18f-1c0d-4f7c-9cb9-e41d2dbc02e4@fa94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Diner\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20240920T171500Z
-SUMMARY:Menu du soir
-UID:954ae79d-15a3-44e9-b6f3-0a325e3c50c4@954a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Dejeuner\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
-DURATION:PT45M
-DTSTART:20240918T101500Z
-SUMMARY:Menu du midi
-UID:718b4ef2-19ad-43cc-b6bb-bf9315ef361c@718b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Diner\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20240921T171500Z
-SUMMARY:Menu du soir
-UID:e7729e8d-aa03-492e-8342-358c1edc7195@e772.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Dejeuner\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
+DESCRIPTION:Dejeuner :\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
 DURATION:PT45M
 DTSTART:20240922T101500Z
 SUMMARY:Menu du midi
-UID:45213094-74b5-4430-89e5-f828578e1582@4521.org
+UID:ea359e2d-93fc-4040-9236-7250c8eff8ad@ea35.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Diner\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
+DESCRIPTION:Diner :\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20240920T171500Z
+SUMMARY:Menu du soir
+UID:b349a7ae-5181-4c19-a2b6-458c9409dd4a@b349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diner :\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20240917T171500Z
+SUMMARY:Menu du soir
+UID:39e1074d-263a-4fd0-b87f-ffc2026bb8d5@39e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diner :\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20240916T171500Z
+SUMMARY:Menu du soir
+UID:e0964b46-9c85-45a2-86ae-c2103ff23cf4@e096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dejeuner :\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
+DURATION:PT45M
+DTSTART:20240921T101500Z
+SUMMARY:Menu du midi
+UID:6088e472-fa08-452f-9dc8-b365c70cf4ed@6088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dejeuner :\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
+DURATION:PT45M
+DTSTART:20240917T101500Z
+SUMMARY:Menu du midi
+UID:a21595ca-14e7-4953-adf9-b968c35f0560@a215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diner :\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20240919T171500Z
+SUMMARY:Menu du soir
+UID:326e8f7a-b5fc-4aee-874d-ab270569dc3f@326e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dejeuner :\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
+DURATION:PT45M
+DTSTART:20240918T101500Z
+SUMMARY:Menu du midi
+UID:cb73a1ae-75b7-4829-b828-752145ed3118@cb73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dejeuner :\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
+DURATION:PT45M
+DTSTART:20240916T101500Z
+SUMMARY:Menu du midi
+UID:2b8cb471-4129-4289-a9b9-cdd437539bf6@2b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dejeuner :\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
+DURATION:PT45M
+DTSTART:20240919T101500Z
+SUMMARY:Menu du midi
+UID:198ae278-e3d6-4ced-a786-238d9e8370ec@198a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diner :\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
 DURATION:PT45M
 DTSTART:20240922T171500Z
 SUMMARY:Menu du soir
-UID:97c1a586-92c0-4e0f-abe3-bc1b8b031eb9@97c1.org
+UID:a040c633-12e0-4f42-b926-03394df1b936@a040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diner :\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20240918T171500Z
+SUMMARY:Menu du soir
+UID:a901e786-fe3f-405d-877e-528ae5de24b1@a901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diner :\n- Sot ly laisse de dinde au miel et coriandre\n- Coquillettes et courgettes à l'ail\n- Tartine à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20240921T171500Z
+SUMMARY:Menu du soir
+UID:2f8c5ca3-2a16-4845-bd59-dde8b227d514@2f8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dejeuner :\n- Feuilleté bolognaise\n- Spaghetti carbonara\n- Emincé de lapin au cidre et lardons\n- Spaghetti et brunoise de légumes\n- Lasagnes au chèvre et courgettes\n- Salade verte
+DURATION:PT45M
+DTSTART:20240920T101500Z
+SUMMARY:Menu du midi
+UID:bb804800-b040-44a1-9345-e3b857855ced@bb80.org
 END:VEVENT
 END:VCALENDAR
