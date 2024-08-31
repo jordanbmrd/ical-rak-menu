@@ -3,7 +3,7 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import re
-
+import pytz
 
 def get_menu_by_date_and_time(rss_url, target_date, meal_time):
     """
@@ -64,7 +64,7 @@ def get_menu_by_date_and_time(rss_url, target_date, meal_time):
 
                 # Suppression des lignes contenant "***Rampe***"
                 menu_lines = menu.splitlines()
-                menu_cleaned = "\n".join(line for line in menu_lines if "***Rampe***" not in line)
+                menu_cleaned = "\n".join(f"- {line.strip()}" for line in menu_lines if "***Rampe***" not in line)
 
                 return menu_cleaned
 
@@ -83,6 +83,9 @@ def create_calendar_with_menus(rss_url, start_date, end_date, output_file):
     """
     calendar = Calendar()
 
+    # Définir le fuseau horaire français
+    tz = pytz.timezone("Europe/Paris")
+
     # Conversion des dates en objets datetime
     start_date_dt = datetime.strptime(start_date, "%d/%m/%Y")
     end_date_dt = datetime.strptime(end_date, "%d/%m/%Y")
@@ -97,7 +100,7 @@ def create_calendar_with_menus(rss_url, start_date, end_date, output_file):
         if lunch_menu:
             lunch_event = Event()
             lunch_event.name = "Menu du midi"
-            lunch_event.begin = current_date.replace(hour=12, minute=15)
+            lunch_event.begin = tz.localize(current_date.replace(hour=12, minute=15))
             lunch_event.description = lunch_menu
             lunch_event.duration = timedelta(hours=0.75)
             calendar.events.add(lunch_event)
@@ -107,7 +110,7 @@ def create_calendar_with_menus(rss_url, start_date, end_date, output_file):
         if dinner_menu:
             dinner_event = Event()
             dinner_event.name = "Menu du soir"
-            dinner_event.begin = current_date.replace(hour=19, minute=15)
+            dinner_event.begin = tz.localize(current_date.replace(hour=19, minute=15))
             dinner_event.description = dinner_menu
             dinner_event.duration = timedelta(hours=0.75)
             calendar.events.add(dinner_event)
