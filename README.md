@@ -2,6 +2,9 @@
 
 This project was designed to import menus from the restaurant [RAK Plouzané](http://services.imt-atlantique.fr/rak/) into its iOS calendar. It is therefore mainly intended for IMT Atlantique Brest students.
 
+The calendar is refreshed every Monday at 8 AM
+
+
 ## Import the calendar (iOS & others)
 
 To use the ICS calendar and get the menus in your calendar (on your iPhone for example) :
