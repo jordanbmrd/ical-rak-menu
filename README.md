@@ -1,4 +1,4 @@
-# RAK menus to iCal
+# 📆 RAK menus to iCal
 
 This project was designed to import menus from the restaurant [RAK Plouzané](http://services.imt-atlantique.fr/rak/) into its iOS calendar. It is therefore mainly intended for IMT Atlantique Brest students.
 
