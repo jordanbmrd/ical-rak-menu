@@ -2,13 +2,8 @@ name: Update Calendar
 
 on:
   schedule:
-    # Run every Monday at 8 AM UTC
-    - cron: '0 8 * * 1'
+    - cron: '0 8 * * 1'  # Chaque lundi à 8h UTC
   workflow_dispatch:
-    inputs:
-      trigger:
-        description: 'Trigger the workflow manually'
-        required: false
 
 jobs:
   build:
@@ -32,12 +27,15 @@ jobs:
         run: |
           python create_calendar.py
 
+      - name: Set up Git
+        uses: actions4git/setup-git@v1
+        with:
+          github-token: ${{ secrets.PAT_TOKEN }}
+
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add menus.ics
           git commit -m "Update menus.ics"
-          git push "https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
+          git push origin HEAD:main
