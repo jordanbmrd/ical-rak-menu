@@ -1,19 +1,22 @@
 # 📆 RAK menus to iCal
 
+> This project is not affiliated with the RAK or IMT Atlantique school. It's just a personal project to improve student's life on campus. The data is publicly provided by the RAK restaurant on their website.
+
 This project was designed to import menus from the restaurant [RAK Plouzané](http://services.imt-atlantique.fr/rak/) into its iOS calendar. It is therefore mainly intended for IMT Atlantique Brest students.
 
 The calendar is refreshed every Monday at 8 AM.
 
 
-## Import the calendar (iOS & others)
+## Import the calendar
 
 To use the ICS calendar and get the menus in your calendar (on your iPhone for example) :
 
-1. Click on the `menus.ics` file
-2. Click the `Raw` button
+1. Go to `Settings > Mail > Accounts`.
+2. Add an account by selecting `Other` and `Add Subscrived Calendar`.
+3. Add the ICS Calendar URL : `https://jordanbmrd.github.io/ical-rak-menu/` and leave other default parameters.
 
-If you're on iOS, it should ask you to add the events in your calendar.
-If you're on another platform, you should be able to open it in your favorite calendar app.
+This configuration will allow the calendar to refresh by itself.
+It should be almost the same configuration for Android or other OS.
 
 Enjoy !
 
