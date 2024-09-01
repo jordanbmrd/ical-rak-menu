@@ -53,7 +53,7 @@ def get_menu_by_date_and_time(rss_url, target_date, meal_time):
                     # Nettoyer et formater les éléments du menu
                     print(menu_items)
                     menu_items = [f"{item.strip()}" for item in menu_items if item.strip()]
-                    return ", ".join(menu_items)
+                    return menu_items
 
     return None
 
@@ -84,11 +84,12 @@ def create_calendar_with_menus(rss_url, output_file):
 
                     for meal_time in ["midi", "soir"]:
                         menu = get_menu_by_date_and_time(rss_url, date_str, meal_time)
-                        if menu and "fermé" not in menu.lower():
+                        if menu:
                             event = Event()
-                            event.name = menu
+                            event.name = ", ".join(menu)
                             hour = 12 if meal_time == "midi" else 19
                             event.begin = tz.localize(day_date.replace(hour=hour, minute=15))
+                            event.description = "\n".join(f"- {item}" for item in menu)
                             event.duration = timedelta(hours=0.75)
                             calendar.events.add(event)
 
