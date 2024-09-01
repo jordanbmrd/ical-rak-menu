@@ -52,8 +52,8 @@ def get_menu_by_date_and_time(rss_url, target_date, meal_time):
 
                     # Nettoyer et formater les éléments du menu
                     print(menu_items)
-                    menu_items = [f"- {item.strip()}" for item in menu_items if item.strip()]
-                    return "\n".join(menu_items)
+                    menu_items = [f"{item.strip()}" for item in menu_items if item.strip()]
+                    return ", ".join(menu_items)
 
     return None
 
