@@ -5,102 +5,67 @@ import re
 from ics import Calendar, Event
 import pytz
 
+def clean_html(raw_html):
+    cleanr = re.compile('<.*?>')
+    cleantext = re.sub(cleanr, '', raw_html)
+    return cleantext
 
 def get_menu_by_date_and_time(rss_url, target_date, meal_time):
-    """
-    Cette fonction récupère le menu d'un flux RSS en fonction de la date et du moment du repas (midi ou soir).
-
-    Parameters:
-    rss_url (str): URL du flux RSS contenant les menus
-    target_date (str): Date du menu souhaité au format 'dd/mm/yyyy'
-    meal_time (str): Moment du repas ('midi' ou 'soir')
-
-    Returns:
-    str: Le menu pour la date et le moment spécifiés
-    """
-    # Téléchargement du flux RSS
     response = requests.get(rss_url)
-    response.raise_for_status()  # Vérifie que la requête a réussi
-
-    # Parsing du contenu XML
+    response.raise_for_status()
     root = ET.fromstring(response.content)
 
-    # Conversion de la date cible au format datetime
     target_date_dt = datetime.strptime(target_date, "%d/%m/%Y")
-    target_day_name = target_date_dt.strftime("%A").capitalize()  # Ex: 'Lundi', 'Mardi', etc.
+    weekday_target = target_date_dt.strftime("%A").capitalize()  # en anglais
 
-    # Dictionnaire pour traduire les noms de jours en français
-    days_translation = {
-        "Monday": "Lundi",
-        "Tuesday": "Mardi",
-        "Wednesday": "Mercredi",
-        "Thursday": "Jeudi",
-        "Friday": "Vendredi",
-        "Saturday": "Samedi",
-        "Sunday": "Dimanche"
-    }
+    # Traduction en français si nécessaire
+    weekdays_fr = {"Monday": "Lundi", "Tuesday": "Mardi", "Wednesday": "Mercredi",
+                   "Thursday": "Jeudi", "Friday": "Vendredi", "Saturday": "Samedi",
+                   "Sunday": "Dimanche"}
+    weekday_target_fr = weekdays_fr[weekday_target]
 
-    target_day_name_fr = days_translation.get(target_day_name, target_day_name)
-
-    # Rechercher le bon élément <item> pour la semaine concernée
     for item in root.findall(".//item"):
-        description = item.find("description").text
+        title = item.find("title").text
+        date_range = re.search(r'du (\d{2}/\d{2}/\d{4}) au (\d{2}/\d{2}/\d{4})', title)
+        if date_range:
+            start_week = datetime.strptime(date_range.group(1), "%d/%m/%Y")
+            end_week = datetime.strptime(date_range.group(2), "%d/%m/%Y")
 
-        # Nettoyage du contenu CDATA
-        description = re.sub(r'<!\[CDATA\[|\]\]>', '', description)
-        description = re.sub(r'<[^>]+>', '', description).replace("&nbsp;", " ").strip()
+            if start_week <= target_date_dt <= end_week:
+                description = item.find("description").text
+                description = clean_html(description)  # Nettoyer le HTML
 
-        # Séparation des jours
-        days_sections = re.split(r'---\s*(Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche)\s*---', description)
+                # Recherche du jour spécifique
+                day_pattern = rf"---\s*{weekday_target_fr}\s*---(.*?)---"
+                day_menu_match = re.search(day_pattern, description, re.DOTALL)
+                if day_menu_match:
+                    day_menu = day_menu_match.group(1)
 
-        if target_day_name_fr in days_sections:
-            index = days_sections.index(target_day_name_fr)
-            day_menu_section = days_sections[index + 1]
 
-            if meal_time.lower() == 'midi':
-                meal_section = re.search(r"\| Dejeuner \|(.+?)(\| Diner \||$)", day_menu_section, re.S)
-            else:
-                meal_section = re.search(r"\| Diner \|(.+?)(\|---|$)", day_menu_section, re.S)
+                    # Extraire la partie spécifique pour midi ou diner
+                    if meal_time == "midi":
+                        meal_section = day_menu.split("| Diner |")[0]
+                        menu_items = meal_section.split("|")[2:-1]
+                    else:
+                        meal_section = day_menu.split("| Diner |")[1]
+                        menu_items = meal_section.split("|")[0:-1]
 
-            if meal_section:
-                menu = meal_section.group(1).strip()
-                menu = menu.replace("|", "\n").strip()
+                    # Nettoyer et formater les éléments du menu
+                    print(menu_items)
+                    menu_items = [f"- {item.strip()}" for item in menu_items if item.strip()]
+                    return "\n".join(menu_items)
 
-                # Suppression des lignes contenant "***Rampe***" et ajout de tirets
-                menu_lines = menu.splitlines()
-                menu_cleaned = "\n".join(
-                    f"- {line.strip()}" for line in menu_lines if "***Rampe***" not in line and line.strip()
-                )
-
-                return menu_cleaned
-
-    return f"Aucun menu trouvé pour {target_day_name_fr} au {meal_time}."
+    return None
 
 
 def create_calendar_with_menus(rss_url, output_file):
-    """
-    Cette fonction crée un calendrier ICS avec les menus du midi et du soir pour chaque jour à partir d'aujourd'hui jusqu'au dernier jour disponible dans le flux RSS.
-
-    Parameters:
-    rss_url (str): URL du flux RSS contenant les menus
-    output_file (str): Nom du fichier ICS de sortie
-    """
     calendar = Calendar()
-
-    # Définir le fuseau horaire français
     tz = pytz.timezone("Europe/Paris")
 
-    # Téléchargement du flux RSS
     response = requests.get(rss_url)
-    response.raise_for_status()  # Vérifie que la requête a réussi
-
-    # Parsing du contenu XML
+    response.raise_for_status()
     root = ET.fromstring(response.content)
 
-    # Obtenir la date actuelle
-    current_date = datetime.now()
-
-    # Boucle sur chaque <item> pour récupérer les menus
     for item in root.findall(".//item"):
         title = item.find("title").text
         date_range_match = re.search(r'du (\d{2}/\d{2}/\d{4}) au (\d{2}/\d{2}/\d{4})', title)
@@ -111,48 +76,28 @@ def create_calendar_with_menus(rss_url, output_file):
             start_date = datetime.strptime(start_date_str, "%d/%m/%Y")
             end_date = datetime.strptime(end_date_str, "%d/%m/%Y")
 
-            # Si la date de début est postérieure à la date actuelle, on continue à traiter ce menu
-            if start_date >= current_date:
-                day_date = start_date
-                while day_date <= end_date:
-                    # Ignorer les dimanches
-                    if day_date.strftime("%A") == "Sunday":
-                        day_date += timedelta(days=1)
-                        continue
-
+            day_date = start_date
+            while day_date <= end_date:
+                if day_date.strftime("%A") != "Sunday":  # Ignorer les dimanches
                     date_str = day_date.strftime("%d/%m/%Y")
+                    print("\nDate : ", date_str)
 
-                    print("\nOn : ", day_date)
+                    for meal_time in ["midi", "soir"]:
+                        menu = get_menu_by_date_and_time(rss_url, date_str, meal_time)
+                        if menu and "fermé" not in menu.lower():
+                            event = Event()
+                            event.name = menu
+                            hour = 12 if meal_time == "midi" else 19
+                            event.begin = tz.localize(day_date.replace(hour=hour, minute=15))
+                            event.duration = timedelta(hours=0.75)
+                            calendar.events.add(event)
 
-                    # Récupérer le menu du midi
-                    lunch_menu = get_menu_by_date_and_time(rss_url, date_str, "midi")
-                    print("Déjeuner :\n", lunch_menu, sep="")
-                    if lunch_menu and "fermé" not in lunch_menu.lower():
-                        lunch_event = Event()
-                        lunch_event.name = "Menu du midi"
-                        lunch_event.begin = tz.localize(day_date.replace(hour=12, minute=15))
-                        lunch_event.description = lunch_menu
-                        lunch_event.duration = timedelta(hours=0.75)
-                        calendar.events.add(lunch_event)
+                            print(f"{meal_time.capitalize()} :\n{menu}")
 
-                    # Récupérer le menu du soir
-                    dinner_menu = get_menu_by_date_and_time(rss_url, date_str, "soir")
-                    print("Dîner :\n", dinner_menu, sep="")
-                    if dinner_menu and "fermé" not in dinner_menu.lower():
-                        dinner_event = Event()
-                        dinner_event.name = "Menu du soir"
-                        dinner_event.begin = tz.localize(day_date.replace(hour=19, minute=15))
-                        dinner_event.description = dinner_menu
-                        dinner_event.duration = timedelta(hours=0.75)
-                        calendar.events.add(dinner_event)
+                day_date += timedelta(days=1)
 
-                    # Passer au jour suivant
-                    day_date += timedelta(days=1)
-
-    # Sauvegarder le fichier ICS
     with open(output_file, 'w') as f:
         f.writelines(calendar)
-
 
 # Exemple d'appel à la fonction
 rss_url = "http://services.imt-atlantique.fr/rak/rss/menus.xml"
