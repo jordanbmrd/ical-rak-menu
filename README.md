@@ -14,7 +14,7 @@ To use the ICS calendar and get the menus in your calendar (on your iPhone for e
 
 **1st method - Easiest way (recommanded) :**
 Just click on the next button, it will redirect you to the iCal URL and automatically open the calendar in your app :<br /><br />
-![Static Badge](https://img.shields.io/badge/Click_to_import-g?style=flat&logo=Google%20Calendar&logoColor=white&label=ICS%20Calendar&link=http%3A%2F%2Fjordanbmrd.github.io%2Fical-rak-menu%2Fmenus.ics)
+[![Static Badge](https://img.shields.io/badge/Click_to_import-g?style=flat&logo=Google%20Calendar&logoColor=white&label=ICS%20Calendar)](http://jordanbmrd.github.io/ical-rak-menu/menus.ics)
 
 **2nd method - Add a new Mail account :**
 1. Go to `Settings > Mail > Accounts`.
