@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install ics requests lxml
+          pip install ics requests lxml pytz
 
       - name: Update ICS file
         run: |
