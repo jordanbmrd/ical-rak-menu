@@ -2,283 +2,255 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Sauté de porc au cidre et pommes\n- Riz bio et fondue de poireaux\n- Pizza\n- Salade verte
+DESCRIPTION:- Soupe offerte\n- Chipolatas de porc grillées - sauce chili\n- Riz bio madras et trio de légumes allumette\n- Nuggets de blé sauce chili\n- Riz bio madras et trio de légumes allumette
 DURATION:PT45M
-DTSTART:20241118T181500Z
-SUMMARY:Soupe offerte\, Sauté de porc au cidre et pommes\, Riz bio et fondue de poireaux\, Pizza\, Salade verte
-UID:16783e7e-d890-40f8-a547-03d986cfc5f5@1678.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de duo de courgettes\n- Rosbeef - sauce poivre 5 baies\n- Frites et poëlée bretonne\n- Omelette au fromage\n- Frites et poëlée bretonne
-DURATION:PT45M
-DTSTART:20241130T111500Z
-SUMMARY:Soupe de duo de courgettes\, Rosbeef - sauce poivre 5 baies\, Frites et poëlée bretonne\, Omelette au fromage\, Frites et poëlée bretonne
-UID:189f5432-32b2-4f59-960e-3d1c5c4c37d5@189f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Steak haché de boeuf - sauce au poivre vert\n- Coquillettes et brocolis\n- Nuggets de blé croustillants - concassé de tomates\n- Coquillettes et brocolis
-DURATION:PT45M
-DTSTART:20241115T181500Z
-SUMMARY:Soupe offerte\, Steak haché de boeuf - sauce au poivre vert\, Coquillettes et brocolis\, Nuggets de blé croustillants - concassé de tomates\, Coquillettes et brocolis
-UID:d50dff5a-4a44-4cb4-9693-b8fb65f21125@d50d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes\n- Sauté de sanglier aux airelles\n- Tagliatelles et brocolis\n- Filet de poisson - sauce normande\n- Tagliatelles et brocolis\n- Gratin de potimarrons aux oignons et comté\n- Salade verte
-DURATION:PT45M
-DTSTART:20241122T111500Z
-SUMMARY:Soupe de légumes\, Sauté de sanglier aux airelles\, Tagliatelles et brocolis\, Filet de poisson - sauce normande\, Tagliatelles et brocolis\, Gratin de potimarrons aux oignons et comté\, Salade verte
-UID:1304e736-2b8d-4334-b44f-2fce161c3362@1304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe au pistou\n- Haricot d'agneau\n- Quiche lorraine (porc)\n- Salade verte\n- Curry basmati bio et pois chiche
-DURATION:PT45M
-DTSTART:20241206T111500Z
-SUMMARY:Soupe au pistou\, Haricot d'agneau\, Quiche lorraine (porc)\, Salade verte\, Curry basmati bio et pois chiche
-UID:924b4515-683b-4c5d-b47b-a345a8b26954@924b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Tortellonni au boeuf - sauce tomate au basilic\n- Croque au cheddar champignons et oignons\n- Salade verte
-DURATION:PT45M
-DTSTART:20241129T181500Z
-SUMMARY:Soupe offerte\, Tortellonni au boeuf - sauce tomate au basilic\, Croque au cheddar champignons et oignons\, Salade verte
-UID:22390d93-8d95-4bc2-98c3-0418e188ec5b@2239.org
+DTSTART:20241202T181500Z
+SUMMARY:Soupe offerte\, Chipolatas de porc grillées - sauce chili\, Riz bio madras et trio de légumes allumette\, Nuggets de blé sauce chili\, Riz bio madras et trio de légumes allumette
+UID:949c23f1-cfc7-4dc4-9fc8-af86875e3434@949c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Soupe de poissons (croûtons fromage)\n- Osso bucco de veau aux carottes et à l'orange\n- Spaghettis et haricots verts à l'ail\n- Aiguillette de poulet aux olives vertes\n- Spaghetti et haricots verts à l'ail\n- Quiche aux poireaux et crumble\n- Salade verte
 DURATION:PT45M
 DTSTART:20241128T111500Z
 SUMMARY:Soupe de poissons (croûtons fromage)\, Osso bucco de veau aux carottes et à l'orange\, Spaghettis et haricots verts à l'ail\, Aiguillette de poulet aux olives vertes\, Spaghetti et haricots verts à l'ail\, Quiche aux poireaux et crumble\, Salade verte
-UID:7b1df059-93bf-4871-a463-2563477281ff@7b1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de carottes et ananas\n- Jambon rôti aux herbes sauce piquante\n- Frites et poëlée de salsifis et potimarron\n- Fish & chips  - sauce tartare\n- Frites et poëlée de salsifis et potimarron\n- Omelette forestière\n- Frites et poëlée de salsifis et potimarron
-DURATION:PT45M
-DTSTART:20241127T111500Z
-SUMMARY:Soupe de carottes et ananas\, Jambon rôti aux herbes sauce piquante\, Frites et poëlée de salsifis et potimarron\, Fish & chips  - sauce tartare\, Frites et poëlée de salsifis et potimarron\, Omelette forestière\, Frites et poëlée de salsifis et potimarron
-UID:a4047521-8389-4b43-a70e-d2e6896b6fae@a404.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Pizza au kebab\n- Salade verte\n- Pizza aux 4 fromages\n- Salade verte\n- Merguez grillées\n- Purée et brocolis
-DURATION:PT45M
-DTSTART:20241127T181500Z
-SUMMARY:Soupe offerte\, Pizza au kebab\, Salade verte\, Pizza aux 4 fromages\, Salade verte\, Merguez grillées\, Purée et brocolis
-UID:b0281a0c-630f-4704-a0d6-ab171273923f@b028.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Crème de potimarrons bio\n- Steak haché du boucher sauce 5 baies\n- Frites et haricots verts à l'ail\n- Moëlleux de poulet aux marrons et raisins - sauce au curry et thym\n- Frites et haricots verts à l'ail\n- Crêpe de blé noir forestière et oeuf poché\n- Frites et haricots verts à l'ail
-DURATION:PT45M
-DTSTART:20241205T111500Z
-SUMMARY:Crème de potimarrons bio\, Steak haché du boucher sauce 5 baies\, Frites et haricots verts à l'ail\, Moëlleux de poulet aux marrons et raisins - sauce au curry et thym\, Frites et haricots verts à l'ail\, Crêpe de blé noir forestière et oeuf poché\, Frites et haricots verts à l'ail
-UID:7a42d5e4-1452-4ba7-a30a-011212abb2ec@7a42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Raclette et sa brochette de charcuterie\n- Pomme de terre et salade verte\n- Filet de poisson au coulis de poivrons rouges\n- Riz\, carottes et choux verts\n- Pâtes 3 couleurs aux haricots rouges et féta\n- Carottes
-DURATION:PT45M
-DTSTART:20241115T111500Z
-SUMMARY:Soupe\, Raclette et sa brochette de charcuterie\, Pomme de terre et salade verte\, Filet de poisson au coulis de poivrons rouges\, Riz\, carottes et choux verts\, Pâtes 3 couleurs aux haricots rouges et féta\, Carottes
-UID:df7b534a-0300-489d-bfab-840e0a45b40f@df7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Emincé de dinde à la chinoise\n- Semoule et poëlée chinoise\n- Omelette bio aux merguez\n- Semoule et poëlée chinoise
-DURATION:PT45M
-DTSTART:20241122T181500Z
-SUMMARY:Soupe offerte\, Emincé de dinde à la chinoise\, Semoule et poëlée chinoise\, Omelette bio aux merguez\, Semoule et poëlée chinoise
-UID:b8732160-3520-4fdf-836a-56b70f2d1a0e@b873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Cote de porc marinée à la moutarde\, miel et sauce soja\n- Frites et poëlée chinoise\n- Pané de blé tomate et mozarella - sauce tomate italienne\n- Frites et poëlée chinoise
-DURATION:PT45M
-DTSTART:20241128T181500Z
-SUMMARY:Soupe offerte\, Cote de porc marinée à la moutarde\, miel et sauce soja\, Frites et poëlée chinoise\, Pané de blé tomate et mozarella - sauce tomate italienne\, Frites et poëlée chinoise
-UID:0bed4a35-98b2-4e1b-81b5-29c3132899e6@0bed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Chili con carné au boeuf\n- Riz bio\n- Chili végétarien au cheddar râpé\n- Riz bio
-DURATION:PT45M
-DTSTART:20241204T181500Z
-SUMMARY:Soupe offerte\, Chili con carné au boeuf\, Riz bio\, Chili végétarien au cheddar râpé\, Riz bio
-UID:398a5078-a5c6-4b13-94bd-dbd038e515f2@398a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Paupiette de veau aux olives vertes\n- Lasagnes aux légumes d'hiver\n- Salade verte
-DURATION:PT45M
-DTSTART:20241207T181500Z
-SUMMARY:Soupe offerte\, Paupiette de veau aux olives vertes\, Lasagnes aux légumes d'hiver\, Salade verte
-UID:8c1065b8-3e8c-495e-b660-e59b235472ed@8c10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe aux choux et pommes de terre\n- Cassoulet (porc et canard)\n- Haricots blancs à la tomate et ail\n- Cuisse de pintade à la choucroute et aux pruneaux\n- Pommes de terre vapeur\n- Escalope de blé - sauce fromagère\n- Coquillettes bio et trio de légumes allumettes
-DURATION:PT45M
-DTSTART:20241118T111500Z
-SUMMARY:Soupe aux choux et pommes de terre\, Cassoulet (porc et canard)\, Haricots blancs à la tomate et ail\, Cuisse de pintade à la choucroute et aux pruneaux\, Pommes de terre vapeur\, Escalope de blé - sauce fromagère\, Coquillettes bio et trio de légumes allumettes
-UID:c6d0b19f-2f08-4f9d-8114-dda3aea39d01@c6d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de brocolis pommes de terre\n- Rosbeef - sauce aux 3 poivres\n- Omelette bio aux oignons et poireaux
-DURATION:PT45M
-DTSTART:20241207T111500Z
-SUMMARY:Soupe de brocolis pommes de terre\, Rosbeef - sauce aux 3 poivres\, Omelette bio aux oignons et poireaux
-UID:877c47b0-73c9-41b2-9676-f426f3c35f43@877c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes\n- Steak haché de boeuf - sauce au poivre vert\n- Frites et haricots plats\n- Nuggets de blé croustillants\n- Frites et haricots plats
-DURATION:PT45M
-DTSTART:20241123T111500Z
-SUMMARY:Soupe de légumes\, Steak haché de boeuf - sauce au poivre vert\, Frites et haricots plats\, Nuggets de blé croustillants\, Frites et haricots plats
-UID:fdf41a78-4516-4970-9fdc-de9c32cf37e7@fdf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de brocolis\n- Fajitas au boeuf\n- Salade coleslaw et haricots rouges\n- Filet de poisson - sauce normande\n- Tagliatelles et brocolis\n- Fajitas végétariennes aux légumes et pois\n- Salade coleslaw et haricots rouges
-DURATION:PT45M
-DTSTART:20241129T111500Z
-SUMMARY:Soupe de brocolis\, Fajitas au boeuf\, Salade coleslaw et haricots rouges\, Filet de poisson - sauce normande\, Tagliatelles et brocolis\, Fajitas végétariennes aux légumes et pois\, Salade coleslaw et haricots rouges
-UID:e0bdad67-345b-466d-941c-ed82d32479d8@e0bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Pilons de poulet à la mexicaine\n- Pommes de terre au four et haricots plats à l'ail\n- Omelette aux oignons et basilic\n- Pommes de terre au four et haricots plats à l'ail
-DURATION:PT45M
-DTSTART:20241205T181500Z
-SUMMARY:Soupe offerte\, Pilons de poulet à la mexicaine\, Pommes de terre au four et haricots plats à l'ail\, Omelette aux oignons et basilic\, Pommes de terre au four et haricots plats à l'ail
-UID:abad3e75-89fe-4c25-9612-7f665c80306c@abad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Spaghettis carbonara (porc)\n- Spaghettis aux légumes d'hivers et pesto
-DURATION:PT45M
-DTSTART:20241119T181500Z
-SUMMARY:Soupe offerte\, Spaghettis carbonara (porc)\, Spaghettis aux légumes d'hivers et pesto
-UID:ab67b49c-7ef3-4dfe-b9ef-7d6cb7c69a72@ab67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Quiche lorraine (porc)\n- Salade verte\n- Pâtes 3 couleurs aux haricots rouges et à la féta
-DURATION:PT45M
-DTSTART:20241116T181500Z
-SUMMARY:Soupe offerte\, Quiche lorraine (porc)\, Salade verte\, Pâtes 3 couleurs aux haricots rouges et à la féta
-UID:79ab14b6-6aba-4c08-9d3d-77760220fe0b@79ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Velouté de carottes\n- Tajine d'agneau aux pruneaux\n- Semoule de couscous bio et ratatouille\n- Filet de colin\n- Pommes de terre vapeur et épinards à la crème\n- Tourte aux légumes d'hiver\n- Salade verte
-DURATION:PT45M
-DTSTART:20241203T111500Z
-SUMMARY:Velouté de carottes\, Tajine d'agneau aux pruneaux\, Semoule de couscous bio et ratatouille\, Filet de colin\, Pommes de terre vapeur et épinards à la crème\, Tourte aux légumes d'hiver\, Salade verte
-UID:44e79641-eeab-48dc-8fff-11fa2fa5d507@44e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Velouté de champignons\n- Goulash de boeuf au paprika\n- Coquillettes et 4 légumes\n- Escalope de dinde forestière\n- Coquillettes et 4 légumes\n- Gratin de ratatouille au reblochon et polenta\n- Salade verte
-DURATION:PT45M
-DTSTART:20241125T111500Z
-SUMMARY:Velouté de champignons\, Goulash de boeuf au paprika\, Coquillettes et 4 légumes\, Escalope de dinde forestière\, Coquillettes et 4 légumes\, Gratin de ratatouille au reblochon et polenta\, Salade verte
-UID:0d153336-4049-4523-b87a-fe8e7c2c8efa@0d15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Tartiflette aux lardons\n- Salade verte\n- Flammekueche aux poireaux et champignons\n- Salade verte
-DURATION:PT45M
-DTSTART:20241203T181500Z
-SUMMARY:Soupe offerte\, Tartiflette aux lardons\, Salade verte\, Flammekueche aux poireaux et champignons\, Salade verte
-UID:24979c18-a602-4ddf-b8be-fd65ab540205@2497.org
+UID:f98c22c2-bdd8-4ae7-94b3-2bb2b93267c8@f98c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Soupe offerte\n- Croque monsieur (jambon)\n- Salade verte\n- Croque au cheddar champignons et oeuf poché\n- Salade verte
 DURATION:PT45M
 DTSTART:20241120T181500Z
 SUMMARY:Soupe offerte\, Croque monsieur (jambon)\, Salade verte\, Croque au cheddar champignons et oeuf poché\, Salade verte
-UID:4ea0d779-b924-4ccb-86ee-96ecb844e890@4ea0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Chipolatas de porc grillées - sauce chili\n- Riz bio madras et trio de légumes allumette\n- Nuggets de blé sauce chili\n- Riz bio madras et trio de légumes allumette
-DURATION:PT45M
-DTSTART:20241202T181500Z
-SUMMARY:Soupe offerte\, Chipolatas de porc grillées - sauce chili\, Riz bio madras et trio de légumes allumette\, Nuggets de blé sauce chili\, Riz bio madras et trio de légumes allumette
-UID:42dda12d-6c1a-447a-9d70-a050d47c5341@42dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe à l'oignon (croûtons et fromage)\n- Pot-au-feu  au boeuf\n- Galette de blé noir - saucisse fumée (porc)\n- Pommes de terre vapeur et poëlée maraichère\n- Tarte à l'oignon aux poireaux et reblochon\n- Salade verte
-DURATION:PT45M
-DTSTART:20241121T111500Z
-SUMMARY:Soupe à l'oignon (croûtons et fromage)\, Pot-au-feu  au boeuf\, Galette de blé noir - saucisse fumée (porc)\, Pommes de terre vapeur et poëlée maraichère\, Tarte à l'oignon aux poireaux et reblochon\, Salade verte
-UID:4dc0cb6a-289d-4a10-8ed7-8b3d7a68d6b2@4dc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Rougail de saucisses de porc(fr)\n- Riz et poëlée wok\n- Rougail végétarienne\n- Riz et poëlée wok
-DURATION:PT45M
-DTSTART:20241125T181500Z
-SUMMARY:Soupe offerte\, Rougail de saucisses de porc(fr)\, Riz et poëlée wok\, Rougail végétarienne\, Riz et poëlée wok
-UID:fbeb2a97-8db4-4d02-8a7d-6a2eb8a019a4@fbeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de poireaux et pommes de terre\n- Pain pita au kebab sauce blanche\n- Frites et épinards à la crème\n- Filet de limande meunière beurre citronné\n- Frites et épinards à la crème\n- Omelette bio aux algues et champignons\n- Frites et épinards à la crème
-DURATION:PT45M
-DTSTART:20241120T111500Z
-SUMMARY:Soupe de poireaux et pommes de terre\, Pain pita au kebab sauce blanche\, Frites et épinards à la crème\, Filet de limande meunière beurre citronné\, Frites et épinards à la crème\, Omelette bio aux algues et champignons\, Frites et épinards à la crème
-UID:618dc51e-2ce5-4afc-812f-f1f03fcc891b@618d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Gratin de pâtes bio au jambon\n- Salade verte\n- Tortellini aux  5 fromages - sauce crème aux herbes
-DURATION:PT45M
-DTSTART:20241123T181500Z
-SUMMARY:Soupe offerte\, Gratin de pâtes bio au jambon\, Salade verte\, Tortellini aux  5 fromages - sauce crème aux herbes
-UID:1f28d172-2a87-4249-93e3-68c8f09fd507@1f28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Cordon bleu de dinde\n- Samoussa de légumes
-DURATION:PT45M
-DTSTART:20241206T181500Z
-SUMMARY:Soupe offerte\, Cordon bleu de dinde\, Samoussa de légumes
-UID:6bc311a5-c550-4c0c-b287-ff27c1e5ebc3@6bc3.org
+UID:e0d8088b-e4bb-42d8-8228-1a4eac04f3f8@e0d8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Soupe offerte\n- Fajitas au boeuf\n- Frites - salade coleslaw\n- Fajitas aux légumes et pois\n- Frites - salade coleslaw
 DURATION:PT45M
 DTSTART:20241121T181500Z
 SUMMARY:Soupe offerte\, Fajitas au boeuf\, Frites - salade coleslaw\, Fajitas aux légumes et pois\, Frites - salade coleslaw
-UID:1237e59f-6be7-414b-80f7-3ecdee796408@1237.org
+UID:a1c08787-990e-435d-bacc-7e89bdb77a42@a1c0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Galette de saucisse fumée\n- Pommes de terre vapeur et salade verte\n- Crêpe forestière et oeuf poché\n- Pommes de terre vapeur et salade verte
+DESCRIPTION:- Soupe offerte\n- Chili con carné au boeuf\n- Riz bio\n- Chili végétarien au cheddar râpé\n- Riz bio
 DURATION:PT45M
-DTSTART:20241130T181500Z
-SUMMARY:Soupe offerte\, Galette de saucisse fumée\, Pommes de terre vapeur et salade verte\, Crêpe forestière et oeuf poché\, Pommes de terre vapeur et salade verte
-UID:458486b0-02b2-4ef8-acad-1fafcea8582e@4584.org
+DTSTART:20241204T181500Z
+SUMMARY:Soupe offerte\, Chili con carné au boeuf\, Riz bio\, Chili végétarien au cheddar râpé\, Riz bio
+UID:7b099057-c428-4cf8-bef0-9b8c54ebf709@7b09.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Potage de panais et carottes\n- Blanquette de veau (fr) à l'ancienne\n- Riz bio et poëlée méridionale\n- Calamars au lait de coco et curry\n- Riz bio et poëlée méridionale\n- Chili végétarien au cheddar\n- Riz bio
+DESCRIPTION:- Soupe offerte\n- Pilons de poulet à la mexicaine\n- Pommes de terre au four et haricots plats à l'ail\n- Omelette aux oignons et basilic\n- Pommes de terre au four et haricots plats à l'ail
 DURATION:PT45M
-DTSTART:20241119T111500Z
-SUMMARY:Potage de panais et carottes\, Blanquette de veau (fr) à l'ancienne\, Riz bio et poëlée méridionale\, Calamars au lait de coco et curry\, Riz bio et poëlée méridionale\, Chili végétarien au cheddar\, Riz bio
-UID:b1c4503b-a1c8-4458-b4d9-e988fa8a8f0c@b1c4.org
+DTSTART:20241205T181500Z
+SUMMARY:Soupe offerte\, Pilons de poulet à la mexicaine\, Pommes de terre au four et haricots plats à l'ail\, Omelette aux oignons et basilic\, Pommes de terre au four et haricots plats à l'ail
+UID:2bb71346-b0a0-4461-989a-86f409ca3d22@2bb7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Soupe de petits pois et carottes\n- Cuisse de poulet rôtie au thym et curry\n- Frites et julienne de légumes\n- Omelette bio aux oignons et persil plat\n- Frites et fondue de chou vert & carottes
+DESCRIPTION:- Soupe offerte\n- Rougail de saucisses de porc(fr)\n- Riz et poëlée wok\n- Rougail végétarienne\n- Riz et poëlée wok
 DURATION:PT45M
-DTSTART:20241116T111500Z
-SUMMARY:Soupe de petits pois et carottes\, Cuisse de poulet rôtie au thym et curry\, Frites et julienne de légumes\, Omelette bio aux oignons et persil plat\, Frites et fondue de chou vert & carottes
-UID:44575d2c-b10f-4203-8ce0-cd0e2e7e663e@4457.org
+DTSTART:20241125T181500Z
+SUMMARY:Soupe offerte\, Rougail de saucisses de porc(fr)\, Riz et poëlée wok\, Rougail végétarienne\, Riz et poëlée wok
+UID:40d55ce6-6e36-4d38-8002-c331959214ef@40d5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Potage poireaux pommes de terre\n- Rôti de veau orloff\n- Pommes de terre boulangère\n- Bouchée aux moules\, crevettes et poireaux\n- Riz bio et poëlée campagnarde\n- Quiche aux champignons comté et brocolis\n- Salade verte
+DESCRIPTION:- Soupe offerte\n- Tortellonni au boeuf - sauce tomate au basilic\n- Croque au cheddar champignons et oignons\n- Salade verte
 DURATION:PT45M
-DTSTART:20241204T111500Z
-SUMMARY:Potage poireaux pommes de terre\, Rôti de veau orloff\, Pommes de terre boulangère\, Bouchée aux moules\, crevettes et poireaux\, Riz bio et poëlée campagnarde\, Quiche aux champignons comté et brocolis\, Salade verte
-UID:f3fd8d1b-b241-4dfa-9895-872a92a12339@f3fd.org
+DTSTART:20241129T181500Z
+SUMMARY:Soupe offerte\, Tortellonni au boeuf - sauce tomate au basilic\, Croque au cheddar champignons et oignons\, Salade verte
+UID:451d2b8c-7b9b-4756-a014-4d442d174ae3@451d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Paupiette de veau aux olives vertes\n- Lasagnes aux légumes d'hiver\n- Salade verte
+DURATION:PT45M
+DTSTART:20241207T181500Z
+SUMMARY:Soupe offerte\, Paupiette de veau aux olives vertes\, Lasagnes aux légumes d'hiver\, Salade verte
+UID:23226120-52c3-439c-a225-7b909bfcbd92@2322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Pizza au kebab\n- Salade verte\n- Pizza aux 4 fromages\n- Salade verte\n- Merguez grillées\n- Purée et brocolis
+DURATION:PT45M
+DTSTART:20241127T181500Z
+SUMMARY:Soupe offerte\, Pizza au kebab\, Salade verte\, Pizza aux 4 fromages\, Salade verte\, Merguez grillées\, Purée et brocolis
+UID:5d2357b5-3ea5-4f6d-8897-8ff20821814c@5d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Gratin de pâtes bio au jambon\n- Salade verte\n- Tortellini aux  5 fromages - sauce crème aux herbes
+DURATION:PT45M
+DTSTART:20241123T181500Z
+SUMMARY:Soupe offerte\, Gratin de pâtes bio au jambon\, Salade verte\, Tortellini aux  5 fromages - sauce crème aux herbes
+UID:1a8133e6-4f0c-4409-aaaa-4ef1c7b0917f@1a81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de légumes\n- Sauté de sanglier aux airelles\n- Tagliatelles et brocolis\n- Filet de poisson - sauce normande\n- Tagliatelles et brocolis\n- Gratin de potimarrons aux oignons et comté\n- Salade verte
+DURATION:PT45M
+DTSTART:20241122T111500Z
+SUMMARY:Soupe de légumes\, Sauté de sanglier aux airelles\, Tagliatelles et brocolis\, Filet de poisson - sauce normande\, Tagliatelles et brocolis\, Gratin de potimarrons aux oignons et comté\, Salade verte
+UID:c5f97028-fbed-4ec1-b63e-131f816e51e6@c5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe aux choux et pommes de terre\n- Cassoulet (porc et canard)\n- Haricots blancs à la tomate et ail\n- Cuisse de pintade à la choucroute et aux pruneaux\n- Pommes de terre vapeur\n- Escalope de blé - sauce fromagère\n- Coquillettes bio et trio de légumes allumettes\n- Muffin au chocolat
+DURATION:PT45M
+DTSTART:20241118T111500Z
+SUMMARY:Soupe aux choux et pommes de terre\, Cassoulet (porc et canard)\, Haricots blancs à la tomate et ail\, Cuisse de pintade à la choucroute et aux pruneaux\, Pommes de terre vapeur\, Escalope de blé - sauce fromagère\, Coquillettes bio et trio de légumes allumettes\, Muffin au chocolat
+UID:b9b8fb6e-eacd-458a-887e-e59b77878e15@b9b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Emincé de dinde à la chinoise\n- Semoule et poëlée chinoise\n- Omelette bio aux merguez\n- Semoule et poëlée chinoise
+DURATION:PT45M
+DTSTART:20241122T181500Z
+SUMMARY:Soupe offerte\, Emincé de dinde à la chinoise\, Semoule et poëlée chinoise\, Omelette bio aux merguez\, Semoule et poëlée chinoise
+UID:70ba0cf3-b6e0-4fb0-b670-76c805d19a32@70ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe au pistou\n- Haricot d'agneau\n- Quiche lorraine (porc)\n- Salade verte\n- Curry basmati bio et pois chiche
+DURATION:PT45M
+DTSTART:20241206T111500Z
+SUMMARY:Soupe au pistou\, Haricot d'agneau\, Quiche lorraine (porc)\, Salade verte\, Curry basmati bio et pois chiche
+UID:bfd6d2b7-e3ac-462a-ab24-326a4b63a176@bfd6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Soupe offerte\n- Poulet sauté chasseur\n- Petits pois aux oignons\n- Tortellonni à la ricotta et tomates séchées
 DURATION:PT45M
 DTSTART:20241126T181500Z
 SUMMARY:Soupe offerte\, Poulet sauté chasseur\, Petits pois aux oignons\, Tortellonni à la ricotta et tomates séchées
-UID:b1469f5d-a319-4d61-9fa3-291dbd2e8955@b146.org
+UID:5d24bef4-9246-4e4b-ab44-27dfdce305e5@5d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de brocolis pommes de terre\n- Rosbeef - sauce aux 3 poivres\n- Omelette bio aux oignons et poireaux
+DURATION:PT45M
+DTSTART:20241207T111500Z
+SUMMARY:Soupe de brocolis pommes de terre\, Rosbeef - sauce aux 3 poivres\, Omelette bio aux oignons et poireaux
+UID:6f92723c-84ca-4f64-89a3-209824f70f0e@6f92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Tartiflette aux lardons\n- Salade verte\n- Flammekueche aux poireaux et champignons\n- Salade verte
+DURATION:PT45M
+DTSTART:20241203T181500Z
+SUMMARY:Soupe offerte\, Tartiflette aux lardons\, Salade verte\, Flammekueche aux poireaux et champignons\, Salade verte
+UID:eab62908-98ec-4599-9ca6-bad285e4e8eb@eab6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Soupe de courgettes à la\n- Escalope de poulet à la crème\n- Coquillettes bio et poëlée de 4 légumes\n- Langue de boeuf ou andouillette sauce piquante\n- Coquillettes bio et poëlée de 4 légumes\n- Ravioli au chèvre et huile d'olive
 DURATION:PT45M
 DTSTART:20241202T111500Z
 SUMMARY:Soupe de courgettes à la\, Escalope de poulet à la crème\, Coquillettes bio et poëlée de 4 légumes\, Langue de boeuf ou andouillette sauce piquante\, Coquillettes bio et poëlée de 4 légumes\, Ravioli au chèvre et huile d'olive
-UID:487822b1-e12b-4cdc-b60c-394e7d99e6cb@4878.org
+UID:8ffc7a36-843e-4254-b901-ffc66eaa99ff@8ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de brocolis\n- Fajitas au boeuf\n- Salade coleslaw et haricots rouges\n- Filet de poisson - sauce normande\n- Tagliatelles et brocolis\n- Fajitas végétariennes aux légumes et pois\n- Salade coleslaw et haricots rouges
+DURATION:PT45M
+DTSTART:20241129T111500Z
+SUMMARY:Soupe de brocolis\, Fajitas au boeuf\, Salade coleslaw et haricots rouges\, Filet de poisson - sauce normande\, Tagliatelles et brocolis\, Fajitas végétariennes aux légumes et pois\, Salade coleslaw et haricots rouges
+UID:002e9b3e-3f9d-4a08-b0e3-b8afa641c1f8@002e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Velouté de carottes\n- Tajine d'agneau aux pruneaux\n- Semoule de couscous bio et ratatouille\n- Filet de colin\n- Pommes de terre vapeur et épinards à la crème\n- Tourte aux légumes d'hiver\n- Salade verte
+DURATION:PT45M
+DTSTART:20241203T111500Z
+SUMMARY:Velouté de carottes\, Tajine d'agneau aux pruneaux\, Semoule de couscous bio et ratatouille\, Filet de colin\, Pommes de terre vapeur et épinards à la crème\, Tourte aux légumes d'hiver\, Salade verte
+UID:1c1e3118-d456-43eb-bb28-8fa1ff4c7a40@1c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Velouté de champignons\n- Goulash de boeuf au paprika\n- Coquillettes et 4 légumes\n- Escalope de dinde forestière\n- Coquillettes et 4 légumes\n- Gratin de ratatouille au reblochon et polenta\n- Salade verte
+DURATION:PT45M
+DTSTART:20241125T111500Z
+SUMMARY:Velouté de champignons\, Goulash de boeuf au paprika\, Coquillettes et 4 légumes\, Escalope de dinde forestière\, Coquillettes et 4 légumes\, Gratin de ratatouille au reblochon et polenta\, Salade verte
+UID:12003922-2e6c-4f29-809d-46cc0847c008@1200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Galette de saucisse fumée\n- Pommes de terre vapeur et salade verte\n- Crêpe forestière et oeuf poché\n- Pommes de terre vapeur et salade verte
+DURATION:PT45M
+DTSTART:20241130T181500Z
+SUMMARY:Soupe offerte\, Galette de saucisse fumée\, Pommes de terre vapeur et salade verte\, Crêpe forestière et oeuf poché\, Pommes de terre vapeur et salade verte
+UID:d10b4c3e-3b1c-49fe-be89-75bd670f5dc3@d10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Potage de panais et carottes\n- Blanquette de veau (fr) à l'ancienne\n- Riz bio et poëlée méridionale\n- Calamars au lait de coco et curry\n- Riz bio et poëlée méridionale\n- Chili végétarien au cheddar\n- Riz bio
+DURATION:PT45M
+DTSTART:20241119T111500Z
+SUMMARY:Potage de panais et carottes\, Blanquette de veau (fr) à l'ancienne\, Riz bio et poëlée méridionale\, Calamars au lait de coco et curry\, Riz bio et poëlée méridionale\, Chili végétarien au cheddar\, Riz bio
+UID:1308ec7f-6d80-49fa-9032-0a026e405a6c@1308.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Sauté de porc au cidre et pommes\n- Riz bio et fondue de poireaux\n- Pizza\n- Salade verte
+DURATION:PT45M
+DTSTART:20241118T181500Z
+SUMMARY:Soupe offerte\, Sauté de porc au cidre et pommes\, Riz bio et fondue de poireaux\, Pizza\, Salade verte
+UID:89536ba3-0a94-4e9c-9e41-4a04b093ed82@8953.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de carottes et ananas\n- Jambon rôti aux herbes sauce piquante\n- Frites et poëlée de salsifis et potimarron\n- Fish & chips  - sauce tartare\n- Frites et poëlée de salsifis et potimarron\n- Omelette forestière\n- Frites et poëlée de salsifis et potimarron
+DURATION:PT45M
+DTSTART:20241127T111500Z
+SUMMARY:Soupe de carottes et ananas\, Jambon rôti aux herbes sauce piquante\, Frites et poëlée de salsifis et potimarron\, Fish & chips  - sauce tartare\, Frites et poëlée de salsifis et potimarron\, Omelette forestière\, Frites et poëlée de salsifis et potimarron
+UID:b9b10edf-0ae8-42b8-9407-df0073f35e4f@b9b1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Velouté de pois cassés\n- Potée au chou et au porc\n- Pavé de poisson à la bordelaise\n- Riz madras et poëlée maraîchère\n- Lasagnes aux légumes d'hiver\n- Salade verte
 DURATION:PT45M
 DTSTART:20241126T111500Z
 SUMMARY:Velouté de pois cassés\, Potée au chou et au porc\, Pavé de poisson à la bordelaise\, Riz madras et poëlée maraîchère\, Lasagnes aux légumes d'hiver\, Salade verte
-UID:a449520c-11b3-47f5-bda3-a2e143179e2e@a449.org
+UID:81e6f306-8629-4d78-b6b8-b2456916744e@81e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de duo de courgettes\n- Rosbeef - sauce poivre 5 baies\n- Frites et poëlée bretonne\n- Omelette au fromage\n- Frites et poëlée bretonne
+DURATION:PT45M
+DTSTART:20241130T111500Z
+SUMMARY:Soupe de duo de courgettes\, Rosbeef - sauce poivre 5 baies\, Frites et poëlée bretonne\, Omelette au fromage\, Frites et poëlée bretonne
+UID:0d761b2a-b6a9-44ce-8de3-b49a7c8cfdc6@0d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Potage poireaux pommes de terre\n- Rôti de veau orloff\n- Pommes de terre boulangère\n- Bouchée aux moules\, crevettes et poireaux\n- Riz bio et poëlée campagnarde\n- Quiche aux champignons comté et brocolis\n- Salade verte
+DURATION:PT45M
+DTSTART:20241204T111500Z
+SUMMARY:Potage poireaux pommes de terre\, Rôti de veau orloff\, Pommes de terre boulangère\, Bouchée aux moules\, crevettes et poireaux\, Riz bio et poëlée campagnarde\, Quiche aux champignons comté et brocolis\, Salade verte
+UID:69e28f59-6ddd-4e91-ba03-059e391983e8@69e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Cordon bleu de dinde\n- Samoussa de légumes
+DURATION:PT45M
+DTSTART:20241206T181500Z
+SUMMARY:Soupe offerte\, Cordon bleu de dinde\, Samoussa de légumes
+UID:82925bf6-baef-437b-8e8f-34c9704654d2@8292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe à l'oignon (croûtons et fromage)\n- Pot-au-feu  au boeuf\n- Galette de blé noir - saucisse fumée (porc)\n- Pommes de terre vapeur et poëlée maraichère\n- Tarte à l'oignon aux poireaux et reblochon\n- Salade verte
+DURATION:PT45M
+DTSTART:20241121T111500Z
+SUMMARY:Soupe à l'oignon (croûtons et fromage)\, Pot-au-feu  au boeuf\, Galette de blé noir - saucisse fumée (porc)\, Pommes de terre vapeur et poëlée maraichère\, Tarte à l'oignon aux poireaux et reblochon\, Salade verte
+UID:87208b69-03f6-4a95-9b13-3fd350228e70@8720.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Cote de porc marinée à la moutarde\, miel et sauce soja\n- Frites et poëlée chinoise\n- Pané de blé tomate et mozarella - sauce tomate italienne\n- Frites et poëlée chinoise
+DURATION:PT45M
+DTSTART:20241128T181500Z
+SUMMARY:Soupe offerte\, Cote de porc marinée à la moutarde\, miel et sauce soja\, Frites et poëlée chinoise\, Pané de blé tomate et mozarella - sauce tomate italienne\, Frites et poëlée chinoise
+UID:5dc61b4c-c6c5-487a-b964-2d2a0b91faa2@5dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Crème de potimarrons bio\n- Steak haché du boucher sauce 5 baies\n- Frites et haricots verts à l'ail\n- Moëlleux de poulet aux marrons et raisins - sauce au curry et thym\n- Frites et haricots verts à l'ail\n- Crêpe de blé noir forestière et oeuf poché\n- Frites et haricots verts à l'ail
+DURATION:PT45M
+DTSTART:20241205T111500Z
+SUMMARY:Crème de potimarrons bio\, Steak haché du boucher sauce 5 baies\, Frites et haricots verts à l'ail\, Moëlleux de poulet aux marrons et raisins - sauce au curry et thym\, Frites et haricots verts à l'ail\, Crêpe de blé noir forestière et oeuf poché\, Frites et haricots verts à l'ail
+UID:024e80ec-7d4b-4e7f-bddf-47284a746bfc@024e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de poireaux et pommes de terre\n- Pain pita au kebab sauce blanche\n- Frites et épinards à la crème\n- Filet de limande meunière beurre citronné\n- Frites et épinards à la crème\n- Omelette bio aux algues et champignons\n- Frites et épinards à la crème
+DURATION:PT45M
+DTSTART:20241120T111500Z
+SUMMARY:Soupe de poireaux et pommes de terre\, Pain pita au kebab sauce blanche\, Frites et épinards à la crème\, Filet de limande meunière beurre citronné\, Frites et épinards à la crème\, Omelette bio aux algues et champignons\, Frites et épinards à la crème
+UID:bd23890d-73e5-4bdf-97fc-49041b21c352@bd23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Spaghettis carbonara (porc)\n- Spaghettis aux légumes d'hivers et pesto
+DURATION:PT45M
+DTSTART:20241119T181500Z
+SUMMARY:Soupe offerte\, Spaghettis carbonara (porc)\, Spaghettis aux légumes d'hivers et pesto
+UID:f7c29eb6-3d31-4dbc-88d3-f07182ea735f@f7c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de légumes\n- Steak haché de boeuf - sauce au poivre vert\n- Frites et haricots plats\n- Nuggets de blé croustillants\n- Frites et haricots plats
+DURATION:PT45M
+DTSTART:20241123T111500Z
+SUMMARY:Soupe de légumes\, Steak haché de boeuf - sauce au poivre vert\, Frites et haricots plats\, Nuggets de blé croustillants\, Frites et haricots plats
+UID:bb8650a4-8793-4cdc-b641-4fe600fd7c7d@bb86.org
 END:VEVENT
 END:VCALENDAR
