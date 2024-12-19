@@ -2,367 +2,395 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Saucisse fumée sauce moutarde\n- Frites et julienne de légumes\n- Filet de limande meunière\n- Frites et julienne de légumes\n- Frites et julienne de légumes\n- Omelette bio au fromage végétarienne\n- Frites et julienne de légumes
-DURATION:PT45M
-DTSTART:20241214T111500Z
-SUMMARY:Saucisse fumée sauce moutarde\, Frites et julienne de légumes\, Filet de limande meunière\, Frites et julienne de légumes\, Frites et julienne de légumes\, Omelette bio au fromage végétarienne\, Frites et julienne de légumes
-UID:a04641c1-f64f-46e8-a1d8-39b6d424c46a@a046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de petits pois\n- Cervelas obernois (porc)\n- Purée de pomme de terre et légumes
+DESCRIPTION:- Soupe de petits pois\n- Purée de pomme de terre et légumes\n- Calamars sautés en persillade
 DURATION:PT45M
 DTSTART:20241220T111500Z
-SUMMARY:Soupe de petits pois\, Cervelas obernois (porc)\, Purée de pomme de terre et légumes
-UID:a582f070-5204-4dbc-a666-816d4c648704@a582.org
+SUMMARY:Soupe de petits pois\, Purée de pomme de terre et légumes\, Calamars sautés en persillade
+UID:690bbf48-85dd-4f69-bc85-90a5b03aa95a@690b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Potage de panais et carottes
+DESCRIPTION:- Soupe de carottes à l'ananas et au gingembre\n- Jambon braisé sauce moutarde aux oignons\n- Frites et poëlée de salsifis et potimarron\n- Fish & chips sauce tartare\n- Frites et poëlée de salsifis et potimarron\n- Omelette bio forestière\n- Frites et poëlée de salsifis et potimarron
 DURATION:PT45M
-DTSTART:20250114T111500Z
-SUMMARY:Potage de panais et carottes
-UID:3e67e2b7-2d17-438b-96ee-1964fcf14bbc@3e67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe "berbère" aux légumes\n- Raclette et sa brochette de charcuterie\n- Pommes de terre vitelotte brocolis\n- Pavé de poisson aux cêpes\n- Riz\, carottes et chou vert\n- Pâtes bio à la fêta et aux haricots rouges
-DURATION:PT45M
-DTSTART:20250110T111500Z
-SUMMARY:Soupe "berbère" aux légumes\, Raclette et sa brochette de charcuterie\, Pommes de terre vitelotte brocolis\, Pavé de poisson aux cêpes\, Riz\, carottes et chou vert\, Pâtes bio à la fêta et aux haricots rouges
-UID:285b33a0-2196-4621-bad0-6c2d8e580b1a@285b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pour les vacances
-DURATION:PT45M
-DTSTART:20241221T111500Z
-SUMMARY:Le rak est fermé pour les vacances
-UID:e88cb706-f673-4e43-846b-0c9fe4c1d1c0@e88c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Steak haché sauce au poivre vert\n- Pommes de terre sautées et brocolis\n- Nuggets de blé croustillants\n- Pommes de terre sautées et brocolis
-DURATION:PT45M
-DTSTART:20250110T181500Z
-SUMMARY:Soupe offerte\, Steak haché sauce au poivre vert\, Pommes de terre sautées et brocolis\, Nuggets de blé croustillants\, Pommes de terre sautées et brocolis
-UID:81e9628b-a30b-4ceb-969d-044987f22f2e@81e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte
-DURATION:PT45M
-DTSTART:20250115T181500Z
-SUMMARY:Soupe offerte
-UID:a299a267-2798-4686-a626-cd70c87a843b@a299.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de chou vert et pomme de terre
-DURATION:PT45M
-DTSTART:20250113T111500Z
-SUMMARY:Soupe de chou vert et pomme de terre
-UID:7208fbb1-c975-4669-b634-b69a5e616ce9@7208.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe d'épinards et pommes de terre\n- Saucisse de roscoff aux oignons rosés\n- Chou vert et pommes de terre\n- Dos de colin aux agrumes\n- Riz et brocolis\n- Bouchée\n- Riz et brocolis
-DURATION:PT45M
-DTSTART:20250107T111500Z
-SUMMARY:Soupe d'épinards et pommes de terre\, Saucisse de roscoff aux oignons rosés\, Chou vert et pommes de terre\, Dos de colin aux agrumes\, Riz et brocolis\, Bouchée\, Riz et brocolis
-UID:3973703c-110f-4bf2-81ab-8b07a3e0641d@3973.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes d'hiver
-DURATION:PT45M
-DTSTART:20250117T111500Z
-SUMMARY:Soupe de légumes d'hiver
-UID:c27f5b61-09da-4c4c-a209-622779f32e5a@c27f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Feuilleté au jambon et lardons\n- Poëlée de nouilles asiatiques et salade verte\n- Galette "veggie" au quinoa à la provençale\n- Poëlée de nouilles asiatiques et salade verte
-DURATION:PT45M
-DTSTART:20241214T181500Z
-SUMMARY:Soupe offerte\, Feuilleté au jambon et lardons\, Poëlée de nouilles asiatiques et salade verte\, Galette "veggie" au quinoa à la provençale\, Poëlée de nouilles asiatiques et salade verte
-UID:ecdf9acf-8833-4c85-8a3c-e8cd5874aa95@ecdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de butternuts\n- Bavette (fr) de boeuf à l'échalote\n- Frites et haricots verts à l'ail\n- Poisson pané à la tomate sauce tomate\n- Frites et haricots verts à l'ail\n- Tarte aux endives\, chèvre et miel\n- Salade verte
-DURATION:PT45M
-DTSTART:20250108T111500Z
-SUMMARY:Soupe de butternuts\, Bavette (fr) de boeuf à l'échalote\, Frites et haricots verts à l'ail\, Poisson pané à la tomate sauce tomate\, Frites et haricots verts à l'ail\, Tarte aux endives\, chèvre et miel\, Salade verte
-UID:441a8fe9-7107-400c-a2f1-1fa82016d2ab@441a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Nems au poulet\n- Riz cantonnais\n- Nems aux légumes\n- Riz cantonnais
-DURATION:PT45M
-DTSTART:20241219T181500Z
-SUMMARY:Soupe offerte\, Nems au poulet\, Riz cantonnais\, Nems aux légumes\, Riz cantonnais
-UID:50127d3d-f5ab-465e-85ed-ea58ff211dba@5012.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20241227T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:cb87edfb-08c6-422c-aed2-d5a9975ede05@cb87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20241225T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:fbcdfe79-5fbe-4bd2-9abe-817f2560d9d9@fbcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20250103T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:89c42d89-7923-4de2-9917-0c95af428205@89c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Osso bucco de dinde à la tunisienne\n- Tagliatelles et brocolis
-DURATION:PT45M
-DTSTART:20241218T181500Z
-SUMMARY:Soupe offerte\, Osso bucco de dinde à la tunisienne\, Tagliatelles et brocolis
-UID:f236c2a8-3bba-473e-bc71-c12918e0f321@f236.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250118T181500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:6f382ca2-0812-4c10-ab6e-4f2e74853d25@6f38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20241231T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:2aaea7dd-d0b0-4ce7-bbf9-bfc7f007bed5@2aae.org
+DTSTART:20250122T111500Z
+SUMMARY:Soupe de carottes à l'ananas et au gingembre\, Jambon braisé sauce moutarde aux oignons\, Frites et poëlée de salsifis et potimarron\, Fish & chips sauce tartare\, Frites et poëlée de salsifis et potimarron\, Omelette bio forestière\, Frites et poëlée de salsifis et potimarron
+UID:b69fd67f-9436-4272-9f10-e1241379b99e@b69f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
 DURATION:PT45M
 DTSTART:20241224T111500Z
 SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:8810280e-2bdc-4ebe-9018-c377b491286d@8810.org
+UID:8b1ae9e2-5dd4-4b24-b4c3-b23400b20a89@8b1a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Soupe de carottes et lait coco\n- Tajine d'agneau aux amandes\n- Semoule de couscous et ratatouille\n- Boudin noir ou boudin blanc aux pommes\n- Purée - choux de bruxelles\n- Totellini ricotta et epinards - sauce tomate et basilic
-DURATION:PT45M
-DTSTART:20241216T111500Z
-SUMMARY:Soupe de carottes et lait coco\, Tajine d'agneau aux amandes\, Semoule de couscous et ratatouille\, Boudin noir ou boudin blanc aux pommes\, Purée - choux de bruxelles\, Totellini ricotta et epinards - sauce tomate et basilic
-UID:6e8a7fac-b0d6-42e2-b95f-6994bd3fe9c4@6e8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de poireaux-pomme de terre
-DURATION:PT45M
-DTSTART:20250115T111500Z
-SUMMARY:Soupe de poireaux-pomme de terre
-UID:b8175e47-1f7f-4e1a-8030-b45e5f410376@b817.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte
-DURATION:PT45M
-DTSTART:20250114T181500Z
-SUMMARY:Soupe offerte
-UID:d06f529f-4345-40c9-97ef-5b234f4585e8@d06f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte
-DURATION:PT45M
-DTSTART:20250116T181500Z
-SUMMARY:Soupe offerte
-UID:9b1421d2-5b33-4e87-88b7-f2fe538431ae@9b14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20250104T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:299301f2-3435-46c4-b471-e7ad3dd46be1@2993.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250118T111500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:e1448b38-7eff-4fb6-8579-8fbaf9cfeb13@e144.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20241228T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:baa5a600-f2f9-4b24-aecb-e8d4065e756b@baa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Pizza au jambon et lardons\n- Salade verte\n- Pizza aux 4 fromages\n- Salade verte\n- Brochette de dinde à l'orientale\n- Petits pois aux oignons
-DURATION:PT45M
-DTSTART:20250109T181500Z
-SUMMARY:Soupe offerte\, Pizza au jambon et lardons\, Salade verte\, Pizza aux 4 fromages\, Salade verte\, Brochette de dinde à l'orientale\, Petits pois aux oignons
-UID:789a27f3-b9a1-48c9-a897-b1e9e21c96e3@789a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Hamburger au boeuf\n- Frites et haricots verts à l'ail\n- Hamburger au blé\, à la tomate et mozarella\n- Frites et haricots verts à l'ail
-DURATION:PT45M
-DTSTART:20241217T181500Z
-SUMMARY:Soupe offerte\, Hamburger au boeuf\, Frites et haricots verts à l'ail\, Hamburger au blé\, à la tomate et mozarella\, Frites et haricots verts à l'ail
-UID:6a938ec3-50a8-49c4-8059-7b85c7e1cdb0@6a93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de pois cassés\n- Couscous d'hiver aux 3 viandes\n- Semoule aux raisins\n- Omelette bio aux tomates séchées et poivrons marinés\n- Printanière de légumes
-DURATION:PT45M
-DTSTART:20250109T111500Z
-SUMMARY:Soupe de pois cassés\, Couscous d'hiver aux 3 viandes\, Semoule aux raisins\, Omelette bio aux tomates séchées et poivrons marinés\, Printanière de légumes
-UID:e0558621-9104-44bf-bb41-5572e7f087e9@e055.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Quiche lorraine (porc)\n- Salade verte\n- Galette de quinoa à la provençale\n- Riz et carottes
-DURATION:PT45M
-DTSTART:20250111T181500Z
-SUMMARY:Soupe offerte\, Quiche lorraine (porc)\, Salade verte\, Galette de quinoa à la provençale\, Riz et carottes
-UID:a7283553-f8b8-41be-8870-b95b1aef893c@a728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20250101T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:cad74c26-2c75-4487-a5e6-3a1c68238a08@cad7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe d'épinards à la crème\n- Hachis au chorizo et à la tomate\n- Salade verte\n- Calamars sautés en persillade\n- Riz pilaf et carottes 2 couleurs\n- Pâtes bio au potimarron et pois gourmands
-DURATION:PT45M
-DTSTART:20241217T111500Z
-SUMMARY:Soupe d'épinards à la crème\, Hachis au chorizo et à la tomate\, Salade verte\, Calamars sautés en persillade\, Riz pilaf et carottes 2 couleurs\, Pâtes bio au potimarron et pois gourmands
-UID:8e8d2e10-1978-4394-8f7d-9b6806d0039a@8e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de brocolis et pomme de terre\n- Moëlleux de poulet farci aux girolles\n- Frites et haricots plats à l'ail\n- Omelette bio aux oignons et poireaux\n- Frites et haricots plats à l'ail\n- Tarte aux carottes râpées et potimarron\n- Salade verte
+DESCRIPTION:- Soupe de brocolis et pomme de terre\n- Moëlleux de poulet farci aux girolles\n- Frites et haricots plats à l'ail\n- Tarte aux carottes râpées et potimarron\n- Salade verte
 DURATION:PT45M
 DTSTART:20241219T111500Z
-SUMMARY:Soupe de brocolis et pomme de terre\, Moëlleux de poulet farci aux girolles\, Frites et haricots plats à l'ail\, Omelette bio aux oignons et poireaux\, Frites et haricots plats à l'ail\, Tarte aux carottes râpées et potimarron\, Salade verte
-UID:a53a4f5d-cb89-4396-a718-57ad1b86b194@a53a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Filet de poulet à l'espagnole\n- Semoule bio et légumes ratatouille\n- Bruschetta au potimarron & mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20241213T181500Z
-SUMMARY:Soupe offerte\, Filet de poulet à l'espagnole\, Semoule bio et légumes ratatouille\, Bruschetta au potimarron & mozarella\, Salade verte
-UID:567043dd-6ef8-4ed4-acd5-4f926e59b75a@5670.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte
-DURATION:PT45M
-DTSTART:20250113T181500Z
-SUMMARY:Soupe offerte
-UID:4733031f-2fbe-4c44-8ded-949ca663dcf5@4733.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Spaghettis à la bolognaise\n- Spaghettis aux artichauts et à la ricotta
-DURATION:PT45M
-DTSTART:20241216T181500Z
-SUMMARY:Soupe offerte\, Spaghettis à la bolognaise\, Spaghettis aux artichauts et à la ricotta
-UID:7e8310c2-d179-478c-b120-4a1741285e92@7e83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pour les vacances
-DURATION:PT45M
-DTSTART:20241221T181500Z
-SUMMARY:Le rak est fermé pour les vacances
-UID:89db0f9b-e110-40c3-a426-258455492165@89db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte
-DURATION:PT45M
-DTSTART:20250117T181500Z
-SUMMARY:Soupe offerte
-UID:ab3aa3a7-e6dc-4372-9be1-24e880e19a9b@ab3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de poisson et homard\n- Rissolette de veau - sauce foie gras\n- Tagliatelles & poëlée de 4 légumes\n- Dos de colin au coulis de poivrons rouges\n- Riz  sauvage\n- Steak de quinoa\n- Pommes de terre boulangère
-DURATION:PT45M
-DTSTART:20241213T111500Z
-SUMMARY:Soupe de poisson et homard\, Rissolette de veau - sauce foie gras\, Tagliatelles & poëlée de 4 légumes\, Dos de colin au coulis de poivrons rouges\, Riz  sauvage\, Steak de quinoa\, Pommes de terre boulangère
-UID:f11c8f8c-a0d7-4718-a72c-b346f5ef5c23@f11c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe offerte\n- Lamelles de kebab sauce blanche\n- Frites - haricots plats\n- Omelette au fromage\n- Frites - haricots plats
-DURATION:PT45M
-DTSTART:20250107T181500Z
-SUMMARY:Soupe offerte\, Lamelles de kebab sauce blanche\, Frites - haricots plats\, Omelette au fromage\, Frites - haricots plats
-UID:d91cc05d-1833-475b-ab7d-b1321c9eacd3@d91c.org
+SUMMARY:Soupe de brocolis et pomme de terre\, Moëlleux de poulet farci aux girolles\, Frites et haricots plats à l'ail\, Tarte aux carottes râpées et potimarron\, Salade verte
+UID:40252388-5041-470e-a711-31f940622bf7@4025.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
 DURATION:PT45M
-DTSTART:20250102T111500Z
+DTSTART:20241225T111500Z
 SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:298584b5-d90b-4ee1-8932-b4796f64dff1@2985.org
+UID:1d41908b-e553-4584-86f5-9b882061e5ac@1d41.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Soupe à l'oignon (croûtons et fromage)
+DESCRIPTION:- Soupe offerte\n- Steak haché sauce au poivre vert\n- Pommes de terre sautées et brocolis\n- Nuggets de blé croustillants\n- Pommes de terre sautées et brocolis
 DURATION:PT45M
-DTSTART:20250116T111500Z
-SUMMARY:Soupe à l'oignon (croûtons et fromage)
-UID:0da8cab8-3895-4fa9-b821-3a0d178debd6@0da8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de duo de courgettes\n- Moëlleux de dinde farci aux champignons\n- Riz madras et poëlée de 3 légumes\n- Pavé de poisson à la bordelaise\n- Riz basmati madras et poëlée de 3 légumes\n- Pâtes bio forestières aux poireaux et parmesan
-DURATION:PT45M
-DTSTART:20250106T111500Z
-SUMMARY:Soupe de duo de courgettes\, Moëlleux de dinde farci aux champignons\, Riz madras et poëlée de 3 légumes\, Pavé de poisson à la bordelaise\, Riz basmati madras et poëlée de 3 légumes\, Pâtes bio forestières aux poireaux et parmesan
-UID:f5ef84fb-91ba-4d4e-900f-69913de0a5c1@f5ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe à l'oignon\n- Choucroute (porc)\n- Bouchée de fruits de mer au curry\n- Riz basmati madras\n- Gratin de choux-fleurs et pommes de terre au reblochon\n- Salade verte
-DURATION:PT45M
-DTSTART:20241218T111500Z
-SUMMARY:Soupe à l'oignon\, Choucroute (porc)\, Bouchée de fruits de mer au curry\, Riz basmati madras\, Gratin de choux-fleurs et pommes de terre au reblochon\, Salade verte
-UID:705ba82d-5051-49c8-a9a6-fa442212755f@705b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20241223T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:30e5fa14-6c1c-46c3-9b52-accd5c48e853@30e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20241226T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:e5e8f68c-9c0d-417b-b181-b376edb3ae06@e5e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20241220T181500Z
-SUMMARY:Le rak est fermé ce soir
-UID:cfbd6f58-7c1c-4069-99af-1da9afd7de75@cfbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
-DURATION:PT45M
-DTSTART:20241230T111500Z
-SUMMARY:Le rak est fermé pendant les vacances scolaires
-UID:e77c85ae-7799-455e-bd19-02edb372a63d@e77c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Crème de potimarrons bio\n- Cuisse de poulet au curry et lait de coco\n- Frites et julienne de légumes\n- Omelette bio aux oignons persillés\n- Frites et julienne de légumes
-DURATION:PT45M
-DTSTART:20250111T111500Z
-SUMMARY:Crème de potimarrons bio\, Cuisse de poulet au curry et lait de coco\, Frites et julienne de légumes\, Omelette bio aux oignons persillés\, Frites et julienne de légumes
-UID:ece3db8e-ead8-44e0-a52d-4d1caaa055fe@ece3.org
+DTSTART:20250110T181500Z
+SUMMARY:Soupe offerte\, Steak haché sauce au poivre vert\, Pommes de terre sautées et brocolis\, Nuggets de blé croustillants\, Pommes de terre sautées et brocolis
+UID:ba557b79-e4be-4865-a377-a67ca9bd641b@ba55.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Soupe offerte\n- Lasagnes à la bolognaise\n- Salade verte\n- Lasagnes aux épinards et à la mozarella\n- Salade verte
 DURATION:PT45M
 DTSTART:20250108T181500Z
 SUMMARY:Soupe offerte\, Lasagnes à la bolognaise\, Salade verte\, Lasagnes aux épinards et à la mozarella\, Salade verte
-UID:d95c27a0-66e5-4009-adfd-4e3e91697126@d95c.org
+UID:dcb9757a-4603-413f-8858-a05259d50c60@dcb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe d'épinards et pommes de terre\n- Saucisse de roscoff aux oignons rosés\n- Chou vert et pommes de terre\n- Dos de colin aux agrumes\n- Riz et brocolis\n- Bouchée\n- Riz et brocolis
+DURATION:PT45M
+DTSTART:20250107T111500Z
+SUMMARY:Soupe d'épinards et pommes de terre\, Saucisse de roscoff aux oignons rosés\, Chou vert et pommes de terre\, Dos de colin aux agrumes\, Riz et brocolis\, Bouchée\, Riz et brocolis
+UID:dbfb491a-3333-48d6-8d17-ca9f7ad182e6@dbfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20250103T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:c2b95cd1-a8b1-4668-91f2-e754f35e7ecb@c2b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de duo de courgettes\n- Moëlleux de dinde farci aux champignons\n- Riz madras et poëlée de légumes wok\n- Pavé de poisson à la bordelaise\n- Riz basmati madras et poëlée de légumes wok\n- Pâtes bio forestières aux poireaux et parmesan
+DURATION:PT45M
+DTSTART:20250106T111500Z
+SUMMARY:Soupe de duo de courgettes\, Moëlleux de dinde farci aux champignons\, Riz madras et poëlée de légumes wok\, Pavé de poisson à la bordelaise\, Riz basmati madras et poëlée de légumes wok\, Pâtes bio forestières aux poireaux et parmesan
+UID:5304ce1b-6143-4f90-a160-e2d8526bc6c0@5304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte
+DURATION:PT45M
+DTSTART:20250114T181500Z
+SUMMARY:Soupe offerte
+UID:09bee69d-4ddd-4943-95f0-c7072df76c08@09be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250118T181500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:9f16b872-acf4-455c-83b9-9bbdb4d52a81@9f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de poireaux-pomme de terre
+DURATION:PT45M
+DTSTART:20250115T111500Z
+SUMMARY:Soupe de poireaux-pomme de terre
+UID:1b7f7fe4-2cac-46be-b014-5e51a25c95b8@1b7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte
+DURATION:PT45M
+DTSTART:20250113T181500Z
+SUMMARY:Soupe offerte
+UID:00db26ac-8acb-4e0d-90be-52d3036b9b56@00db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250125T111500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:93f358dd-b4ca-4db3-ae57-d020a2a26b1c@93f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Raclette et sa brochette de charcuterie\n- Pommes de terre vitelotte brocolis\n- Pavé de poisson aux cêpes\n- Riz\, carottes et chou vert\n- Pâtes bio à la fêta et aux haricots rouges
+DURATION:PT45M
+DTSTART:20250110T111500Z
+SUMMARY:Soupe\, Raclette et sa brochette de charcuterie\, Pommes de terre vitelotte brocolis\, Pavé de poisson aux cêpes\, Riz\, carottes et chou vert\, Pâtes bio à la fêta et aux haricots rouges
+UID:583cea29-a6c2-42a4-8f49-17fec5a12e67@583c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte
+DURATION:PT45M
+DTSTART:20250117T181500Z
+SUMMARY:Soupe offerte
+UID:22ff26ab-1fbc-4df6-99f2-06adb78c2119@22ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20250101T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:c958fec4-1a8f-46c9-a0f7-990a4ec81f83@c958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Cervelas obernois\n- Semoule et brocolis\n- Sauté agneau\n- Croque au chèvre\, pesto et épinards\n- Salade verte
+DURATION:PT45M
+DTSTART:20241218T181500Z
+SUMMARY:Soupe offerte\, Cervelas obernois\, Semoule et brocolis\, Sauté agneau\, Croque au chèvre\, pesto et épinards\, Salade verte
+UID:b95b6c8e-6d52-4a92-badf-89ad96c7e21c@b95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Crème de potimarrons bio\n- Cuisse de poulet au curry et lait de coco\n- Frites et julienne de légumes\n- Omelette bio aux oignons persillés\n- Frites et julienne de légumes
+DURATION:PT45M
+DTSTART:20250111T111500Z
+SUMMARY:Crème de potimarrons bio\, Cuisse de poulet au curry et lait de coco\, Frites et julienne de légumes\, Omelette bio aux oignons persillés\, Frites et julienne de légumes
+UID:23f4d298-0398-46e5-a568-d77f1d3112a4@23f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte
+DURATION:PT45M
+DTSTART:20250115T181500Z
+SUMMARY:Soupe offerte
+UID:97596013-6b36-49d5-84a9-cf81a2272a65@9759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Lamelles de kebab sauce blanche\n- Frites - haricots plats\n- Omelette au fromage\n- Frites - haricots plats
+DURATION:PT45M
+DTSTART:20250107T181500Z
+SUMMARY:Soupe offerte\, Lamelles de kebab sauce blanche\, Frites - haricots plats\, Omelette au fromage\, Frites - haricots plats
+UID:a9a4c39d-2673-4fda-b84d-54069009a212@a9a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de poisson avec croûtons et fromage\n- Osso bucco de veau aux carottes et à l'orange\n- Spaghetti et poëlée wok\n- Aiguillette de poulet aux olives vertes\n- Spaghetti et poëlée wok\n- Quiche aux poireaux crumble\n- Salade verte
+DURATION:PT45M
+DTSTART:20250123T111500Z
+SUMMARY:Soupe de poisson avec croûtons et fromage\, Osso bucco de veau aux carottes et à l'orange\, Spaghetti et poëlée wok\, Aiguillette de poulet aux olives vertes\, Spaghetti et poëlée wok\, Quiche aux poireaux crumble\, Salade verte
+UID:140346bd-1697-4b66-9211-8649d0fb8072@1403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte
+DURATION:PT45M
+DTSTART:20250116T181500Z
+SUMMARY:Soupe offerte
+UID:2a028248-3f73-4536-a4a6-3c958a316eba@2a02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Cordon bleu de dinde\n- Pommes de terre hongroises au paprika et brocolis\n- Croque au cheddar champignons et oignons\n- Salade verte
+DURATION:PT45M
+DTSTART:20250124T181500Z
+SUMMARY:Soupe offerte\, Cordon bleu de dinde\, Pommes de terre hongroises au paprika et brocolis\, Croque au cheddar champignons et oignons\, Salade verte
+UID:195f2b32-37e5-430a-bef9-44c9cd392659@195f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de chou vert et pomme de terre
+DURATION:PT45M
+DTSTART:20250113T111500Z
+SUMMARY:Soupe de chou vert et pomme de terre
+UID:2610703e-3770-4345-be70-4b3aca3aab9b@2610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20241230T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:6f923011-ecb6-429f-a021-9cf6f9d615ed@6f92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe à l'oignon (croûtons et fromage)
+DURATION:PT45M
+DTSTART:20250116T111500Z
+SUMMARY:Soupe à l'oignon (croûtons et fromage)
+UID:0689e3a6-a6ca-4450-88e6-919c60039897@0689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20241223T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:8cb3ef48-3a4a-4de0-8553-890354a02127@8cb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Nems au poulet\n- Riz cantonnais\n- Nems aux légumes\n- Riz cantonnais
+DURATION:PT45M
+DTSTART:20241219T181500Z
+SUMMARY:Soupe offerte\, Nems au poulet\, Riz cantonnais\, Nems aux légumes\, Riz cantonnais
+UID:787a7814-2ca6-4fe1-8056-99058988f3b1@787a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250125T181500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:015fb5c6-73b7-47e8-b130-1f7b23a7150d@015f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Potage de panais et carottes
+DURATION:PT45M
+DTSTART:20250114T111500Z
+SUMMARY:Potage de panais et carottes
+UID:415686d1-62a8-47e8-8a69-5e84d2549b96@4156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Velouté de champignons\n- Sauté de sanglier aux airelles\n- Coquillettes bio et légumes verts\n- Cuisse de pintade à la choucroute et aux pruneaux\n- Pommes de terre vapeur\n- Gratin de ratatouille à la polenta et reblochon\n- Salade verte
+DURATION:PT45M
+DTSTART:20250120T111500Z
+SUMMARY:Velouté de champignons\, Sauté de sanglier aux airelles\, Coquillettes bio et légumes verts\, Cuisse de pintade à la choucroute et aux pruneaux\, Pommes de terre vapeur\, Gratin de ratatouille à la polenta et reblochon\, Salade verte
+UID:0af8c60a-fc95-49eb-8e32-98b2ca368a09@0af8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Velouté de pois cassés aux carottes\n- Potée auvergnate (porc fr)\n- Légumes d'hiver et pommes de terre\n- Pavé de poisson à la bordelaise\n- Riz bio madras (ananas et raisins)\n- Lasagnes aux légumes d'hiver\n- Salade verte
+DURATION:PT45M
+DTSTART:20250121T111500Z
+SUMMARY:Velouté de pois cassés aux carottes\, Potée auvergnate (porc fr)\, Légumes d'hiver et pommes de terre\, Pavé de poisson à la bordelaise\, Riz bio madras (ananas et raisins)\, Lasagnes aux légumes d'hiver\, Salade verte
+UID:496578ea-c237-4859-afea-2654c3d3f165@4965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de pois cassés\n- Couscous d'hiver aux 3 viandes\n- Semoule aux raisins\n- Omelette bio aux tomates séchées et poivrons marinés\n- Printanière de légumes
+DURATION:PT45M
+DTSTART:20250109T111500Z
+SUMMARY:Soupe de pois cassés\, Couscous d'hiver aux 3 viandes\, Semoule aux raisins\, Omelette bio aux tomates séchées et poivrons marinés\, Printanière de légumes
+UID:b1db13c1-8348-4d9c-9180-c9bdf425095f@b1db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de butternuts\n- Bavette (fr) de boeuf à l'échalote\n- Frites et haricots verts à l'ail\n- Poisson pané à la tomate sauce tomate\n- Frites et haricots verts à l'ail\n- Tarte aux endives\, chèvre et miel\n- Salade verte
+DURATION:PT45M
+DTSTART:20250108T111500Z
+SUMMARY:Soupe de butternuts\, Bavette (fr) de boeuf à l'échalote\, Frites et haricots verts à l'ail\, Poisson pané à la tomate sauce tomate\, Frites et haricots verts à l'ail\, Tarte aux endives\, chèvre et miel\, Salade verte
+UID:50230049-66fd-4d76-9eee-17a616db4e5f@5023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Quiche lorraine (porc)\n- Salade verte\n- Galette de quinoa à la provençale\n- Riz et carottes
+DURATION:PT45M
+DTSTART:20250111T181500Z
+SUMMARY:Soupe offerte\, Quiche lorraine (porc)\, Salade verte\, Galette de quinoa à la provençale\, Riz et carottes
+UID:277f64bc-28bc-4c95-a3b2-cdb826930636@277f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20241231T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:29cc5d3a-2231-4251-b965-083b1db94366@29cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20241228T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:1f410b38-7255-4b51-acfc-0b6491bddd33@1f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20241226T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:389b1abd-9525-4d85-a010-6d0ed7d81d32@389b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Pizza tartiflette au reblochon\n- Salade verte\n- Pizza aux légumes d'hiver et à la mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20250122T181500Z
+SUMMARY:Soupe offerte\, Pizza tartiflette au reblochon\, Salade verte\, Pizza aux légumes d'hiver et à la mozarella\, Salade verte
+UID:34bf520f-2acb-4509-9a10-53963d5d32b4@34bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Galette de blé noir et saucisse fumée (porc)\n- Pommes de terre vapeur - salade verte\n- Crêpe forestière et oeuf poché\n- Pommes de terre vapeur - salade verte
+DURATION:PT45M
+DTSTART:20250123T181500Z
+SUMMARY:Soupe offerte\, Galette de blé noir et saucisse fumée (porc)\, Pommes de terre vapeur - salade verte\, Crêpe forestière et oeuf poché\, Pommes de terre vapeur - salade verte
+UID:45c3fd9c-4062-43ec-a0db-cb17bfb912dc@45c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de duo de courgettes\n- Fajitas au boeuf\n- Salade coleslaw et haricots rouges bio\n- Fajitas aux légumes et pois\n- Salade coleslaw et haricots rouges bio\n- Dos de colin sauce curry et lait de coco\n- Pommes de tere vapeur et carottes
+DURATION:PT45M
+DTSTART:20250124T111500Z
+SUMMARY:Soupe de duo de courgettes\, Fajitas au boeuf\, Salade coleslaw et haricots rouges bio\, Fajitas aux légumes et pois\, Salade coleslaw et haricots rouges bio\, Dos de colin sauce curry et lait de coco\, Pommes de tere vapeur et carottes
+UID:d96bf22c-3c6d-4fd2-84bf-f617813866ef@d96b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Soupe offerte\n- Paupiette de veau aux olives vertes\n- Poëlée de nouilles chinoises & légumes\n- Nems de légumes\n- Poëlée de nouilles chinoises & légumes
 DURATION:PT45M
 DTSTART:20250106T181500Z
 SUMMARY:Soupe offerte\, Paupiette de veau aux olives vertes\, Poëlée de nouilles chinoises & légumes\, Nems de légumes\, Poëlée de nouilles chinoises & légumes
-UID:c39f1ba7-451f-4c82-bc3b-4280d2b934b5@c39f.org
+UID:987d1232-7c29-4e6b-a215-8c8790fea2df@987d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Pizza au jambon et lardons\n- Salade verte\n- Pizza aux 4 fromages\n- Salade verte\n- Brochette de dinde à l'orientale\n- Petits pois aux oignons
+DURATION:PT45M
+DTSTART:20250109T181500Z
+SUMMARY:Soupe offerte\, Pizza au jambon et lardons\, Salade verte\, Pizza aux 4 fromages\, Salade verte\, Brochette de dinde à l'orientale\, Petits pois aux oignons
+UID:e1bbeb86-2f5e-4f2b-b001-414f3fa81f35@e1bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20241220T181500Z
+SUMMARY:Le rak est fermé ce soir
+UID:bfbccd65-b448-43f2-9ce8-8f8f38dbf4c7@bfbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20250102T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:800978e1-ca17-4e4a-a622-01aaf6c17035@8009.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250118T111500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:d5c024ec-eaf3-4d0f-b7b2-b249de8d3828@d5c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe à l'oignon\n- Choucroute (porc)\n- Bouchée de fruits de mer au curry\n- Riz basmati madras\n- Gratin de choux-fleurs et pommes de terre au reblochon\n- Salade verte
+DURATION:PT45M
+DTSTART:20241218T111500Z
+SUMMARY:Soupe à l'oignon\, Choucroute (porc)\, Bouchée de fruits de mer au curry\, Riz basmati madras\, Gratin de choux-fleurs et pommes de terre au reblochon\, Salade verte
+UID:de4ce4d9-7335-4a2d-a12c-cc459e41fb38@de4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Brochette de dinde orientale\n- Purée et petits pois\n- Tortellonni ricotta et épinards - sauce crème aux herbes
+DURATION:PT45M
+DTSTART:20250121T181500Z
+SUMMARY:Soupe offerte\, Brochette de dinde orientale\, Purée et petits pois\, Tortellonni ricotta et épinards - sauce crème aux herbes
+UID:7259ca4f-61cf-4f09-924d-564ffb467571@7259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pour les vacances
+DURATION:PT45M
+DTSTART:20241221T181500Z
+SUMMARY:Le rak est fermé pour les vacances
+UID:20836953-c12d-4fda-b446-23f9b0793b06@2083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20241227T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:82352342-8808-4287-aab5-a646d147f62f@8235.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pendant les vacances scolaires
+DURATION:PT45M
+DTSTART:20250104T111500Z
+SUMMARY:Le rak est fermé pendant les vacances scolaires
+UID:82c24efb-2dbb-429e-9462-65d0099b0725@82c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe offerte\n- Rougail de saucisses de porc(fr)\n- Riz et poëlée wok\n- Rougail végétariennne\n- Riz et poëlée wok
+DURATION:PT45M
+DTSTART:20250120T181500Z
+SUMMARY:Soupe offerte\, Rougail de saucisses de porc(fr)\, Riz et poëlée wok\, Rougail végétariennne\, Riz et poëlée wok
+UID:df1f9d31-838d-4c23-b559-4918b34c4d78@df1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé pour les vacances
+DURATION:PT45M
+DTSTART:20241221T111500Z
+SUMMARY:Le rak est fermé pour les vacances
+UID:703eaaca-92d7-4262-91f9-b7193ad16c95@703e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de légumes d'hiver
+DURATION:PT45M
+DTSTART:20250117T111500Z
+SUMMARY:Soupe de légumes d'hiver
+UID:c9cccae2-6177-4924-a1b2-3ab2b930b616@c9cc.org
 END:VEVENT
 END:VCALENDAR
