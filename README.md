@@ -5,7 +5,7 @@
 
 This project was designed to import menus from the restaurant [RAK Plouzané](http://services.imt-atlantique.fr/rak/) into its iOS calendar. It is therefore mainly intended for IMT Atlantique Brest students.
 
-The calendar is refreshed every Monday at 8 AM.
+The calendar is refreshed every 2 days at 6 AM.
 
 
 ## Import the calendar
