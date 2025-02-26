@@ -12,7 +12,7 @@ The calendar is refreshed every 2 days at 6 AM.
 
 To use the ICS calendar and get the menus in your calendar (on your iPhone for example) :
 
-**1st method - Easiest way (recommanded) :**
+**1st method - Easiest way (recommanded) :**<br />
 Just click on the next button, it will redirect you to the iCal URL and automatically open the calendar in your app :<br /><br />
 [![Static Badge](https://img.shields.io/badge/Click_to_import-g?style=flat&logo=Google%20Calendar&logoColor=white&label=ICS%20Calendar)](http://jordanbmrd.github.io/ical-rak-menu/menus.ics)
 
