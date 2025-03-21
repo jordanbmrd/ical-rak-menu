@@ -19,7 +19,7 @@ Just click on the next button, it will redirect you to the iCal URL and automati
 **2nd method - Add a new Mail account :**
 1. Go to `Settings > Mail > Accounts`.
 2. Add an account by selecting `Other` and `Add Subscrived Calendar`.
-3. Add the ICS Calendar URL : `https://jordanbmrd.github.io/ical-rak-menu/` and leave other default parameters.
+3. Add the ICS Calendar URL : `https://jordanbmrd.github.io/ical-rak-menu/menus.ics` and leave other default parameters.
 
 This configuration will allow the calendar to refresh by itself.
 It should be almost the same configuration for Android or other OS.
