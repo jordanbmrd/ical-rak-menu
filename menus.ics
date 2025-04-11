@@ -2,129 +2,108 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
+DESCRIPTION:- Jambonette de dinde confite sauce au poivre\n- Purée et brocolis\n- Omelette à l'espagnole\n- Purée et brocolis
 DURATION:PT45M
-DTSTART:20250412T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:40d49cc4-e02d-49fc-8ef3-7545b2827984@40d4.org
+DTSTART:20250418T171500Z
+SUMMARY:Jambonette de dinde confite sauce au poivre\, Purée et brocolis\, Omelette à l'espagnole\, Purée et brocolis
+UID:6f08554c-42ee-46e2-8284-0d22180701c9@6f08.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Bouchée aux fruits de mer\n- Emincé de boeuf aux poivrons\n- Gratin dauphinois\n- Coq à la bière\n- Gratin dauphinois et trio de légumes bio\n- Quiche aux poivrons et à la fêta\n- Salade verte
 DURATION:PT45M
 DTSTART:20250417T101500Z
 SUMMARY:Bouchée aux fruits de mer\, Emincé de boeuf aux poivrons\, Gratin dauphinois\, Coq à la bière\, Gratin dauphinois et trio de légumes bio\, Quiche aux poivrons et à la fêta\, Salade verte
-UID:ac48243d-1463-4202-b273-2bf35e7ee132@ac48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartine au tomate et bleu\n- Fajitas au poulet\n- Salade coleslaw haricots rouges\n- Fajitas aux légumes et pois bio\n- Salade coleslaw haricots rouges\n- Dos de colin au curry et lait de coco\n- Riz et carottes
-DURATION:PT45M
-DTSTART:20250418T101500Z
-SUMMARY:Tartine au tomate et bleu\, Fajitas au poulet\, Salade coleslaw haricots rouges\, Fajitas aux légumes et pois bio\, Salade coleslaw haricots rouges\, Dos de colin au curry et lait de coco\, Riz et carottes
-UID:21f309ab-38d6-4ece-b0e6-6c7091c7704f@21f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Jambonette de dinde confite sauce au poivre\n- Purée et brocolis\n- Omelette à l'espagnole\n- Purée et brocolis
-DURATION:PT45M
-DTSTART:20250418T171500Z
-SUMMARY:Jambonette de dinde confite sauce au poivre\, Purée et brocolis\, Omelette à l'espagnole\, Purée et brocolis
-UID:0fcf4630-15b8-401b-9271-73051506de7d@0fcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Paupiette de veau sauce colombo\n- Printanière de légumes\n- Quiche aux poivrons\, tomates et olives\n- Salade verte
-DURATION:PT45M
-DTSTART:20250414T171500Z
-SUMMARY:Paupiette de veau sauce colombo\, Printanière de légumes\, Quiche aux poivrons\, tomates et olives\, Salade verte
-UID:8aec96f3-4cbc-43f0-ad00-55e44ed3be30@8aec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Paëlla au porc et poulet\n- Paëlla végétarienne au riz et légumes
-DURATION:PT45M
-DTSTART:20250410T101500Z
-SUMMARY:Paëlla au porc et poulet\, Paëlla végétarienne au riz et légumes
-UID:c7a753a6-70a7-4957-b5ac-162b12297bd7@c7a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Cuisse de poulet rôtie sauce crème champignons\n- Frites et brocolis\n- Bruchetta aux tomates\, oignons et mozzarella\n- Frites et salade verte
-DURATION:PT45M
-DTSTART:20250409T101500Z
-SUMMARY:Cuisse de poulet rôtie sauce crème champignons\, Frites et brocolis\, Bruchetta aux tomates\, oignons et mozzarella\, Frites et salade verte
-UID:4d4854a1-3e74-4a53-94f9-f7fbc28a3920@4d48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250412T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:661d3b98-634a-45c2-9e30-973175cae3e7@661d.org
+UID:d3587c0c-94d6-4f9f-b697-30da099485e6@d358.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Croque monsieur (jambon)\n- Merguez grillées\n- Semoule et ratatouille\n- Filet de lieu sauce dieppoise\n- Semoule de couscous et ratatouille\n- Pizza aux légumes grillés et oeuf poché
 DURATION:PT45M
 DTSTART:20250415T101500Z
 SUMMARY:Croque monsieur (jambon)\, Merguez grillées\, Semoule et ratatouille\, Filet de lieu sauce dieppoise\, Semoule de couscous et ratatouille\, Pizza aux légumes grillés et oeuf poché
-UID:34c2556a-b7fb-4f9a-a2bb-6cc3937c21f9@34c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Travers de porc sauce barbecue\n- Spaghettis et choux de bruxelles\n- Poivron rouge farci au blé\, maïs et ricotta\n- Spaghettis
-DURATION:PT45M
-DTSTART:20250408T101500Z
-SUMMARY:Travers de porc sauce barbecue\, Spaghettis et choux de bruxelles\, Poivron rouge farci au blé\, maïs et ricotta\, Spaghettis
-UID:7c2fb36b-e65e-4531-a7ae-c040f474f11d@7c2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartelette aux oignons\n- Pilons de poulet à la mexicaine\n- Frites et poëlée wok\n- Andouillette de porc à la moutarde\n- Frites et poëlée wok\n- Omelette forestière\n- Frites et poëlée wok
-DURATION:PT45M
-DTSTART:20250416T101500Z
-SUMMARY:Tartelette aux oignons\, Pilons de poulet à la mexicaine\, Frites et poëlée wok\, Andouillette de porc à la moutarde\, Frites et poëlée wok\, Omelette forestière\, Frites et poëlée wok
-UID:f7677879-8314-4c3b-a827-cbdd15bdaa45@f767.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Emincé de dinde mariné au thym et citron\n- Pommes de terre au four et légumes verts\n- Brick de légumes\n- Pommes de terre au four
-DURATION:PT45M
-DTSTART:20250416T171500Z
-SUMMARY:Emincé de dinde mariné au thym et citron\, Pommes de terre au four et légumes verts\, Brick de légumes\, Pommes de terre au four
-UID:c5bab335-b538-4c36-bd9e-a5c2ec123b59@c5ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Navarin d'agneau printanier\n- Risotto aux courgettes - oignons et parmesan\n- Salade verte
-DURATION:PT45M
-DTSTART:20250411T101500Z
-SUMMARY:Navarin d'agneau printanier\, Risotto aux courgettes - oignons et parmesan\, Salade verte
-UID:5265f7a0-452d-4fd9-bd43-892a5d765ffa@5265.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Spaghetti bolognaise\n- Spaghetti aux fèves\, curry et légumes
-DURATION:PT45M
-DTSTART:20250415T171500Z
-SUMMARY:Spaghetti bolognaise\, Spaghetti aux fèves\, curry et légumes
-UID:683bf34a-cc7c-4125-b0f0-9cabe93e0283@683b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250419T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:856b105f-baaa-4e50-8fd6-b5f0257fbbd0@856b.org
+UID:c0d55d4d-0c39-486a-98f7-bfbd0a8f1f2f@c0d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Hamburger au boeuf\n- Frites et haricots verts à l'ail\n- Hamburger végétal\n- Frites et haricots verts à l'ail
 DURATION:PT45M
 DTSTART:20250417T171500Z
 SUMMARY:Hamburger au boeuf\, Frites et haricots verts à l'ail\, Hamburger végétal\, Frites et haricots verts à l'ail
-UID:61b2d311-ac5a-4e72-a079-21d86f3d5f7c@61b2.org
+UID:1c31a0ca-88e3-4403-b187-ebed6d557562@1c31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250412T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:ffbf23bd-6912-4292-a522-62e4a5666a5b@ffbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de dinde mariné au thym et citron\n- Pommes de terre au four et légumes verts\n- Brick de légumes\n- Pommes de terre au four
+DURATION:PT45M
+DTSTART:20250416T171500Z
+SUMMARY:Emincé de dinde mariné au thym et citron\, Pommes de terre au four et légumes verts\, Brick de légumes\, Pommes de terre au four
+UID:8d72be45-bbee-4318-bf09-2d9c0b61ca58@8d72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartelette aux oignons\n- Pilons de poulet à la mexicaine\n- Frites et poëlée wok\n- Andouillette de porc à la moutarde\n- Frites et poëlée wok\n- Omelette forestière\n- Frites et poëlée wok
+DURATION:PT45M
+DTSTART:20250416T101500Z
+SUMMARY:Tartelette aux oignons\, Pilons de poulet à la mexicaine\, Frites et poëlée wok\, Andouillette de porc à la moutarde\, Frites et poëlée wok\, Omelette forestière\, Frites et poëlée wok
+UID:10ffbefb-699c-490a-9e60-f8288e628a4c@10ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Navarin d'agneau printanier\n- Paella au porc et au poulet\n- Spaghettis aux courgettes  et parmesan\n- Paella légumes
+DURATION:PT45M
+DTSTART:20250411T101500Z
+SUMMARY:Navarin d'agneau printanier\, Paella au porc et au poulet\, Spaghettis aux courgettes  et parmesan\, Paella légumes
+UID:397b4661-7007-4fe5-8e8c-ad327c18fd32@397b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Paupiette de veau sauce colombo\n- Printanière de légumes\n- Quiche aux poivrons\, tomates et olives\n- Salade verte
+DURATION:PT45M
+DTSTART:20250414T171500Z
+SUMMARY:Paupiette de veau sauce colombo\, Printanière de légumes\, Quiche aux poivrons\, tomates et olives\, Salade verte
+UID:ad0a0121-53ef-476f-92a3-f6fc0de974e8@ad0a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Crêpes au fromage\n- Rosbeef-sauce poivre vert\n- Pommes de terre sautées et épinards à la crème\n- Sauté de dinde aux poivrons\n- Pommes de terre sautées et épinards à la crème\n- Gratin de courgettes aux aubergines et cantal\n- Pommes de terre sautées
 DURATION:PT45M
 DTSTART:20250414T101500Z
 SUMMARY:Crêpes au fromage\, Rosbeef-sauce poivre vert\, Pommes de terre sautées et épinards à la crème\, Sauté de dinde aux poivrons\, Pommes de terre sautées et épinards à la crème\, Gratin de courgettes aux aubergines et cantal\, Pommes de terre sautées
-UID:555b214a-d30b-4a98-97d3-8f3b85ccf057@555b.org
+UID:0acde41b-e9cd-4bc7-85ff-35e1201121e3@0acd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250412T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:0ba6bbac-7d5d-49b4-9c52-8ae85e030bda@0ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250419T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:0b52c6c6-925a-4e94-b285-f2e2e5cba5d5@0b52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartine au tomate et bleu\n- Fajitas au poulet\n- Salade coleslaw haricots rouges\n- Fajitas aux légumes et pois bio\n- Salade coleslaw haricots rouges\n- Dos de colin au curry et lait de coco\n- Riz et carottes
+DURATION:PT45M
+DTSTART:20250418T101500Z
+SUMMARY:Tartine au tomate et bleu\, Fajitas au poulet\, Salade coleslaw haricots rouges\, Fajitas aux légumes et pois bio\, Salade coleslaw haricots rouges\, Dos de colin au curry et lait de coco\, Riz et carottes
+UID:cb385ca4-3558-4c87-9ce5-3cec492c8022@cb38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Spaghetti bolognaise\n- Spaghetti aux fèves\, curry et légumes
+DURATION:PT45M
+DTSTART:20250415T171500Z
+SUMMARY:Spaghetti bolognaise\, Spaghetti aux fèves\, curry et légumes
+UID:d19b2ae6-5382-436c-a9e0-cb3fa7840986@d19b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
 DTSTART:20250419T171500Z
 SUMMARY:Le rak est fermé ce week-end
-UID:2524dfbe-3096-4432-a567-eeed2ad72e04@2524.org
+UID:926b08df-e4bd-40ee-adbd-5c849c61c453@926b.org
 END:VEVENT
 END:VCALENDAR
