@@ -2,213 +2,199 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Baguette campagnarde (porc)\n- Sauté de dinde à l'ananas\n- Semoule et poëlée chinoise\n- Andouillette de porc à la moutarde\n- Purée et poëlée chinoise\n- Gratin de courgettes\, tomates et mozarella\n- Salade verte
+DESCRIPTION:- Feuilleté au comté (fromage)\n- Steak de boeuf à l'échalote\n- Frites et poëlée maraichère\n- Fish & chips  - sauce tartare\n- Frites\n- Omelette aux tomates\, oignons et poivrons\n- Frites
 DURATION:PT45M
-DTSTART:20250429T101500Z
-SUMMARY:Baguette campagnarde (porc)\, Sauté de dinde à l'ananas\, Semoule et poëlée chinoise\, Andouillette de porc à la moutarde\, Purée et poëlée chinoise\, Gratin de courgettes\, tomates et mozarella\, Salade verte
-UID:31e000ea-0996-4bad-aa66-ef0cc92c6796@31e0.org
+DTSTART:20250505T101500Z
+SUMMARY:Feuilleté au comté (fromage)\, Steak de boeuf à l'échalote\, Frites et poëlée maraichère\, Fish & chips  - sauce tartare\, Frites\, Omelette aux tomates\, oignons et poivrons\, Frites
+UID:e8b47021-e230-41d8-ab13-072ae2045241@e8b4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
+DESCRIPTION:- Crepe de blé noir légumes\n- Coq à la bière /tajine agneau\n- Riz et julienne de légumes\n- Pavé de poisson à la bordelaise\n- Riz et julienne de légumes\n- Feuilleté aux tomates et poireaux et oignons\n- Salade verte
 DURATION:PT45M
-DTSTART:20250503T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:ff112c6a-aa8e-4797-94b0-ff738f755aca@ff11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour (férié)
-DURATION:PT45M
-DTSTART:20250501T171500Z
-SUMMARY:Le rak est fermé ce jour (férié)
-UID:ad4b0468-6a0a-4042-9946-4e82e53083e0@ad4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Cervelas alsacien (porc)\n- Purée et julienne de légumes\n- Flammekueche aux poireaux et champignons\n- Salade verte
-DURATION:PT45M
-DTSTART:20250430T171500Z
-SUMMARY:Cervelas alsacien (porc)\, Purée et julienne de légumes\, Flammekueche aux poireaux et champignons\, Salade verte
-UID:fc028bfb-33b9-41d5-9352-0383de1e66a0@fc02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Gratin de raviolis au boeuf\n- Brochette de dinde orientale\n- Semoule et ratatouille\n- Tartine tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20250509T101500Z
-SUMMARY:Gratin de raviolis au boeuf\, Brochette de dinde orientale\, Semoule et ratatouille\, Tartine tomate et mozarella\, Salade verte
-UID:00baa805-0025-4b10-b28e-f7a7955e947c@00ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour (férié)
-DURATION:PT45M
-DTSTART:20250501T101500Z
-SUMMARY:Le rak est fermé ce jour (férié)
-UID:10019956-95d1-4127-b2ce-6b1aa999326e@1001.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour (férié)
-DURATION:PT45M
-DTSTART:20250508T171500Z
-SUMMARY:Le rak est fermé ce jour (férié)
-UID:776d4376-42ec-4714-a65b-7d1ca81b5bfa@776d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Feuilleté printanier\n- Escalope de poulet à la crème\n- Riz basmati et poëlée de légumes verts\n- Samoussa de légumes et sauce soja\n- Riz basmati et poëlée de légumes verts
-DURATION:PT45M
-DTSTART:20250502T101500Z
-SUMMARY:Feuilleté printanier\, Escalope de poulet à la crème\, Riz basmati et poëlée de légumes verts\, Samoussa de légumes et sauce soja\, Riz basmati et poëlée de légumes verts
-UID:06273038-a48d-4813-8c06-93acd894b9fc@0627.org
+DTSTART:20250425T101500Z
+SUMMARY:Crepe de blé noir légumes\, Coq à la bière /tajine agneau\, Riz et julienne de légumes\, Pavé de poisson à la bordelaise\, Riz et julienne de légumes\, Feuilleté aux tomates et poireaux et oignons\, Salade verte
+UID:1e0e1cce-034a-4236-8af2-be317a7c128c@1e0e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Bouchée charcutière (porc)\n- Jambon rôti aux herbes sauce au miel et à l'orange\n- Frites - haricots verts à l'ail\n- Filet de poisson meunière au beurre citronné\n- Frites - haricots verts à l'ail\n- Lasagnes au chèvre et aubergines\n- Salade verte
 DURATION:PT45M
 DTSTART:20250430T101500Z
 SUMMARY:Bouchée charcutière (porc)\, Jambon rôti aux herbes sauce au miel et à l'orange\, Frites - haricots verts à l'ail\, Filet de poisson meunière au beurre citronné\, Frites - haricots verts à l'ail\, Lasagnes au chèvre et aubergines\, Salade verte
-UID:5c8228f1-20fe-4046-8209-b6ad6846e902@5c82.org
+UID:83b3c157-432c-4eeb-8b96-65b9120ab9f6@83b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour (férié)
+DURATION:PT45M
+DTSTART:20250508T171500Z
+SUMMARY:Le rak est fermé ce jour (férié)
+UID:03bff010-7486-4615-9623-fb060473aa60@03bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Baguette campagnarde (porc)\n- Sauté de dinde à l'ananas\n- Semoule et poëlée chinoise\n- Andouillette de porc à la moutarde\n- Purée et poëlée chinoise\n- Gratin de courgettes\, tomates et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20250429T101500Z
+SUMMARY:Baguette campagnarde (porc)\, Sauté de dinde à l'ananas\, Semoule et poëlée chinoise\, Andouillette de porc à la moutarde\, Purée et poëlée chinoise\, Gratin de courgettes\, tomates et mozarella\, Salade verte
+UID:874b283d-48cf-44ff-8f62-b35b79c01c42@874b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce soir
 DURATION:PT45M
 DTSTART:20250425T171500Z
 SUMMARY:Le rak est fermé ce soir
-UID:2429559c-1fe8-4d15-9454-deaf617274c8@2429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Sauté de boeuf sauce arachide\n- Poêlée de nouilles asiatiques\n- Quiche aux tomates et poivrons\n- Salade verte
-DURATION:PT45M
-DTSTART:20250424T171500Z
-SUMMARY:Sauté de boeuf sauce arachide\, Poêlée de nouilles asiatiques\, Quiche aux tomates et poivrons\, Salade verte
-UID:8869165e-40b8-4c01-94b2-2eaf53adf325@8869.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250503T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:3227978e-76d5-409b-9857-1cecc388a8ad@3227.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Bruschetta au chèvre et épinards\n- Lasagnes à la bolognaise\n- Salade verte\n- Filet de colin tex mex sauce mexicaine\n- Pennes bio et carottes 2 couleurs
-DURATION:PT45M
-DTSTART:20250506T101500Z
-SUMMARY:Bruschetta au chèvre et épinards\, Lasagnes à la bolognaise\, Salade verte\, Filet de colin tex mex sauce mexicaine\, Pennes bio et carottes 2 couleurs
-UID:a547af6a-b5ed-4265-9654-b05e8d15c6fd@a547.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Pizza à la bolognaise\n- Salade verte\n- Pizza aux poivrons\, pesto et aubergines\n- Salade verte
-DURATION:PT45M
-DTSTART:20250428T171500Z
-SUMMARY:Pizza à la bolognaise\, Salade verte\, Pizza aux poivrons\, pesto et aubergines\, Salade verte
-UID:afafe440-f520-4517-87f0-205b8e575cdf@afaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Riz et julienne de légumes\n- Pavé de poisson à la bordelaise\n- Riz et julienne de légumes\n- Feuilleté aux tomates et poireaux et oignons\n- Salade verte
-DURATION:PT45M
-DTSTART:20250425T101500Z
-SUMMARY:Riz et julienne de légumes\, Pavé de poisson à la bordelaise\, Riz et julienne de légumes\, Feuilleté aux tomates et poireaux et oignons\, Salade verte
-UID:e402daa9-4b7b-4876-9f87-f57ef904ea3b@e402.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Escargots ail champignons\n- Emincé de veau à l'italienne\n- Spaghetti\n- Beignets de calamars à la romaine concassé de tomates\n- Julienne de légumes aux brocolis\n- Tarte aux courgettes et à la fêta\n- Salade verte
-DURATION:PT45M
-DTSTART:20250507T101500Z
-SUMMARY:Escargots ail champignons\, Emincé de veau à l'italienne\, Spaghetti\, Beignets de calamars à la romaine concassé de tomates\, Julienne de légumes aux brocolis\, Tarte aux courgettes et à la fêta\, Salade verte
-UID:4a0d2cc8-76c2-4a63-b1cc-c8fc757efe2d@4a0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Œuf cocotte bacon\n- Gigot /sauté de veau marengo/hachis parmentier\n- Frites et tomate provençale\n- Fish & chips  - sauce tartare\n- Frites et haricots verts aux oignons\n- Omelette bio aux fines herbes\n- Frites et haricots verts aux oignons\n- Moelleux aux fruits confits
-DURATION:PT45M
-DTSTART:20250424T101500Z
-SUMMARY:Œuf cocotte bacon\, Gigot /sauté de veau marengo/hachis parmentier\, Frites et tomate provençale\, Fish & chips  - sauce tartare\, Frites et haricots verts aux oignons\, Omelette bio aux fines herbes\, Frites et haricots verts aux oignons\, Moelleux aux fruits confits
-UID:e6170d1e-dba6-4d0c-b0fa-e953fbb3a8ed@e617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour (férié)
-DURATION:PT45M
-DTSTART:20250508T101500Z
-SUMMARY:Le rak est fermé ce jour (férié)
-UID:cc401b15-5fe2-41c2-9d5d-9c85e8d3aeed@cc40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Osso bucco de dinde (fr) à la tunisienne\n- Semoule et ratatouille\n- Panini au cheddar et légumes grillés\n- Semoule et ratatouille
-DURATION:PT45M
-DTSTART:20250506T171500Z
-SUMMARY:Osso bucco de dinde (fr) à la tunisienne\, Semoule et ratatouille\, Panini au cheddar et légumes grillés\, Semoule et ratatouille
-UID:3e94592d-c6a9-4562-8a37-3bdc20c949e1@3e94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Nems au poulet et sauce soja\n- Riz bio cantonnais - poëlée chinoise
-DURATION:PT45M
-DTSTART:20250505T171500Z
-SUMMARY:Nems au poulet et sauce soja\, Riz bio cantonnais - poëlée chinoise
-UID:ec17773d-7650-4c1c-8510-01359f944c67@ec17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Feuilleté au comté (fromage)\n- Steak de boeuf à l'échalote\n- Frites et poëlée maraichère\n- Fish & chips  - sauce tartare\n- Frites\n- Omelette aux tomates\, oignons et poivrons\n- Frites
-DURATION:PT45M
-DTSTART:20250505T101500Z
-SUMMARY:Feuilleté au comté (fromage)\, Steak de boeuf à l'échalote\, Frites et poëlée maraichère\, Fish & chips  - sauce tartare\, Frites\, Omelette aux tomates\, oignons et poivrons\, Frites
-UID:890398ff-8111-43bb-a09e-d12e58b3533c@8903.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250426T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:e1d33e98-7751-4ae0-a871-b8b4395e5ab1@e1d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Poulet à la grecque\n- Coquillettes et brocolis\n- Omelette aux oignons\, cheddar et tomate\n- Coquillettes et brocolis
-DURATION:PT45M
-DTSTART:20250429T171500Z
-SUMMARY:Poulet à la grecque\, Coquillettes et brocolis\, Omelette aux oignons\, cheddar et tomate\, Coquillettes et brocolis
-UID:3cf8d4d1-16b4-4bc7-848f-8f6722f687b9@3cf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250509T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:bda42586-a0c5-43dc-bbd6-a08cfcc5e743@bda4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250510T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:7a47d561-1a39-4c84-946a-b0ed22168824@7a47.org
+UID:cf31ac6f-2d81-4c86-9d17-560ed7f496f7@cf31.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce soir
 DURATION:PT45M
 DTSTART:20250502T171500Z
 SUMMARY:Le rak est fermé ce soir
-UID:2f537bd5-6de4-432a-871f-c7c3912ef2d5@2f53.org
+UID:57fae956-a045-4e16-8542-e71935418935@57fa.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Salade oeuf poché - tomates et croûtons\n- Spaghetti carbonara (porc)\n- Poisson pané à la tomate\n- Riz madras et poélée wok\n- Spaghetti aux artichauts\, poivrons\, amandes et à la ricotta
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250510T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:5729355c-aa20-4521-94a9-9eb9d143d611@5729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Poulet à la grecque\n- Coquillettes et brocolis\n- Omelette aux oignons\, cheddar et tomate\n- Coquillettes et brocolis
+DURATION:PT45M
+DTSTART:20250429T171500Z
+SUMMARY:Poulet à la grecque\, Coquillettes et brocolis\, Omelette aux oignons\, cheddar et tomate\, Coquillettes et brocolis
+UID:73da4c88-63f4-4beb-9c19-bad04d5d6dd8@73da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Bruschetta au chèvre et épinards\n- Lasagnes à la bolognaise\n- Salade verte\n- Filet de colin tex mex sauce mexicaine\n- Pennes bio et carottes 2 couleurs
+DURATION:PT45M
+DTSTART:20250506T101500Z
+SUMMARY:Bruschetta au chèvre et épinards\, Lasagnes à la bolognaise\, Salade verte\, Filet de colin tex mex sauce mexicaine\, Pennes bio et carottes 2 couleurs
+UID:fb4c9281-cae1-4215-8252-aab4541276ef@fb4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Gratin de raviolis au boeuf\n- Brochette de dinde orientale\n- Semoule et ratatouille\n- Tartine tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20250509T101500Z
+SUMMARY:Gratin de raviolis au boeuf\, Brochette de dinde orientale\, Semoule et ratatouille\, Tartine tomate et mozarella\, Salade verte
+UID:7d50808d-8c8d-4d91-8ea6-de1eb8981b2c@7d50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour (férié)
+DURATION:PT45M
+DTSTART:20250508T101500Z
+SUMMARY:Le rak est fermé ce jour (férié)
+UID:830e6229-e198-47ce-b7ec-83ed5731c693@830e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250503T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:a81709b5-b93a-4c7f-8f5c-0404be9b67c9@a817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Feuilleté printanier\n- Escalope de poulet à la crème\n- Riz basmati et poëlée de légumes verts\n- Samoussa de légumes et sauce soja\n- Riz basmati et poëlée de légumes verts
+DURATION:PT45M
+DTSTART:20250502T101500Z
+SUMMARY:Feuilleté printanier\, Escalope de poulet à la crème\, Riz basmati et poëlée de légumes verts\, Samoussa de légumes et sauce soja\, Riz basmati et poëlée de légumes verts
+UID:f344708c-9e3e-4f86-8aea-a076e08c76d4@f344.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250426T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:8065b9d1-5e6c-4d16-b330-7724dc406104@8065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Escargots ail champignons\n- Emincé de veau à l'italienne\n- Spaghetti\n- Beignets de calamars à la romaine concassé de tomates\n- Julienne de légumes aux brocolis\n- Tarte aux courgettes et à la fêta\n- Salade verte
+DURATION:PT45M
+DTSTART:20250507T101500Z
+SUMMARY:Escargots ail champignons\, Emincé de veau à l'italienne\, Spaghetti\, Beignets de calamars à la romaine concassé de tomates\, Julienne de légumes aux brocolis\, Tarte aux courgettes et à la fêta\, Salade verte
+UID:cc401a3d-eb2b-4aaf-9c7c-e6a42c729f0d@cc40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Nems au poulet et sauce soja\n- Riz bio cantonnais - poëlée chinoise
+DURATION:PT45M
+DTSTART:20250505T171500Z
+SUMMARY:Nems au poulet et sauce soja\, Riz bio cantonnais - poëlée chinoise
+UID:b72fa452-b4a8-44ec-8ec1-f218e11906e8@b72f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour (férié)
+DURATION:PT45M
+DTSTART:20250501T171500Z
+SUMMARY:Le rak est fermé ce jour (férié)
+UID:197970f5-6e03-406c-9eb5-86bd9778c9de@1979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour (férié)
+DURATION:PT45M
+DTSTART:20250501T101500Z
+SUMMARY:Le rak est fermé ce jour (férié)
+UID:7cb79335-8c6c-44fe-9a04-ff64301085e7@7cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Salade oeuf poché - tomates et croûtons\n- Spaghetti carbonara (porc)\n- Poisson pané à la tomate\n- Riz madras et poélée wok\n- Spaghetti aux artichauts\, poivrons\, amandes et au cheddar
 DURATION:PT45M
 DTSTART:20250428T101500Z
-SUMMARY:Salade oeuf poché - tomates et croûtons\, Spaghetti carbonara (porc)\, Poisson pané à la tomate\, Riz madras et poélée wok\, Spaghetti aux artichauts\, poivrons\, amandes et à la ricotta
-UID:5f7dad76-c0d1-4c22-92e5-5b63024896e7@5f7d.org
+SUMMARY:Salade oeuf poché - tomates et croûtons\, Spaghetti carbonara (porc)\, Poisson pané à la tomate\, Riz madras et poélée wok\, Spaghetti aux artichauts\, poivrons\, amandes et au cheddar
+UID:d0c4c4ab-8e23-49ec-b10d-bb9940680948@d0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Cervelas alsacien (porc)\n- Purée et julienne de légumes\n- Flammekueche aux poireaux et champignons\n- Salade verte
+DURATION:PT45M
+DTSTART:20250430T171500Z
+SUMMARY:Cervelas alsacien (porc)\, Purée et julienne de légumes\, Flammekueche aux poireaux et champignons\, Salade verte
+UID:daa4de8c-3aec-4067-bcc9-bd0d33e80653@daa4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
 DTSTART:20250426T101500Z
 SUMMARY:Le rak est fermé ce week-end
-UID:014760dd-7422-4b0d-9857-4b36d464fa8b@0147.org
+UID:8c65b00b-60fd-4131-94ef-69f8d6fb9e4b@8c65.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Cordon bleu de dinde - sauce tomate\n- Pommes de terre au four / poëlée méridionale\n- Nuggets de blé croustillants\n- Pommes de terre au four / poëlée méridionale
 DURATION:PT45M
 DTSTART:20250507T171500Z
 SUMMARY:Cordon bleu de dinde - sauce tomate\, Pommes de terre au four / poëlée méridionale\, Nuggets de blé croustillants\, Pommes de terre au four / poëlée méridionale
-UID:7e009ebc-ef05-4992-bfe5-ef2f8b92acad@7e00.org
+UID:dab62a47-df6d-4ba7-af8e-d39a0e2c72c6@dab6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Osso bucco de dinde (fr) à la tunisienne\n- Semoule et ratatouille\n- Panini au cheddar et légumes grillés\n- Semoule et ratatouille
+DURATION:PT45M
+DTSTART:20250506T171500Z
+SUMMARY:Osso bucco de dinde (fr) à la tunisienne\, Semoule et ratatouille\, Panini au cheddar et légumes grillés\, Semoule et ratatouille
+UID:25cf6624-67e6-4d55-b19f-8e6506c6c297@25cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Pizza à la bolognaise\n- Salade verte\n- Pizza aux poivrons\, pesto et aubergines\n- Salade verte
+DURATION:PT45M
+DTSTART:20250428T171500Z
+SUMMARY:Pizza à la bolognaise\, Salade verte\, Pizza aux poivrons\, pesto et aubergines\, Salade verte
+UID:1a96472d-2c1f-411f-8eae-86730162644f@1a96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250503T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:72564126-c4af-4d1e-9b8a-3187dc877e7f@7256.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20250509T171500Z
+SUMMARY:Le rak est fermé ce soir
+UID:df92413e-6911-4427-bff2-1783e5d5a035@df92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
 DTSTART:20250510T171500Z
 SUMMARY:Le rak est fermé ce week-end
-UID:478c20a9-5e49-4772-a1a9-d22b6c81fef9@478c.org
+UID:db917d8b-7903-4fc5-a157-60f7de331138@db91.org
 END:VEVENT
 END:VCALENDAR
