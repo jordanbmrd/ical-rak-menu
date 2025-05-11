@@ -2,115 +2,115 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Salade de gésiers de volaille\n- Brochette de dinde orientale\n- Semoule et poêlée de légumes\n- Quiche courgettes et féta\n- Salade verte
+DESCRIPTION:- Gratin de coquillettes au jambon\n- Steak haché sauce au bleu\n- Frites et épinards à la crème\n- Fish and chips sauce tartare\n- Frites\n- Omelette aux oignons et poivrons marinés\n- Frites
 DURATION:PT45M
-DTSTART:20250509T101500Z
-SUMMARY:Salade de gésiers de volaille\, Brochette de dinde orientale\, Semoule et poêlée de légumes\, Quiche courgettes et féta\, Salade verte
-UID:e04d66f1-00c9-42fc-b2b3-375aad206164@e04d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250517T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:2cd912a1-886b-4c2b-b4bb-d3401c2fabef@2cd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Pain pita au kebab sauce blanche\n- Frites et haricots verts à l'ail\n- Pain pita végétal\n- Frites
-DURATION:PT45M
-DTSTART:20250515T171500Z
-SUMMARY:Pain pita au kebab sauce blanche\, Frites et haricots verts à l'ail\, Pain pita végétal\, Frites
-UID:4b1c9529-8981-48ed-b2ca-52f9ebdf7ec5@4b1c.org
+DTSTART:20250514T101500Z
+SUMMARY:Gratin de coquillettes au jambon\, Steak haché sauce au bleu\, Frites et épinards à la crème\, Fish and chips sauce tartare\, Frites\, Omelette aux oignons et poivrons marinés\, Frites
+UID:cb334f57-e1ac-48c2-a8f2-a1e95ef122e9@cb33.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Cordon bleu de dinde à la sauce tomate\n- Petits pois aux oignons\n- Tortilla aux oeufs et pommes de terre\n- Pain tomaté et salade verte
 DURATION:PT45M
 DTSTART:20250516T171500Z
 SUMMARY:Cordon bleu de dinde à la sauce tomate\, Petits pois aux oignons\, Tortilla aux oeufs et pommes de terre\, Pain tomaté et salade verte
-UID:ee3af9fc-0424-4825-b8c7-e8ab8432401d@ee3a.org
+UID:302c0881-31ae-4e64-b914-c9eb19dd685b@302c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
+DESCRIPTION:- Pain pita au kebab sauce blanche\n- Frites et haricots verts à l'ail\n- Pain pita végétal\n- Frites
 DURATION:PT45M
-DTSTART:20250510T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:20c55cb6-b1cd-4350-adc8-efe7b0fc70b6@20c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Aiguillettes de poulet panées au curry\n- Purée et brocolis\n- Lasagnes aux légumes et pesto\n- Purée et brocolis
-DURATION:PT45M
-DTSTART:20250513T171500Z
-SUMMARY:Aiguillettes de poulet panées au curry\, Purée et brocolis\, Lasagnes aux légumes et pesto\, Purée et brocolis
-UID:7f868c0a-d977-4483-a3db-6439ebe32c42@7f86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Pizza aux merguez et chorizo\n- Salade verte\n- Pizza aux légumes grillés et mozarella\n- Salade verte\n- Saucisse fumée\n- Poêlée de nouilles asiatiques
-DURATION:PT45M
-DTSTART:20250512T171500Z
-SUMMARY:Pizza aux merguez et chorizo\, Salade verte\, Pizza aux légumes grillés et mozarella\, Salade verte\, Saucisse fumée\, Poêlée de nouilles asiatiques
-UID:146075a2-791c-4957-8f63-4e3ee276f24b@1460.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Gratin de coquillettes au jambon\n- Steak haché sauce au bleu\n- Frites et épinards à la crème\n- Fish and chips sauce tartare\n- Frites\n- Omelette aux oignons et poivrons marinés\n- Frites
-DURATION:PT45M
-DTSTART:20250514T101500Z
-SUMMARY:Gratin de coquillettes au jambon\, Steak haché sauce au bleu\, Frites et épinards à la crème\, Fish and chips sauce tartare\, Frites\, Omelette aux oignons et poivrons marinés\, Frites
-UID:174da23f-7a09-41b7-a0cf-729cae42e569@174d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Jambonettes de poulet confites\n- Pommes de terre hongroises\n- Ravioli aux légumes du soleil
-DURATION:PT45M
-DTSTART:20250514T171500Z
-SUMMARY:Jambonettes de poulet confites\, Pommes de terre hongroises\, Ravioli aux légumes du soleil
-UID:3b113039-c912-4777-a158-85b83fa8f007@3b11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Moules au curry\n- Couscous aux 3 viandes\n- Semoule aux raisins\n- Bouchée végétalienne aux courgettes et champignons\n- Riz aux légumes
-DURATION:PT45M
-DTSTART:20250515T101500Z
-SUMMARY:Moules au curry\, Couscous aux 3 viandes\, Semoule aux raisins\, Bouchée végétalienne aux courgettes et champignons\, Riz aux légumes
-UID:e99d0333-dfd3-42cb-baf6-cb8537d75537@e99d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartelette aux oignons et champignons\n- Rôti de veau forestière\n- Purée et carottes\n- Pavé de poisson aux cêpes\n- Purée et carottes\n- Tourte aux légumes\n- Salade verte
-DURATION:PT45M
-DTSTART:20250516T101500Z
-SUMMARY:Tartelette aux oignons et champignons\, Rôti de veau forestière\, Purée et carottes\, Pavé de poisson aux cêpes\, Purée et carottes\, Tourte aux légumes\, Salade verte
-UID:9ebe4b7c-92f7-437b-b961-635e9d16d761@9ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250509T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:11e101d0-6892-4e7f-96c5-9b7ce9c219ee@11e1.org
+DTSTART:20250515T171500Z
+SUMMARY:Pain pita au kebab sauce blanche\, Frites et haricots verts à l'ail\, Pain pita végétal\, Frites
+UID:5ebf8cca-2c62-4b8e-ab1a-ea0d8a2b8cdb@5ebf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
 DTSTART:20250517T101500Z
 SUMMARY:Le rak est fermé ce week-end
-UID:f78e21b0-a364-439c-8c6b-1d8ff9f147f3@f78e.org
+UID:c8fb13f2-fc75-4452-9e41-cee0236208df@c8fb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Tartine à la tomate et au reblochon\n- Manchons de canard confits sauce au poivre vert\n- Riz et poëlée maraîchère\n- Filet de poisson meunière au beurre citronné\n- Riz\n- Chili végétarien au cheddar râpé
+DESCRIPTION:- Le rak est fermé ce soir
 DURATION:PT45M
-DTSTART:20250513T101500Z
-SUMMARY:Tartine à la tomate et au reblochon\, Manchons de canard confits sauce au poivre vert\, Riz et poëlée maraîchère\, Filet de poisson meunière au beurre citronné\, Riz\, Chili végétarien au cheddar râpé
-UID:2f0b89e1-0496-4529-98d5-184d69a60808@2f0b.org
+DTSTART:20250509T171500Z
+SUMMARY:Le rak est fermé ce soir
+UID:f6a102ed-4838-4234-85e8-a916db5d16a9@f6a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartelette aux oignons et champignons\n- Rôti de veau forestière\n- Purée et carottes\n- Pavé de poisson aux cêpes\n- Purée et carottes\n- Tourte aux légumes\n- Salade verte
+DURATION:PT45M
+DTSTART:20250516T101500Z
+SUMMARY:Tartelette aux oignons et champignons\, Rôti de veau forestière\, Purée et carottes\, Pavé de poisson aux cêpes\, Purée et carottes\, Tourte aux légumes\, Salade verte
+UID:4333131c-0246-4e53-bf77-27686b1d0865@4333.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
 DTSTART:20250510T101500Z
 SUMMARY:Le rak est fermé ce week-end
-UID:dec80338-9cd0-4a52-a47a-130d8852733d@dec8.org
+UID:5f3a04e1-cffc-47d9-a109-4505213e9c4b@5f3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Salade de gésiers de volaille\n- Brochette de dinde orientale\n- Semoule et poêlée de légumes\n- Quiche courgettes et féta\n- Salade verte
+DURATION:PT45M
+DTSTART:20250509T101500Z
+SUMMARY:Salade de gésiers de volaille\, Brochette de dinde orientale\, Semoule et poêlée de légumes\, Quiche courgettes et féta\, Salade verte
+UID:faf899b2-30ab-4424-ba10-6f0eeb4c4b59@faf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartine à la tomate et au reblochon\n- Manchons de canard confits sauce au poivre vert\n- Riz et poëlée maraîchère\n- Filet de poisson meunière au beurre citronné\n- Riz\n- Chili végétarien au cheddar râpé
+DURATION:PT45M
+DTSTART:20250513T101500Z
+SUMMARY:Tartine à la tomate et au reblochon\, Manchons de canard confits sauce au poivre vert\, Riz et poëlée maraîchère\, Filet de poisson meunière au beurre citronné\, Riz\, Chili végétarien au cheddar râpé
+UID:e7f102da-5491-4f4e-8633-42a3caa62256@e7f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Moules au curry\n- Couscous aux 3 viandes\n- Semoule aux raisins\n- Bouchée végétalienne aux courgettes et champignons\n- Riz aux légumes
+DURATION:PT45M
+DTSTART:20250515T101500Z
+SUMMARY:Moules au curry\, Couscous aux 3 viandes\, Semoule aux raisins\, Bouchée végétalienne aux courgettes et champignons\, Riz aux légumes
+UID:330d3bbe-e009-40ff-9e7b-78755ec60f7c@330d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250510T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:adfab2a8-279b-453c-9c92-fbff5327a83d@adfa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Pizza au chèvre et miel\n- Sauté de boeuf à la provençale\n- Coquillettes et poëlée méridionale\n- Poisson pané sauce tomate\n- Coquillettes\n- Boul'lentilles et sarrasin - sauce tomate au basilic\n- Coquillettes
 DURATION:PT45M
 DTSTART:20250512T101500Z
 SUMMARY:Pizza au chèvre et miel\, Sauté de boeuf à la provençale\, Coquillettes et poëlée méridionale\, Poisson pané sauce tomate\, Coquillettes\, Boul'lentilles et sarrasin - sauce tomate au basilic\, Coquillettes
-UID:01558687-af26-4a61-a17c-dac9c4adb257@0155.org
+UID:bdf6ba66-3c59-4d05-9cc9-55c9a0f95930@bdf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Aiguillettes de poulet panées au curry\n- Purée et brocolis\n- Lasagnes aux légumes et pesto\n- Purée et brocolis
+DURATION:PT45M
+DTSTART:20250513T171500Z
+SUMMARY:Aiguillettes de poulet panées au curry\, Purée et brocolis\, Lasagnes aux légumes et pesto\, Purée et brocolis
+UID:ccdea5d1-be38-4663-93cb-b0d9cd8fa65c@ccde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250517T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:6eb35c28-c23e-4e53-b8c9-c3ae8f3f2137@6eb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Jambonettes de poulet confites\n- Pommes de terre hongroises\n- Ravioli aux légumes du soleil
+DURATION:PT45M
+DTSTART:20250514T171500Z
+SUMMARY:Jambonettes de poulet confites\, Pommes de terre hongroises\, Ravioli aux légumes du soleil
+UID:39ebe66c-bebf-4bf9-b3be-4c1ea60adec7@39eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Pizza aux merguez et chorizo\n- Salade verte\n- Pizza aux légumes grillés et mozarella\n- Salade verte\n- Saucisse fumée\n- Poêlée de nouilles asiatiques
+DURATION:PT45M
+DTSTART:20250512T171500Z
+SUMMARY:Pizza aux merguez et chorizo\, Salade verte\, Pizza aux légumes grillés et mozarella\, Salade verte\, Saucisse fumée\, Poêlée de nouilles asiatiques
+UID:97130647-7c2f-4dcd-b5e4-77737609292d@9713.org
 END:VEVENT
 END:VCALENDAR
