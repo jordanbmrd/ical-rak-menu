@@ -2,129 +2,115 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Calamars à la romaine au citron\n- Sot-ly-laisse de dinde rôtis au miel & thym\n- Semoule de couscous et ratatouille\n- Poisson pané sauce tomate\n- Semoule de couscous et ratatouille\n- Pâtes bio 3 couleurs aux courgettes et champignons
-DURATION:PT45M
-DTSTART:20250519T101500Z
-SUMMARY:Calamars à la romaine au citron\, Sot-ly-laisse de dinde rôtis au miel & thym\, Semoule de couscous et ratatouille\, Poisson pané sauce tomate\, Semoule de couscous et ratatouille\, Pâtes bio 3 couleurs aux courgettes et champignons
-UID:135f31e4-0ff6-4c8f-b556-405d1b3616eb@135f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Croque monsieur (jambon)\n- Salade verte\n- Croque madame (tomate et oeuf)\n- Salade verte
-DURATION:PT45M
-DTSTART:20250522T171500Z
-SUMMARY:Croque monsieur (jambon)\, Salade verte\, Croque madame (tomate et oeuf)\, Salade verte
-UID:1a18e18a-7e44-423e-9d6e-68c47518198d@1a18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250524T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:f59eee1b-fe33-40c4-aa7f-bf39148e9dac@f59e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250517T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:eaad2d2c-d9c8-4867-b59e-6346bc319463@eaad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250517T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:a901f8f5-2839-412f-99e6-97f357f53855@a901.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:- Croissant au jambon\n- Steak haché sauce 5 baies\n- Frites et brocolis\n- Omelette bio aux oignons\, tomates et poivrons\n- Frites\n- Bruschetta à la tomate et mozarella\n- Salade verte
 DURATION:PT45M
 DTSTART:20250521T101500Z
 SUMMARY:Croissant au jambon\, Steak haché sauce 5 baies\, Frites et brocolis\, Omelette bio aux oignons\, tomates et poivrons\, Frites\, Bruschetta à la tomate et mozarella\, Salade verte
-UID:f70fe259-af6a-4a2d-8569-0de985505a52@f70f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartine à la tomate et reblochon\n- Navarin d'agneau printanier\n- Pavé de poisson aux amandes\n- Riz et poêlée de légumes verts\n- Risotto aux courgettes - oignons et parmesan\n- Salade verte
-DURATION:PT45M
-DTSTART:20250523T101500Z
-SUMMARY:Tartine à la tomate et reblochon\, Navarin d'agneau printanier\, Pavé de poisson aux amandes\, Riz et poêlée de légumes verts\, Risotto aux courgettes - oignons et parmesan\, Salade verte
-UID:c3adef54-12dc-4423-8ad9-df0e0ce07395@c3ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250524T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:2b4deb13-b079-4f6c-a664-f29a7601c1a1@2b4d.org
+UID:49bd9222-2bae-4120-ba67-e3727ff25f27@49bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Tartelette lorraine (porc)\n- Paëlla au porc et poulet\n- Paëlla végétarienne
 DURATION:PT45M
 DTSTART:20250522T101500Z
 SUMMARY:Tartelette lorraine (porc)\, Paëlla au porc et poulet\, Paëlla végétarienne
-UID:4139139f-8912-437b-a9f9-c0b03765546d@4139.org
+UID:70858358-855f-40fa-871b-15397786c4a1@7085.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Paupiette de veau aux olives vertes\n- Pommes de terre sautées\n- Omelette bio aux oignons et tomates\n- Pommes de terre sautées
+DESCRIPTION:- Tartine à la tomate et reblochon\n- Navarin d'agneau printanier\n- Pavé de poisson aux amandes\n- Riz et poêlée de légumes verts\n- Risotto aux courgettes - oignons et parmesan\n- Salade verte
 DURATION:PT45M
-DTSTART:20250523T171500Z
-SUMMARY:Paupiette de veau aux olives vertes\, Pommes de terre sautées\, Omelette bio aux oignons et tomates\, Pommes de terre sautées
-UID:6caf70bc-7e52-4c7a-b721-8e33afb9a4ae@6caf.org
+DTSTART:20250523T101500Z
+SUMMARY:Tartine à la tomate et reblochon\, Navarin d'agneau printanier\, Pavé de poisson aux amandes\, Riz et poêlée de légumes verts\, Risotto aux courgettes - oignons et parmesan\, Salade verte
+UID:977c72d8-3e3d-4f35-8b2c-a1a97e143c8e@977c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Pain pita au kebab sauce blanche\n- Frites et haricots verts à l'ail\n- Pain pita végétal\n- Frites
+DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
-DTSTART:20250515T171500Z
-SUMMARY:Pain pita au kebab sauce blanche\, Frites et haricots verts à l'ail\, Pain pita végétal\, Frites
-UID:a8305c32-492d-462e-a5f0-e471929f4988@a830.org
+DTSTART:20250517T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:8fa47f7f-5140-40cb-9974-a0edc6616057@8fa4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Escalope de dinde forestière\n- Printanière de légumes\n- Quiche\n- Salade verte
+DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
-DTSTART:20250520T171500Z
-SUMMARY:Escalope de dinde forestière\, Printanière de légumes\, Quiche\, Salade verte
-UID:b659315c-b8da-42e7-812c-772e3a732cd7@b659.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Moules au curry\n- Couscous aux 3 viandes\n- Semoule aux raisins\n- Bouchée végétalienne aux courgettes et champignons\n- Riz aux légumes
-DURATION:PT45M
-DTSTART:20250515T101500Z
-SUMMARY:Moules au curry\, Couscous aux 3 viandes\, Semoule aux raisins\, Bouchée végétalienne aux courgettes et champignons\, Riz aux légumes
-UID:3d11dd65-7307-4e74-bfeb-db10c45bf0f7@3d11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Cordon bleu de dinde à la sauce tomate\n- Petits pois aux oignons\n- Tortilla aux oeufs et pommes de terre\n- Pain tomaté et salade verte
-DURATION:PT45M
-DTSTART:20250516T171500Z
-SUMMARY:Cordon bleu de dinde à la sauce tomate\, Petits pois aux oignons\, Tortilla aux oeufs et pommes de terre\, Pain tomaté et salade verte
-UID:cb07f2a0-8b5b-4a80-bd95-762f475121ec@cb07.org
+DTSTART:20250524T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:97ae92e5-28a8-4a54-a0a9-59ccb50f9f6a@97ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Salade de gésiers de volaille et lardons\n- Travers de porc sauce barbecue\n- Tagliatelles et carottes\n- Filet de limande meunière au beurre citronné\n- Tagliatelles et carottes\n- Poivron rouge farçi au blé et maïs et à la ricotta\n- Tagliatelles
 DURATION:PT45M
 DTSTART:20250520T101500Z
 SUMMARY:Salade de gésiers de volaille et lardons\, Travers de porc sauce barbecue\, Tagliatelles et carottes\, Filet de limande meunière au beurre citronné\, Tagliatelles et carottes\, Poivron rouge farçi au blé et maïs et à la ricotta\, Tagliatelles
-UID:a0f61447-4953-4da8-acd8-dbb93493466e@a0f6.org
+UID:45b587ba-ac04-47fe-99bc-43911de65909@45b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Boul'boeuf aux epices à la sauce tomate au basilic\n- Riz\n- Samoussa de légumes - concassé de tomates\n- Riz et légumes
 DURATION:PT45M
 DTSTART:20250519T171500Z
 SUMMARY:Boul'boeuf aux epices à la sauce tomate au basilic\, Riz\, Samoussa de légumes - concassé de tomates\, Riz et légumes
-UID:c81f3a24-483b-46da-93bf-72149030f855@c81f.org
+UID:cd4402cb-afe7-4b77-9dda-52d0966b8f0b@cd44.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Sauté de porc à la provençale\n- Pommes de terre boulangère\n- Curry au riz basmati bio\, pois chiche et épinards\n- Poêlée wok
 DURATION:PT45M
 DTSTART:20250521T171500Z
 SUMMARY:Sauté de porc à la provençale\, Pommes de terre boulangère\, Curry au riz basmati bio\, pois chiche et épinards\, Poêlée wok
-UID:b037aae3-3857-4c59-aede-ac99a8a7e5ad@b037.org
+UID:ecfd915a-82a8-4071-b8ad-2a057dbb65b5@ecfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Paupiette de veau aux olives vertes\n- Pommes de terre sautées\n- Omelette bio aux oignons et tomates\n- Pommes de terre sautées
+DURATION:PT45M
+DTSTART:20250523T171500Z
+SUMMARY:Paupiette de veau aux olives vertes\, Pommes de terre sautées\, Omelette bio aux oignons et tomates\, Pommes de terre sautées
+UID:4d922905-8231-4759-8961-6c3861c54486@4d92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250517T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:8cc13d9e-91d7-4a0e-a2c4-aec806eb18b3@8cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250524T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:99afaeca-afab-4bcb-bb72-4444f5513f84@99af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Tartelette aux oignons et champignons\n- Rôti de veau forestière\n- Purée et carottes\n- Pavé de poisson aux cêpes\n- Purée et carottes\n- Tourte aux légumes\n- Salade verte
 DURATION:PT45M
 DTSTART:20250516T101500Z
 SUMMARY:Tartelette aux oignons et champignons\, Rôti de veau forestière\, Purée et carottes\, Pavé de poisson aux cêpes\, Purée et carottes\, Tourte aux légumes\, Salade verte
-UID:dd9f0037-9bc3-4a11-bb3d-1b3b8011be5e@dd9f.org
+UID:6ad6f8bf-3d9a-4016-b8b1-965253b56116@6ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Rôti de veau forestière\n- Purée\n- Tourte aux légumes d'hiver\n- Salade verte
+DURATION:PT45M
+DTSTART:20250516T171500Z
+SUMMARY:Rôti de veau forestière\, Purée\, Tourte aux légumes d'hiver\, Salade verte
+UID:b4bae9ee-e1cb-4ed9-9b65-96f785a83f0e@b4ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Escalope de dinde forestière\n- Printanière de légumes\n- Quiche\n- Salade verte
+DURATION:PT45M
+DTSTART:20250520T171500Z
+SUMMARY:Escalope de dinde forestière\, Printanière de légumes\, Quiche\, Salade verte
+UID:55b47fca-8c2d-4670-899a-3969460c20d1@55b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Croque monsieur (jambon)\n- Salade verte\n- Croque madame (tomate et oeuf)\n- Salade verte
+DURATION:PT45M
+DTSTART:20250522T171500Z
+SUMMARY:Croque monsieur (jambon)\, Salade verte\, Croque madame (tomate et oeuf)\, Salade verte
+UID:30963104-3919-48b3-a2ee-5d0433d79535@3096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Calamars à la romaine au citron\n- Sot-ly-laisse de dinde rôtis au miel & thym\n- Semoule de couscous et ratatouille\n- Poisson pané sauce tomate\n- Semoule de couscous et ratatouille\n- Pâtes bio 3 couleurs aux courgettes et champignons
+DURATION:PT45M
+DTSTART:20250519T101500Z
+SUMMARY:Calamars à la romaine au citron\, Sot-ly-laisse de dinde rôtis au miel & thym\, Semoule de couscous et ratatouille\, Poisson pané sauce tomate\, Semoule de couscous et ratatouille\, Pâtes bio 3 couleurs aux courgettes et champignons
+UID:9fcb24eb-6e3d-4bd4-b7d6-d9402917c67c@9fcb.org
 END:VEVENT
 END:VCALENDAR
