@@ -2,115 +2,115 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour férié
-DURATION:PT45M
-DTSTART:20250530T171500Z
-SUMMARY:Le rak est fermé ce jour férié
-UID:15b30a13-2785-4526-b3ef-9e68eb14fa4e@15b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250531T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:62987281-69a6-4146-97ea-101081f5d08e@6298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Emincé de dinde mariné au thym et citron\n- Riz et carottes\n- Flammekueche bio aux légumes\n- Riz et carottes
-DURATION:PT45M
-DTSTART:20250527T171500Z
-SUMMARY:Emincé de dinde mariné au thym et citron\, Riz et carottes\, Flammekueche bio aux légumes\, Riz et carottes
-UID:9947699a-2042-4f21-8031-ad2874e5c0aa@9947.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartine à la tomate\n- Navarin d'agneau printanier\n- Paella au porc et au poulet\n- Paëlla végétarienne
-DURATION:PT45M
-DTSTART:20250523T101500Z
-SUMMARY:Tartine à la tomate\, Navarin d'agneau printanier\, Paella au porc et au poulet\, Paëlla végétarienne
-UID:6ac574e1-cfa4-4f5f-abf0-de51589ea8c4@6ac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250529T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:2a411ecb-647d-48c2-a93b-9f8c85fc73a7@2a41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour
-DURATION:PT45M
-DTSTART:20250529T101500Z
-SUMMARY:Le rak est fermé ce jour
-UID:d8290aa4-660a-49a1-8226-ce15a2d3b99f@d829.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Escalope de dinde\n- Sauté de porc\n- Semoule de couscous\n- Omelette bio aux oignons et tomates
-DURATION:PT45M
-DTSTART:20250523T171500Z
-SUMMARY:Escalope de dinde\, Sauté de porc\, Semoule de couscous\, Omelette bio aux oignons et tomates
-UID:81167038-65b0-4318-82fb-4c84b53fd813@8116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250524T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:cc623de6-b3cc-462c-b609-f833e51a16ea@cc62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Spaghetti à la bolognaise\n- Spaghetti aux fèves\, curry et légumes
-DURATION:PT45M
-DTSTART:20250528T171500Z
-SUMMARY:Spaghetti à la bolognaise\, Spaghetti aux fèves\, curry et légumes
-UID:4a27dd1d-2ceb-4142-bae3-0bcb901a9d14@4a27.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:- Croque monsieur (jambon)\n- Merguez grillées\n- Semoule et ratatouille\n- Pavé de poisson à la bordelaise\n- Semoule et ratatouille\n- Pizza aux légumes grillés et oeuf poché\n- Salade verte
 DURATION:PT45M
 DTSTART:20250527T101500Z
 SUMMARY:Croque monsieur (jambon)\, Merguez grillées\, Semoule et ratatouille\, Pavé de poisson à la bordelaise\, Semoule et ratatouille\, Pizza aux légumes grillés et oeuf poché\, Salade verte
-UID:8d492317-e8c3-4378-9461-3544bfd767a5@8d49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour (férié)
-DURATION:PT45M
-DTSTART:20250530T101500Z
-SUMMARY:Le rak est fermé ce jour (férié)
-UID:563ef272-81d5-4e00-914e-120d2129a133@563e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartelette aux oignons\n- Cuisses de poulet à la mexicaine\n- Coquillettes et poëlée wok\n- Andouillette de porc à la moutarde\n- Coquilettes\n- Omelette aux oignons et poivrons rouges\n- Coquillettes
-DURATION:PT45M
-DTSTART:20250528T101500Z
-SUMMARY:Tartelette aux oignons\, Cuisses de poulet à la mexicaine\, Coquillettes et poëlée wok\, Andouillette de porc à la moutarde\, Coquilettes\, Omelette aux oignons et poivrons rouges\, Coquillettes
-UID:c727200f-568d-4d86-8530-819a4e4c00c7@c727.org
+UID:0c99d8d3-0269-4c45-bff5-22864d403703@0c99.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Crêpe forestière\n- Rosbeef-sauce poivre vert\n- Frites et épinards à la crème\n- Beignets de calamars à la romaine\, concassé de tomates à l'ail\n- Frites\n- Gratin de courgettes et tomates à la ricotta
 DURATION:PT45M
 DTSTART:20250526T101500Z
 SUMMARY:Crêpe forestière\, Rosbeef-sauce poivre vert\, Frites et épinards à la crème\, Beignets de calamars à la romaine\, concassé de tomates à l'ail\, Frites\, Gratin de courgettes et tomates à la ricotta
-UID:7321262d-f472-42ef-9d41-86954403b86d@7321.org
+UID:df90ddd1-0616-4015-b54c-f04e237dea94@df90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Escalope de dinde\n- Sauté de porc\n- Semoule de couscous\n- Omelette bio aux oignons et tomates
+DURATION:PT45M
+DTSTART:20250523T171500Z
+SUMMARY:Escalope de dinde\, Sauté de porc\, Semoule de couscous\, Omelette bio aux oignons et tomates
+UID:180ff2ff-35d5-4b07-9e88-830f1f323592@180f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour
+DURATION:PT45M
+DTSTART:20250529T101500Z
+SUMMARY:Le rak est fermé ce jour
+UID:576e6290-6534-417a-9935-d719778f2245@576e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
-DTSTART:20250524T101500Z
+DTSTART:20250531T101500Z
 SUMMARY:Le rak est fermé ce week-end
-UID:e298b953-80b2-4524-9417-223910ac293d@e298.org
+UID:1d69164e-2150-4ac6-8ef4-8b76dd56570e@1d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour férié
+DURATION:PT45M
+DTSTART:20250530T171500Z
+SUMMARY:Le rak est fermé ce jour férié
+UID:dc4da634-a233-41d3-a1d0-8a5c219ad39f@dc4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Spaghetti à la bolognaise\n- Spaghetti aux fèves\, curry et légumes
+DURATION:PT45M
+DTSTART:20250528T171500Z
+SUMMARY:Spaghetti à la bolognaise\, Spaghetti aux fèves\, curry et légumes
+UID:07ad837b-0843-4588-b4c7-e5db5119e62c@07ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20250529T171500Z
+SUMMARY:Le rak est fermé ce soir
+UID:79d3ce73-f12c-4eb3-a8fd-1867608600f5@79d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
 DTSTART:20250531T171500Z
 SUMMARY:Le rak est fermé ce week-end
-UID:74997cf4-c09a-427d-8870-a0ae6710e117@7499.org
+UID:f1a6c9d2-cf58-455c-9589-302c4b10df9e@f1a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartine à la tomate\n- Navarin d'agneau printanier\n- Paella au porc et au poulet\n- Paëlla végétarienne
+DURATION:PT45M
+DTSTART:20250523T101500Z
+SUMMARY:Tartine à la tomate\, Navarin d'agneau printanier\, Paella au porc et au poulet\, Paëlla végétarienne
+UID:7c3ac936-d57a-4de9-8be8-8e434f32f54b@7c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250524T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:94124c45-a038-4754-8f2a-078b0776c212@9412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartelette aux oignons\n- Cuisses de poulet à la mexicaine\n- Coquillettes et poëlée wok\n- Andouillette de porc à la moutarde\n- Coquilettes\n- Omelette aux oignons et poivrons rouges\n- Coquillettes
+DURATION:PT45M
+DTSTART:20250528T101500Z
+SUMMARY:Tartelette aux oignons\, Cuisses de poulet à la mexicaine\, Coquillettes et poëlée wok\, Andouillette de porc à la moutarde\, Coquilettes\, Omelette aux oignons et poivrons rouges\, Coquillettes
+UID:de0dc3bc-c602-4f28-94ac-9ad9ba12365c@de0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de dinde mariné au thym et citron\n- Riz et carottes\n- Flammekueche bio aux légumes\n- Riz et carottes
+DURATION:PT45M
+DTSTART:20250527T171500Z
+SUMMARY:Emincé de dinde mariné au thym et citron\, Riz et carottes\, Flammekueche bio aux légumes\, Riz et carottes
+UID:a2034f77-0a0d-4bca-8ce8-677ff604e5e6@a203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250524T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:31ae96ce-19ca-4b61-b5f0-e94c3c8c9e29@31ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour (férié)
+DURATION:PT45M
+DTSTART:20250530T101500Z
+SUMMARY:Le rak est fermé ce jour (férié)
+UID:47e2e41c-69cc-456a-bdcf-b1f8df677a89@47e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Chipolatas de volaille aux herbes\n- Printanière de légumes\n- Brick de légumes\n- Printanière de légumes
 DURATION:PT45M
 DTSTART:20250526T171500Z
 SUMMARY:Chipolatas de volaille aux herbes\, Printanière de légumes\, Brick de légumes\, Printanière de légumes
-UID:59ec5488-580b-48e3-9b67-22ad52954793@59ec.org
+UID:67cd786e-4839-4c75-bc15-eb8d15449c50@67cd.org
 END:VEVENT
 END:VCALENDAR
