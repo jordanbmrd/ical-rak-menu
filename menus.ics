@@ -2,115 +2,115 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Aiguillettes de poulet panées - sauce tartare\n- Riz et carottes\n- Calamars à l'américaine\n- Riz et carottes\n- Quiche aux légumes d'été\n- Salade verte
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
-DTSTART:20250613T101500Z
-SUMMARY:Aiguillettes de poulet panées - sauce tartare\, Riz et carottes\, Calamars à l'américaine\, Riz et carottes\, Quiche aux légumes d'été\, Salade verte
-UID:f1d5dffb-734e-4c03-9ac8-377633033f4f@f1d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250614T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:f0c332a9-3252-4fcf-ac43-d17007e7d215@f0c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250614T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:9ea644d5-64f1-4298-a970-2756da7eb99e@9ea6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Sauté de dinde à l'ananas\n- Semoule et poëlée chinoise\n- Boudin noir aux pommes\n- Purée\n- Gratin de courgettes\, tomates et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20250611T101500Z
-SUMMARY:Sauté de dinde à l'ananas\, Semoule et poëlée chinoise\, Boudin noir aux pommes\, Purée\, Gratin de courgettes\, tomates et mozarella\, Salade verte
-UID:30aa3e72-d9d9-453a-a60b-1b4a6109e0dd@30aa.org
+DTSTART:20250611T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:9f7774b0-1d19-4eb3-b4cc-872b573ce25a@9f77.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce jour (férié)
 DURATION:PT45M
 DTSTART:20250609T101500Z
 SUMMARY:Le rak est fermé ce jour (férié)
-UID:693ceb01-0973-4d3d-a069-3e03a068b8c1@693c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250611T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:66c32489-6df6-40df-b976-90dd280914bc@66c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250610T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:9778af5d-1796-4cff-a0f8-e229fac60c4b@9778.org
+UID:cf961ad7-6e86-4497-88a8-f21e8ffc99da@cf96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
 DTSTART:20250607T101500Z
 SUMMARY:Le rak est fermé ce week-end
-UID:a9fe82b3-b334-45d5-aa04-706d729e9b91@a9fe.org
+UID:f844af4c-2dfb-4d4c-b27a-86c380e29a19@f844.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Spaghettis à la carbonara (porc)\n- Poisson pané à la tomate\n- Riz madras et poélée wok\n- Spaghetti aux artichauts\, poivrons\, ricotta et amandes
+DESCRIPTION:- Aiguillettes de poulet panées - sauce tartare\n- Riz et carottes\n- Calamars à l'américaine\n- Riz et carottes\n- Quiche aux légumes d'été\n- Salade verte
 DURATION:PT45M
-DTSTART:20250610T101500Z
-SUMMARY:Spaghettis à la carbonara (porc)\, Poisson pané à la tomate\, Riz madras et poélée wok\, Spaghetti aux artichauts\, poivrons\, ricotta et amandes
-UID:37ec5d04-e2a7-463d-8ada-7ffc680f124b@37ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250607T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:c26fff40-5460-4a19-88bf-be4eb8a11d4a@c26f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Gratin de raviolis au boeuf\n- Tomate farcie - sauce tomate\n- Riz et julienne de légumes\n- Omelette /bruschetta courgettes cheddar\n- Salade verte\n- Souris d'agneau au thym /filet mignon
-DURATION:PT45M
-DTSTART:20250606T101500Z
-SUMMARY:Gratin de raviolis au boeuf\, Tomate farcie - sauce tomate\, Riz et julienne de légumes\, Omelette /bruschetta courgettes cheddar\, Salade verte\, Souris d'agneau au thym /filet mignon
-UID:3df89c7d-f2e7-4ae0-afb8-9a53a1c36acb@3df8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour (férié)
-DURATION:PT45M
-DTSTART:20250609T171500Z
-SUMMARY:Le rak est fermé ce jour (férié)
-UID:e74c41f9-58ce-4ae6-97e8-6467377c53af@e74c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250612T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:66e3d70d-8042-4ec7-bd42-d31fc2ca78ac@66e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250606T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:02848c6a-8a17-4340-a9e8-29dd04400168@0284.org
+DTSTART:20250613T101500Z
+SUMMARY:Aiguillettes de poulet panées - sauce tartare\, Riz et carottes\, Calamars à l'américaine\, Riz et carottes\, Quiche aux légumes d'été\, Salade verte
+UID:1c592e68-f534-4283-adb9-0471a45e73f6@1c59.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
 DTSTART:20250613T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:c49c3238-ea5e-4fdb-911d-a44a7c2fb119@c49c.org
+UID:155abcb0-190f-4a66-8bab-02b7fdc46998@155a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20250606T171500Z
+SUMMARY:Le rak est fermé ce soir
+UID:1c12cbd1-a720-4f8d-850e-2e4f7ab76192@1c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250607T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:9cf14cac-502c-434e-a07b-f1848f2c39ff@9cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
+DURATION:PT45M
+DTSTART:20250612T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:4c3c1662-6d96-490e-8a5e-811a9ddf68c5@4c3c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Jambon grillé sauce miel & orange\n- Jambon grillé sauce miel & orange\n- Frites\n- Filet de poisson meunière - beurre citronné\n- Haricots verts à la tomate\n- Lasagnes au chèvre et aubergines\n- Salade verte
 DURATION:PT45M
 DTSTART:20250612T101500Z
 SUMMARY:Jambon grillé sauce miel & orange\, Jambon grillé sauce miel & orange\, Frites\, Filet de poisson meunière - beurre citronné\, Haricots verts à la tomate\, Lasagnes au chèvre et aubergines\, Salade verte
-UID:3fd64101-76b3-4184-b180-b73ca6199e3f@3fd6.org
+UID:66523606-fcdd-4e34-9f37-6c2e535b6066@6652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250614T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:ba3f0e53-3a41-441c-b844-f2669921458b@ba3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Sauté de dinde à l'ananas\n- Semoule et poëlée chinoise\n- Boudin noir aux pommes\n- Purée\n- Gratin de courgettes\, tomates et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20250611T101500Z
+SUMMARY:Sauté de dinde à l'ananas\, Semoule et poëlée chinoise\, Boudin noir aux pommes\, Purée\, Gratin de courgettes\, tomates et mozarella\, Salade verte
+UID:cbfceace-2f1e-4171-856e-5e38c8578296@cbfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250614T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:bf0908ad-7997-4dd0-ae9f-23bc09e157d7@bf09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Spaghettis à la carbonara (porc)\n- Poisson pané à la tomate\n- Riz madras et poélée wok\n- Spaghetti aux artichauts\, poivrons\, ricotta et amandes
+DURATION:PT45M
+DTSTART:20250610T101500Z
+SUMMARY:Spaghettis à la carbonara (porc)\, Poisson pané à la tomate\, Riz madras et poélée wok\, Spaghetti aux artichauts\, poivrons\, ricotta et amandes
+UID:1e7d66d3-7aa0-46b3-a23a-1bece1b10731@1e7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
+DURATION:PT45M
+DTSTART:20250610T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:b58e365c-fe61-4ec7-819b-b172141d87b8@b58e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Gratin de raviolis au boeuf\n- Tomate farcie - sauce tomate\n- Riz et julienne de légumes\n- Omelette /bruschetta courgettes cheddar\n- Salade verte\n- Souris d'agneau au thym /filet mignon
+DURATION:PT45M
+DTSTART:20250606T101500Z
+SUMMARY:Gratin de raviolis au boeuf\, Tomate farcie - sauce tomate\, Riz et julienne de légumes\, Omelette /bruschetta courgettes cheddar\, Salade verte\, Souris d'agneau au thym /filet mignon
+UID:386ecad2-69a6-4b3c-abab-942c7fa46152@386e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour (férié)
+DURATION:PT45M
+DTSTART:20250609T171500Z
+SUMMARY:Le rak est fermé ce jour (férié)
+UID:8f77dfb7-c7f1-407d-baef-f1ff893f5894@8f77.org
 END:VEVENT
 END:VCALENDAR
