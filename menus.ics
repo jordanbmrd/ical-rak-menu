@@ -4,57 +4,57 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
-DTSTART:20250611T171500Z
+DTSTART:20250613T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:6dc95848-7fda-475b-b87a-9246bbd4131c@6dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Jambon grillé sauce miel & orange\n- Jambon grillé sauce miel & orange\n- Frites\n- Filet de poisson meunière - beurre citronné\n- Haricots verts à la tomate\n- Lasagnes au chèvre et aubergines\n- Salade verte
-DURATION:PT45M
-DTSTART:20250612T101500Z
-SUMMARY:Jambon grillé sauce miel & orange\, Jambon grillé sauce miel & orange\, Frites\, Filet de poisson meunière - beurre citronné\, Haricots verts à la tomate\, Lasagnes au chèvre et aubergines\, Salade verte
-UID:fd773968-5040-4433-a9ea-c3351bdf506c@fd77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250614T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:0d92f97e-4b15-45f4-bd47-d9eb9d928f32@0d92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Aiguillettes de poulet panées - sauce tartare\n- Riz et carottes\n- Calamars à l'américaine\n- Riz et carottes\n- Quiche reblochon  et légumes d'été\n- Salade verte
-DURATION:PT45M
-DTSTART:20250613T101500Z
-SUMMARY:Aiguillettes de poulet panées - sauce tartare\, Riz et carottes\, Calamars à l'américaine\, Riz et carottes\, Quiche reblochon  et légumes d'été\, Salade verte
-UID:c421da35-eb0a-4739-bc22-6681f77b8dd4@c421.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250614T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:7302f4c8-d861-481a-ab9b-816007557725@7302.org
+UID:c1131b34-6dbc-4a59-96a4-2444d8139381@c113.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Sauté de dinde à l'ananas\n- Spaghettis /riz et poëlée chinoise\n- Boudin noir aux pommes\n- Purée\n- Gratin de courgettes\, tomates et mozarella\n- Salade verte
 DURATION:PT45M
 DTSTART:20250611T101500Z
 SUMMARY:Sauté de dinde à l'ananas\, Spaghettis /riz et poëlée chinoise\, Boudin noir aux pommes\, Purée\, Gratin de courgettes\, tomates et mozarella\, Salade verte
-UID:267086c7-1ac3-42b5-91cc-ccf36cf75b03@2670.org
+UID:00c9cf6a-488a-41a6-a9d8-b225e975c4df@00c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
 DTSTART:20250612T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:4f735f10-56ae-447e-85f1-a142317c633c@4f73.org
+UID:e937eb6d-9150-41ec-b88c-1ed53b986e70@e937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250614T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:4f308176-0770-4806-a019-1d97a6b8beea@4f30.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
-DTSTART:20250613T171500Z
+DTSTART:20250611T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:34ef1eaf-1a32-42fd-b41c-27a5b25add99@34ef.org
+UID:a7758305-0c8e-4abb-88ea-545411384ed1@a775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Jambon grillé sauce miel & orange\n- Jambon grillé sauce miel & orange\n- Frites\n- Filet de poisson meunière - beurre citronné\n- Haricots verts à la tomate\n- Lasagnes au chèvre et aubergines\n- Salade verte
+DURATION:PT45M
+DTSTART:20250612T101500Z
+SUMMARY:Jambon grillé sauce miel & orange\, Jambon grillé sauce miel & orange\, Frites\, Filet de poisson meunière - beurre citronné\, Haricots verts à la tomate\, Lasagnes au chèvre et aubergines\, Salade verte
+UID:032494de-304f-4e3b-a45d-d02e58af0147@0324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250614T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:edf0626c-1af2-4763-b44c-9dc5a6e86a81@edf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Aiguillettes de poulet panées - sauce tartare\n- Riz et carottes\n- Calamars à l'américaine\n- Riz et carottes\n- Quiche reblochon  et légumes d'été\n- Salade verte
+DURATION:PT45M
+DTSTART:20250613T101500Z
+SUMMARY:Aiguillettes de poulet panées - sauce tartare\, Riz et carottes\, Calamars à l'américaine\, Riz et carottes\, Quiche reblochon  et légumes d'été\, Salade verte
+UID:6992d5e4-cc74-4565-8377-d3a7c5895939@6992.org
 END:VEVENT
 END:VCALENDAR
