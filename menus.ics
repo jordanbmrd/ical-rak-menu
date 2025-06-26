@@ -2,73 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250626T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:92fdd0ec-66e9-4ea8-8c90-de34f5d8c897@92fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Filet de poisson meunière\n- Pommes de terre vapeur et carottes\n- Tourte aux légumes d'été\n- Salade verte
-DURATION:PT45M
-DTSTART:20250627T101500Z
-SUMMARY:Filet de poisson meunière\, Pommes de terre vapeur et carottes\, Tourte aux légumes d'été\, Salade verte
-UID:96c20438-9c09-4902-b81d-e7dba6c13250@96c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250624T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:22270353-cb48-42f5-bba2-c0183b4d1834@2227.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250628T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:e9835f18-5fea-46e3-951b-c5b0b1155abc@e983.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250628T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:352472f5-ad1b-4b0e-811e-f9a58e28aa31@3524.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:- Emincé de dinde à la crème\n- Frites\n- Fish & chips  - sauce tartare\n- Frites\n- Omelette bio aux oignons et poivrons marinés\n- Epinards à la crème
 DURATION:PT45M
 DTSTART:20250625T101500Z
 SUMMARY:Emincé de dinde à la crème\, Frites\, Fish & chips  - sauce tartare\, Frites\, Omelette bio aux oignons et poivrons marinés\, Epinards à la crème
-UID:7b4336ae-4127-43d7-a4d9-94dc9d465c12@7b43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Couscous aux 3 viandes\n- Semoule de couscous aux raisins\n- Bouchée végétarienne\n- Semoule et poëlée wok
-DURATION:PT45M
-DTSTART:20250626T101500Z
-SUMMARY:Couscous aux 3 viandes\, Semoule de couscous aux raisins\, Bouchée végétarienne\, Semoule et poëlée wok
-UID:d9418720-550a-4516-a66d-9189451d65cd@d941.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250625T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:4c27261c-26e3-4bee-be1f-9ec32e401b56@4c27.org
+UID:9997d8fa-206f-489d-872d-05c73e6b54c9@9997.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
 DTSTART:20250627T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:075945e9-fa67-4eea-9ab2-e52c245eba93@0759.org
+UID:4fa7adda-e3b3-4a0e-87e4-0ff9e7d69a62@4fa7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Escalope de dinde au curry\n- Riz bio et poëlée maraîchère\n- Chili végétarien au cheddar râpé\n- Riz bio au curcuma
+DESCRIPTION:- Le rak est fermé ce week-end
 DURATION:PT45M
-DTSTART:20250624T101500Z
-SUMMARY:Escalope de dinde au curry\, Riz bio et poëlée maraîchère\, Chili végétarien au cheddar râpé\, Riz bio au curcuma
-UID:0eb452d5-e1c6-4704-b85b-9cf529a19a4f@0eb4.org
+DTSTART:20250628T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:5b22f9e5-b52b-436a-9da4-5b119ac4aa80@5b22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
+DURATION:PT45M
+DTSTART:20250626T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:aacb7c70-89e7-4600-8a15-eda0070c07e2@aacb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250628T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:03f16057-4c73-439c-8373-db4c0992eb88@03f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Couscous aux 3 viandes\n- Semoule de couscous aux raisins\n- Bouchée végétarienne\n- Semoule et poëlée wok
+DURATION:PT45M
+DTSTART:20250626T101500Z
+SUMMARY:Couscous aux 3 viandes\, Semoule de couscous aux raisins\, Bouchée végétarienne\, Semoule et poëlée wok
+UID:546d2869-16aa-42d7-80b1-d2e3af9e9861@546d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Filet de brosme (poisson) - sauce à l'oseille\n- Pommes de terre vapeur et carottes\n- Tourte aux légumes d'été\n- Salade verte
+DURATION:PT45M
+DTSTART:20250627T101500Z
+SUMMARY:Filet de brosme (poisson) - sauce à l'oseille\, Pommes de terre vapeur et carottes\, Tourte aux légumes d'été\, Salade verte
+UID:351ef097-4e70-4e81-adeb-ec4c8fbfa779@351e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
+DURATION:PT45M
+DTSTART:20250625T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:61015fbe-d36d-4920-b964-ffe43dfaa123@6101.org
 END:VEVENT
 END:VCALENDAR
