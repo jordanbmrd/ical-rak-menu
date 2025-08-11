@@ -2,199 +2,199 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Steak haché sauce aux 3 poivres\n- Frites et épinards à la crème\n- Omelette bio aux oignons et poivrons marinés\n- Frites
+DESCRIPTION:- Escalope de dinde napolitaine\n- Spaghettis  et poëlée méridionale\n- Boul' de lentilles et sarrasin - sauce blanche\n- Spaghettis
 DURATION:PT45M
-DTSTART:20250820T101500Z
-SUMMARY:Steak haché sauce aux 3 poivres\, Frites et épinards à la crème\, Omelette bio aux oignons et poivrons marinés\, Frites
-UID:cda94aba-83c0-4882-8fb4-280035b508ed@cda9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250814T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:c6c7c30a-a9aa-45f4-94de-ba447fe28215@c6c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250816T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:9f8de6f3-819e-4b7d-bc90-4afdbd4c69c2@9f8d.org
+DTSTART:20250818T101500Z
+SUMMARY:Escalope de dinde napolitaine\, Spaghettis  et poëlée méridionale\, Boul' de lentilles et sarrasin - sauce blanche\, Spaghettis
+UID:09b0d9c4-c746-42df-af0f-92106c949ff2@09b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé ce soir
 DURATION:PT45M
 DTSTART:20250820T171500Z
 SUMMARY:Le rak est fermé ce soir
-UID:e4da2c52-c050-4569-9550-71d3f8099422@e4da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250818T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:0f74e583-4352-46d6-95fc-0a5d97b6e829@0f74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Couscous aux 3 viandes\n- Semoule de couscous aux raisins\n- Flammekueche aux légumes d'été\n- Salade verte
-DURATION:PT45M
-DTSTART:20250821T101500Z
-SUMMARY:Couscous aux 3 viandes\, Semoule de couscous aux raisins\, Flammekueche aux légumes d'été\, Salade verte
-UID:fea954ee-91c6-474b-bca4-7c263bec675e@fea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Escalope de dinde napolitaine\n- Spaghettis  et poëlée méridionale\n- Boul' de lentilles et sarrasin - sauce blanche\n- Spaghettis
-DURATION:PT45M
-DTSTART:20250818T101500Z
-SUMMARY:Escalope de dinde napolitaine\, Spaghettis  et poëlée méridionale\, Boul' de lentilles et sarrasin - sauce blanche\, Spaghettis
-UID:70e391ac-8128-4bda-b916-06bb909b2573@70e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Emincé de veau forestière\n- Riz bio et épinards à la crème\n- Tomate farcie savoyarde (au reblochon)\n- Riz bio
-DURATION:PT45M
-DTSTART:20250814T101500Z
-SUMMARY:Emincé de veau forestière\, Riz bio et épinards à la crème\, Tomate farcie savoyarde (au reblochon)\, Riz bio
-UID:91e96f44-7f17-4189-be52-ce6458ae607f@91e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Curry de porc à l'indienne\n- Riz basmati bio et poëlée de légumes verts\n- Tarte au chèvre et à la tomate\n- Salade verte
-DURATION:PT45M
-DTSTART:20250823T171500Z
-SUMMARY:Curry de porc à l'indienne\, Riz basmati bio et poëlée de légumes verts\, Tarte au chèvre et à la tomate\, Salade verte
-UID:fb17f3e1-17a5-49a3-800a-0ef96ce2fbf9@fb17.org
+UID:ad262d2f-6455-43f7-8bff-f8ddc5e9713f@ad26.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
-DTSTART:20250815T171500Z
+DTSTART:20250814T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:583f991f-67f9-4858-9e0b-cf88d9ebf409@583f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250813T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:e84004ce-b1a9-46ee-9db5-e6cb91e8eb31@e840.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250816T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:a70a6ee6-5980-494c-ba8a-b08e2405c249@a70a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Rôti de porc au coulis de poivrons rouges\n- Purée de pommes de terre et poëlée de légumes verts\n- Carbonara végétarienne aux légumes et fromage
-DURATION:PT45M
-DTSTART:20250812T101500Z
-SUMMARY:Rôti de porc au coulis de poivrons rouges\, Purée de pommes de terre et poëlée de légumes verts\, Carbonara végétarienne aux légumes et fromage
-UID:7505d54c-133a-4e20-9047-9ac282372834@7505.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Rougail de saucisses de porc(fr)\n- Riz bio\n- Rougail végétarienne (saucisses végétales)\n- Riz bio et poëlée maraîchère
-DURATION:PT45M
-DTSTART:20250819T101500Z
-SUMMARY:Rougail de saucisses de porc(fr)\, Riz bio\, Rougail végétarienne (saucisses végétales)\, Riz bio et poëlée maraîchère
-UID:f4b857c7-7668-4e78-8948-8a12edb9e88b@f4b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Fish & chips  - sauce tartare\n- Frites et brocolis\n- Omelette bio aux oignons\, tomates et cheddar râpé\n- Frites
-DURATION:PT45M
-DTSTART:20250813T101500Z
-SUMMARY:Fish & chips  - sauce tartare\, Frites et brocolis\, Omelette bio aux oignons\, tomates et cheddar râpé\, Frites
-UID:5298f7cf-3787-4b51-9cb7-9509157cb261@5298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Quiche lorraine (porc)\n- Salade verte\n- Nuggets de blé sauce tomate\n- Riz bio et légumes
-DURATION:PT45M
-DTSTART:20250808T101500Z
-SUMMARY:Quiche lorraine (porc)\, Salade verte\, Nuggets de blé sauce tomate\, Riz bio et légumes
-UID:fb0a1e5e-dc3d-4ca1-9d92-64ce065f9fc8@fb0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250809T101500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:8ebe3017-e7e5-45ab-bad5-144b3e10a1d0@8ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250821T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:9bab30f7-426e-4410-986b-2e23863cf3ad@9bab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Steak de bœuf - sauce échalotes\n- Frites\n- Omelette bio aux tomates\, oignons et poivrons\n- Epinards à la crème
-DURATION:PT45M
-DTSTART:20250807T101500Z
-SUMMARY:Steak de bœuf - sauce échalotes\, Frites\, Omelette bio aux tomates\, oignons et poivrons\, Epinards à la crème
-UID:c988ab2a-2a4f-4a18-851d-0abd5349af19@c988.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Cuisse de poulet rôtie au curry et thym\n- Coquillettes et haricots plats\n- Pâtes bio forestières aux courgettes
-DURATION:PT45M
-DTSTART:20250811T101500Z
-SUMMARY:Cuisse de poulet rôtie au curry et thym\, Coquillettes et haricots plats\, Pâtes bio forestières aux courgettes
-UID:540cc23e-c528-4393-9e91-8c5b7a1c51ee@540c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250819T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:835a591d-50bb-40c0-82de-61a7f70ed6df@835a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250812T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:f41b6f17-f5d6-4c16-acfe-329851d57592@f41b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20250809T171500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:a294cee4-5073-4b3b-8953-c5c04ccf8904@a294.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
-DURATION:PT45M
-DTSTART:20250811T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:85c270ab-fa20-4244-8f2a-0d2001b71d92@85c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Emincé de veau à l'italienne\n- Purée et carottes\n- Crêpe de blé noir aux légumes\n- Pommes de terre vapeur - carottes
-DURATION:PT45M
-DTSTART:20250822T101500Z
-SUMMARY:Emincé de veau à l'italienne\, Purée et carottes\, Crêpe de blé noir aux légumes\, Pommes de terre vapeur - carottes
-UID:5d84c242-bbae-443b-ab1b-52b0696c10d8@5d84.org
+UID:c890bdde-dfcc-4847-aa50-15b8415cbbc2@c890.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
 DTSTART:20250807T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:b0c083eb-1ef9-4671-8488-60a523ab7c63@b0c0.org
+UID:720d7ea2-202c-4e2d-b445-25a014a96451@720d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Spaghettis à la carbonara\n- Omelette aux oignons et tomates séchées\n- Spaghettis et courgettes à l'ail
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
-DTSTART:20250822T171500Z
-SUMMARY:Spaghettis à la carbonara\, Omelette aux oignons et tomates séchées\, Spaghettis et courgettes à l'ail
-UID:ede6da3a-eaa1-448f-9bb0-d845c3a18ca7@ede6.org
+DTSTART:20250813T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:6d70d3c5-b0d2-4cda-aa4c-f89fd939ff02@6d70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Rougail de saucisses de porc(fr)\n- Riz bio\n- Rougail végétarienne (saucisses végétales)\n- Riz bio et poëlée maraîchère
+DURATION:PT45M
+DTSTART:20250819T101500Z
+SUMMARY:Rougail de saucisses de porc(fr)\, Riz bio\, Rougail végétarienne (saucisses végétales)\, Riz bio et poëlée maraîchère
+UID:445ff232-3000-4818-aad9-bdb86d89f2da@445f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Couscous aux 3 viandes\n- Semoule de couscous aux raisins\n- Flammekueche aux légumes d'été\n- Salade verte
+DURATION:PT45M
+DTSTART:20250821T101500Z
+SUMMARY:Couscous aux 3 viandes\, Semoule de couscous aux raisins\, Flammekueche aux légumes d'été\, Salade verte
+UID:6ec13233-a219-4208-a48e-18c3b6904e00@6ec1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250816T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:2e583808-b107-4c09-ac30-98f8313275d3@2e58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de veau à l'italienne\n- Purée et carottes\n- Crêpe de blé noir aux légumes\n- Pommes de terre vapeur - carottes
+DURATION:PT45M
+DTSTART:20250822T101500Z
+SUMMARY:Emincé de veau à l'italienne\, Purée et carottes\, Crêpe de blé noir aux légumes\, Pommes de terre vapeur - carottes
+UID:71c19765-82c4-4edb-aa96-a24a67c7f3a8@71c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
+DURATION:PT45M
+DTSTART:20250812T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:a51c7361-0727-4227-918a-6b9c0aa9ecca@a51c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Steak de bœuf - sauce échalotes\n- Frites\n- Omelette bio aux tomates\, oignons et poivrons\n- Epinards à la crème
+DURATION:PT45M
+DTSTART:20250807T101500Z
+SUMMARY:Steak de bœuf - sauce échalotes\, Frites\, Omelette bio aux tomates\, oignons et poivrons\, Epinards à la crème
+UID:096a7fa0-96a9-4dcf-808b-6c65cc1d3d3e@096a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Cuisse de poulet rôtie au curry et thym\n- Coquillettes et haricots plats\n- Pâtes bio forestières aux courgettes
+DURATION:PT45M
+DTSTART:20250811T101500Z
+SUMMARY:Cuisse de poulet rôtie au curry et thym\, Coquillettes et haricots plats\, Pâtes bio forestières aux courgettes
+UID:3303c65a-eeb4-4fb9-99e9-13037036c6ad@3303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
+DURATION:PT45M
+DTSTART:20250811T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:0444444d-90ab-4bbd-aa2f-65f9c6aa8b38@0444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de veau forestière\n- Riz bio et épinards à la crème\n- Tomate farcie savoyarde (au reblochon)\n- Riz bio
+DURATION:PT45M
+DTSTART:20250814T101500Z
+SUMMARY:Emincé de veau forestière\, Riz bio et épinards à la crème\, Tomate farcie savoyarde (au reblochon)\, Riz bio
+UID:97695815-26c2-4a83-8ef9-7cfe12ee7e0c@9769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Curry de porc à l'indienne\n- Riz basmati bio et poëlée de légumes verts\n- Tarte au chèvre et à la tomate\n- Salade verte
+DURATION:PT45M
+DTSTART:20250823T171500Z
+SUMMARY:Curry de porc à l'indienne\, Riz basmati bio et poëlée de légumes verts\, Tarte au chèvre et à la tomate\, Salade verte
+UID:a9f48a36-f7fe-4fd5-bf3b-39026eefee75@a9f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20250821T171500Z
+SUMMARY:Le rak est fermé ce soir
+UID:b9af7d2b-15b7-4048-a85c-e968b97db053@b9af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Steak haché sauce aux 3 poivres\n- Frites et épinards à la crème\n- Omelette bio aux oignons et poivrons marinés\n- Frites
+DURATION:PT45M
+DTSTART:20250820T101500Z
+SUMMARY:Steak haché sauce aux 3 poivres\, Frites et épinards à la crème\, Omelette bio aux oignons et poivrons marinés\, Frites
+UID:2ede3d8e-88ae-4545-8d9a-ce06bb239ecb@2ede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
+DURATION:PT45M
+DTSTART:20250815T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:84d05340-83c5-44ba-8307-a979d642e942@84d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
 DURATION:PT45M
 DTSTART:20250808T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 21 août
-UID:76e21a2a-9833-4b2a-8c5c-be8a5a4b6329@76e2.org
+UID:0ed09e75-c9d0-4155-8c1a-880c826abf06@0ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250809T171500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:95187dc3-9fb2-473c-b13d-516d230fbe43@9518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 21 août
+DURATION:PT45M
+DTSTART:20250816T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 21 août
+UID:052b1ec5-352e-4454-be8a-2633ec1449eb@052b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20250809T101500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:c5cad74f-0bba-4eec-9610-12e7759d8cce@c5ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Fish & chips  - sauce tartare\n- Frites et brocolis\n- Omelette bio aux oignons\, tomates et cheddar râpé\n- Frites
+DURATION:PT45M
+DTSTART:20250813T101500Z
+SUMMARY:Fish & chips  - sauce tartare\, Frites et brocolis\, Omelette bio aux oignons\, tomates et cheddar râpé\, Frites
+UID:d53b48cf-101e-4c6a-8ce9-bd9a0c1f193b@d53b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20250818T171500Z
+SUMMARY:Le rak est fermé ce soir
+UID:48fe43ea-64b7-4073-8273-d659ba69c006@48fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20250819T171500Z
+SUMMARY:Le rak est fermé ce soir
+UID:be3941f6-5920-4c8a-bd3e-e16523a6678b@be39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Spaghettis à la carbonara\n- Omelette aux oignons et tomates séchées\n- Spaghettis et courgettes à l'ail
+DURATION:PT45M
+DTSTART:20250822T171500Z
+SUMMARY:Spaghettis à la carbonara\, Omelette aux oignons et tomates séchées\, Spaghettis et courgettes à l'ail
+UID:ba599cc6-0522-43b4-887a-74b346a928b9@ba59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Rôti de porc au coulis de poivrons rouges\n- Purée de pommes de terre et poëlée de légumes verts\n- Carbonara végétarienne aux légumes et fromage
+DURATION:PT45M
+DTSTART:20250812T101500Z
+SUMMARY:Rôti de porc au coulis de poivrons rouges\, Purée de pommes de terre et poëlée de légumes verts\, Carbonara végétarienne aux légumes et fromage
+UID:cc53754f-0f32-40e4-9007-7a38d7888fcc@cc53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Quiche lorraine (porc)\n- Salade verte\n- Nuggets de blé sauce tomate\n- Riz bio et légumes
+DURATION:PT45M
+DTSTART:20250808T101500Z
+SUMMARY:Quiche lorraine (porc)\, Salade verte\, Nuggets de blé sauce tomate\, Riz bio et légumes
+UID:4ac56b0a-668c-4519-8e99-792b192f2b2d@4ac5.org
 END:VEVENT
 END:VCALENDAR
