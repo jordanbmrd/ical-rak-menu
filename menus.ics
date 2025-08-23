@@ -2,283 +2,283 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Oeuf cocotte aux lardons\n- Emincé de boeuf aux poivrons\n- Gratin dauphinois\n- Cordon bleu de dinde\n- Coquillettes\n- Quiche aux aubergines et à la fêta\n- Salade verte
+DESCRIPTION:- Pain pita au kebab sauce blanche\n- Frites\n- Omelette au fromage\n- Julienne de légumes aux champignons
 DURATION:PT45M
-DTSTART:20250828T101500Z
-SUMMARY:Oeuf cocotte aux lardons\, Emincé de boeuf aux poivrons\, Gratin dauphinois\, Cordon bleu de dinde\, Coquillettes\, Quiche aux aubergines et à la fêta\, Salade verte
-UID:5841d6a6-34a9-4fe7-8ded-be13682dcece@5841.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end (wei)
-DURATION:PT45M
-DTSTART:20250906T171500Z
-SUMMARY:Le rak est fermé ce week-end (wei)
-UID:2bc010d0-b60d-4e60-a629-2a502cbe8e7f@2bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Steak haché de boeuf sauce au poivre vert\n- Riz bio\n- Nems de légumes - concassé de tomates à l'ail\n- Riz bio et poëlée wok
-DURATION:PT45M
-DTSTART:20250827T171500Z
-SUMMARY:Steak haché de boeuf sauce au poivre vert\, Riz bio\, Nems de légumes - concassé de tomates à l'ail\, Riz bio et poëlée wok
-UID:2320f832-509e-4f14-87e4-ffef622da8ad@2320.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Spaghetti à la bolognaise (boeuf)\n- Spaghetti aux fèves\, curry et légumes
-DURATION:PT45M
-DTSTART:20250901T171500Z
-SUMMARY:Spaghetti à la bolognaise (boeuf)\, Spaghetti aux fèves\, curry et légumes
-UID:d0c8d320-b9c6-4d03-888a-f34302ec08d8@d0c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Gratin de coquillettes au jambon\n- Cuisse de poulet rôtie sauce framboises\n- Frites\n- Paupiette de veau à l'italienne\n- Poêlée de légumes verts\n- Tartine à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20250827T101500Z
-SUMMARY:Gratin de coquillettes au jambon\, Cuisse de poulet rôtie sauce framboises\, Frites\, Paupiette de veau à l'italienne\, Poêlée de légumes verts\, Tartine à la tomate et mozarella\, Salade verte
-UID:b6edc72b-f4e8-41b7-bef6-167de5f4f608@b6ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Boul'boeuf aux epices - sauce tomate\n- Frites\n- Crêpe de blé noir forestière\n- Frites et poëlée méridionale
-DURATION:PT45M
-DTSTART:20250913T101500Z
-SUMMARY:Boul'boeuf aux epices - sauce tomate\, Frites\, Crêpe de blé noir forestière\, Frites et poëlée méridionale
-UID:c01963dd-38a2-43b2-b022-2a3950a9f8b7@c019.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Jambonette de dinde confite\n- Coquillettes et brocolis\n- Croque au cheddar champignons et oignons\n- Salade verte
-DURATION:PT45M
-DTSTART:20250905T171500Z
-SUMMARY:Jambonette de dinde confite\, Coquillettes et brocolis\, Croque au cheddar champignons et oignons\, Salade verte
-UID:fd88e8a8-46d9-42d2-9e48-0404af322dd6@fd88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Cordon bleu de dinde\n- Coquillettes et carottes\n- Nuggets de blé sauce blanche\n- Coquillettes
-DURATION:PT45M
-DTSTART:20250913T171500Z
-SUMMARY:Cordon bleu de dinde\, Coquillettes et carottes\, Nuggets de blé sauce blanche\, Coquillettes
-UID:240cd6d3-ee54-4a6a-ba7e-5718d14edb0a@240c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Sauté de boeuf sauce arachide\n- Riz et poëlée de légumes asiatique\n- Tortellonni à la ricotta et tomates séchées\n- Sauce crème aux herbes
-DURATION:PT45M
-DTSTART:20250908T171500Z
-SUMMARY:Sauté de boeuf sauce arachide\, Riz et poëlée de légumes asiatique\, Tortellonni à la ricotta et tomates séchées\, Sauce crème aux herbes
-UID:6c216bf0-3dc4-4b49-bce0-88d52f336fab@6c21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Cordon bleu de dinde\n- PurÉe et poëlée de légumes verts\n- Brick de légumes\n- Poêlée de légumes verts
-DURATION:PT45M
-DTSTART:20250903T171500Z
-SUMMARY:Cordon bleu de dinde\, PurÉe et poëlée de légumes verts\, Brick de légumes\, Poêlée de légumes verts
-UID:8bd5b56b-0441-49dd-ae9c-66bec29114c4@8bd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Poulet grillé à l'américaine\n- Frites\, tomate provençale et brocolis\n- Nuggets de blé croustillants à la sauce tomate\n- Frites et brocolis
-DURATION:PT45M
-DTSTART:20250823T101500Z
-SUMMARY:Poulet grillé à l'américaine\, Frites\, tomate provençale et brocolis\, Nuggets de blé croustillants à la sauce tomate\, Frites et brocolis
-UID:40b555c3-5c8b-40aa-afaf-449b1bd4472b@40b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Travers de porc sauce barbecue\n- Lentilles et choux de bruxelles\n- Filet de limande meunière au beurre citronné\n- Tagliatelles et brunoise de légumes\n- Poivron rouge farçi au blé et maïs et à la ricotta\n- Tagliatelles
-DURATION:PT45M
-DTSTART:20250826T101500Z
-SUMMARY:Travers de porc sauce barbecue\, Lentilles et choux de bruxelles\, Filet de limande meunière au beurre citronné\, Tagliatelles et brunoise de légumes\, Poivron rouge farçi au blé et maïs et à la ricotta\, Tagliatelles
-UID:3936f18c-9d3d-4562-b968-1d502b4660a6@3936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Sauté de porc à la provençale\n- Pommes de terre vapeur\n- Curry végétarien au riz basmati et pois chiches
-DURATION:PT45M
-DTSTART:20250828T171500Z
-SUMMARY:Sauté de porc à la provençale\, Pommes de terre vapeur\, Curry végétarien au riz basmati et pois chiches
-UID:788a4e50-76c9-47cc-8410-94a8e087ea1c@788a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250820T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:b7f1f9d3-2c51-4c4e-b133-2694fe90e130@b7f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Spaghettis à la carbonara\n- Omelette aux oignons et tomates séchées\n- Spaghettis et courgettes à l'ail
-DURATION:PT45M
-DTSTART:20250822T171500Z
-SUMMARY:Spaghettis à la carbonara\, Omelette aux oignons et tomates séchées\, Spaghettis et courgettes à l'ail
-UID:1d4974d5-1050-4197-8501-18287fdd059d@1d49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Bouchée de fruits de mer au curry\n- Aiguillette de poulet sauce colombo\n- Pommes de terre boulangère\n- Jambon rôti aux herbes sauce au miel et à l'orange\n- Jardinière de légumes\n- Quiche aux tomates\, courgettes et à la ricotta\n- Salade verte
-DURATION:PT45M
-DTSTART:20250904T101500Z
-SUMMARY:Bouchée de fruits de mer au curry\, Aiguillette de poulet sauce colombo\, Pommes de terre boulangère\, Jambon rôti aux herbes sauce au miel et à l'orange\, Jardinière de légumes\, Quiche aux tomates\, courgettes et à la ricotta\, Salade verte
-UID:26ae90ac-5fd1-4667-bcc0-a37c6cff8e51@26ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Croque oeuf & tomate\n- Navarin d'agneau printanier\n- Blanquette de poisson\n- Riz bio et carottes\n- Risotto aux courgettes et parmesan\n- Carottes
-DURATION:PT45M
-DTSTART:20250829T101500Z
-SUMMARY:Croque oeuf & tomate\, Navarin d'agneau printanier\, Blanquette de poisson\, Riz bio et carottes\, Risotto aux courgettes et parmesan\, Carottes
-UID:e94ff0fa-31c0-4385-b5ed-e34f3ec3b935@e94f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Croisillon dubarry (chou-fleur)\n- Sauté de veau marengo (fr)\n- Purée et brocolis\n- Poisson pané - concassé de tomates à l'ail\n- Purée et brocolis\n- Samoussa de légumes\n- Purée et brocolis
-DURATION:PT45M
-DTSTART:20250908T101500Z
-SUMMARY:Croisillon dubarry (chou-fleur)\, Sauté de veau marengo (fr)\, Purée et brocolis\, Poisson pané - concassé de tomates à l'ail\, Purée et brocolis\, Samoussa de légumes\, Purée et brocolis
-UID:628922a2-24f3-4064-9398-8c0301d4dbe0@6289.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Pintade laquée au miel\n- Frites\n- Galette de lentilles corail et boulgour\n- Frites et brocolis
-DURATION:PT45M
-DTSTART:20250825T171500Z
-SUMMARY:Pintade laquée au miel\, Frites\, Galette de lentilles corail et boulgour\, Frites et brocolis
-UID:5856b7fd-b83c-48c8-809d-0a7398d48f27@5856.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Emincé de porc laqué\n- Riz cantonnais\n- Bouchée végétarienne\n- Julienne de légumes aux oignons
-DURATION:PT45M
-DTSTART:20250902T171500Z
-SUMMARY:Emincé de porc laqué\, Riz cantonnais\, Bouchée végétarienne\, Julienne de légumes aux oignons
-UID:ed3b8c93-fd17-449c-9b91-4bced88bc852@ed3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Moules marinières
-DURATION:PT45M
-DTSTART:20250910T101500Z
-SUMMARY:Moules marinières
-UID:5c50ce96-795e-4a94-9752-4f13c7c1356d@5c50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20250821T171500Z
-SUMMARY:Le rak est fermé ce soir
-UID:ff0aa6c5-f5c6-4109-a668-06a2e965fc9e@ff0a.org
+DTSTART:20250909T171500Z
+SUMMARY:Pain pita au kebab sauce blanche\, Frites\, Omelette au fromage\, Julienne de légumes aux champignons
+UID:5308100f-8f14-4185-887d-db5da97418f8@5308.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Emincé de veau à l'italienne\n- Purée et carottes\n- Crêpe de blé noir aux légumes\n- Pommes de terre vapeur - carottes
 DURATION:PT45M
 DTSTART:20250822T101500Z
 SUMMARY:Emincé de veau à l'italienne\, Purée et carottes\, Crêpe de blé noir aux légumes\, Pommes de terre vapeur - carottes
-UID:04ff12d7-fad6-4c26-8139-28ecaf0ee8de@04ff.org
+UID:9cadadcb-3478-4dbf-9f11-bf2730d14213@9cad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end (wei)
+DESCRIPTION:- Spaghettis à la carbonara\n- Omelette aux oignons et tomates séchées\n- Spaghettis et courgettes à l'ail
 DURATION:PT45M
-DTSTART:20250906T101500Z
-SUMMARY:Le rak est fermé ce week-end (wei)
-UID:0a6b28b0-3c4e-4a0a-8b6e-15512295d063@0a6b.org
+DTSTART:20250822T171500Z
+SUMMARY:Spaghettis à la carbonara\, Omelette aux oignons et tomates séchées\, Spaghettis et courgettes à l'ail
+UID:3596b3e2-f808-4f01-a0bf-84eb49ee7f8a@3596.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Tartine tomate et bleu\n- Fajitas au boeuf\n- Salade coleslaw et haricots rouges\n- Fajitas aux légumes et pois\n- Salade coleslaw\n- Dos de cabillaud sauce curry et lait de coco\n- Riz et carottes
-DURATION:PT45M
-DTSTART:20250905T101500Z
-SUMMARY:Tartine tomate et bleu\, Fajitas au boeuf\, Salade coleslaw et haricots rouges\, Fajitas aux légumes et pois\, Salade coleslaw\, Dos de cabillaud sauce curry et lait de coco\, Riz et carottes
-UID:25bcf21a-7f69-4e22-9181-5b881fb53fc1@25bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Sauté de boeuf aux olives\n- Semoule de couscous ratatouille\n- Omelette bio aux oignons\, tomates et poivrons\n- Semoule de couscous ratatouille
-DURATION:PT45M
-DTSTART:20250829T171500Z
-SUMMARY:Sauté de boeuf aux olives\, Semoule de couscous ratatouille\, Omelette bio aux oignons\, tomates et poivrons\, Semoule de couscous ratatouille
-UID:460651b6-ed2c-466f-9e9d-82109111d49a@4606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Curry de porc à l'indienne\n- Riz basmati bio et poëlée de légumes verts\n- Tarte au chèvre et à la tomate\n- Salade verte
-DURATION:PT45M
-DTSTART:20250823T171500Z
-SUMMARY:Curry de porc à l'indienne\, Riz basmati bio et poëlée de légumes verts\, Tarte au chèvre et à la tomate\, Salade verte
-UID:e2a4f8cd-433b-4cf9-a057-d99f4a858eff@e2a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Salade de chèvre chaud\n- Hachis parmentier (boeuf)\n- Salade verte\n- Filet de poisson meunière\n- Pomme de terre vapeur - brunoise de légumes
-DURATION:PT45M
-DTSTART:20250909T101500Z
-SUMMARY:Salade de chèvre chaud\, Hachis parmentier (boeuf)\, Salade verte\, Filet de poisson meunière\, Pomme de terre vapeur - brunoise de légumes
-UID:806253fd-7901-4aab-8f44-01f5dbbc2299@8062.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Escalope de dinde forestière\n- Printanière de légumes\n- Quiche mexicaine végétarienne\n- Salade verte
-DURATION:PT45M
-DTSTART:20250826T171500Z
-SUMMARY:Escalope de dinde forestière\, Printanière de légumes\, Quiche mexicaine végétarienne\, Salade verte
-UID:5419fd03-92de-4fb6-8b5b-000a009c4b92@5419.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Salade de lardons et gésiers de volaille
+DESCRIPTION:- Salade de lardons et gésiers de volaille\n- Souris d'agneau au thym\n- Flageolets à la tomate et oignons\n- Fish and chips sauce tartare\n- Frites\n- Omelette bio aux fines herbes\n- Frites et haricots verts
 DURATION:PT45M
 DTSTART:20250911T101500Z
-SUMMARY:Salade de lardons et gésiers de volaille
-UID:866242ff-56a2-4fdd-a857-d380be59864e@8662.org
+SUMMARY:Salade de lardons et gésiers de volaille\, Souris d'agneau au thym\, Flageolets à la tomate et oignons\, Fish and chips sauce tartare\, Frites\, Omelette bio aux fines herbes\, Frites et haricots verts
+UID:77123962-b089-4909-8253-0406562371fd@7712.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Tartine à la tomate et au chèvre
+DESCRIPTION:- Sauté de boeuf sauce arachide\n- Riz et poëlée de légumes asiatique\n- Tortellonni à la ricotta et tomates séchées\n- Sauce crème aux herbes
+DURATION:PT45M
+DTSTART:20250908T171500Z
+SUMMARY:Sauté de boeuf sauce arachide\, Riz et poëlée de légumes asiatique\, Tortellonni à la ricotta et tomates séchées\, Sauce crème aux herbes
+UID:1597d0be-0f12-4b05-8b27-e81a67943c2e@1597.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartine à la tomate et au chèvre\n- Tomate farcie - sauce tomate\n- Riz bio\n- Pavé de poisson à la bordelaise\n- Riz et épinards à la crème\n- Feuilleté aux tomates et poireaux et oignons\n- Salade verte
 DURATION:PT45M
 DTSTART:20250912T101500Z
-SUMMARY:Tartine à la tomate et au chèvre
-UID:e3d64d17-2dbc-4331-8eb7-c0f0c668fb81@e3d6.org
+SUMMARY:Tartine à la tomate et au chèvre\, Tomate farcie - sauce tomate\, Riz bio\, Pavé de poisson à la bordelaise\, Riz et épinards à la crème\, Feuilleté aux tomates et poireaux et oignons\, Salade verte
+UID:f3220125-07da-438c-a546-aa7c43f4b5af@f322.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Crêpe forestière\n- Rougail de saucisses de porc (fr)\n- Riz au curcuma\n- Rougail de saucisses végétales\n- Poëlée de légumes méridionale
+DESCRIPTION:- Sauté de porc aux pommes et romarin\n- Pommes de terre boulangère\n- Panini aux aubergines et à la fêta\n- Jardinière de légumes
 DURATION:PT45M
-DTSTART:20250830T171500Z
-SUMMARY:Crêpe forestière\, Rougail de saucisses de porc (fr)\, Riz au curcuma\, Rougail de saucisses végétales\, Poëlée de légumes méridionale
-UID:fc9654d5-673d-4b46-9a92-9a017e131efa@fc96.org
+DTSTART:20250912T171500Z
+SUMMARY:Sauté de porc aux pommes et romarin\, Pommes de terre boulangère\, Panini aux aubergines et à la fêta\, Jardinière de légumes
+UID:b2668410-5ca0-42e4-83e9-7592f735d7a1@b266.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Rôti de dinde au  curry et pommes\n- Semoule et ratatouille\n- Boul' d''agneau à la marocaine\n- Semoule et ratatouille\n- Pâtes bio aux haricots rouges et à la féta
 DURATION:PT45M
 DTSTART:20250825T101500Z
 SUMMARY:Rôti de dinde au  curry et pommes\, Semoule et ratatouille\, Boul' d''agneau à la marocaine\, Semoule et ratatouille\, Pâtes bio aux haricots rouges et à la féta
-UID:d4af4a78-8679-4b8b-909e-d7ddca224dbf@d4af.org
+UID:243619b2-234e-482e-9bb5-652ea51f8cad@2436.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Escalope de dinde forestière\n- Printanière de légumes\n- Quiche mexicaine végétarienne\n- Salade verte
+DURATION:PT45M
+DTSTART:20250826T171500Z
+SUMMARY:Escalope de dinde forestière\, Printanière de légumes\, Quiche mexicaine végétarienne\, Salade verte
+UID:f42e779f-e5d9-44b1-80f9-e21962bf03df@f42e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Cordon bleu de dinde\n- Coquillettes et carottes\n- Nuggets de blé sauce blanche\n- Coquillettes
+DURATION:PT45M
+DTSTART:20250913T171500Z
+SUMMARY:Cordon bleu de dinde\, Coquillettes et carottes\, Nuggets de blé sauce blanche\, Coquillettes
+UID:8c6c2b2a-83ba-4a8f-b237-ccc51375e38f@8c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Salade de chèvre chaud\n- Hachis parmentier (boeuf)\n- Salade verte\n- Filet de poisson meunière\n- Pomme de terre vapeur - brunoise de légumes\n- Courgette ronde farçie au blé et à la fêta\n- Pomme de terre vapeur - brunoise de légumes
+DURATION:PT45M
+DTSTART:20250909T101500Z
+SUMMARY:Salade de chèvre chaud\, Hachis parmentier (boeuf)\, Salade verte\, Filet de poisson meunière\, Pomme de terre vapeur - brunoise de légumes\, Courgette ronde farçie au blé et à la fêta\, Pomme de terre vapeur - brunoise de légumes
+UID:411a3120-91a0-462b-a779-d704eaf61847@411a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Cordon bleu de dinde\n- PurÉe et poëlée de légumes verts\n- Brick de légumes\n- Poêlée de légumes verts
+DURATION:PT45M
+DTSTART:20250903T171500Z
+SUMMARY:Cordon bleu de dinde\, PurÉe et poëlée de légumes verts\, Brick de légumes\, Poêlée de légumes verts
+UID:6cfcb53a-8818-4223-ab8f-b9d9634fd09a@6cfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Travers de porc sauce barbecue\n- Lentilles et choux de bruxelles\n- Filet de limande meunière au beurre citronné\n- Tagliatelles et brunoise de légumes\n- Poivron rouge farçi au blé et maïs et à la ricotta\n- Tagliatelles
+DURATION:PT45M
+DTSTART:20250826T101500Z
+SUMMARY:Travers de porc sauce barbecue\, Lentilles et choux de bruxelles\, Filet de limande meunière au beurre citronné\, Tagliatelles et brunoise de légumes\, Poivron rouge farçi au blé et maïs et à la ricotta\, Tagliatelles
+UID:1193424d-b2f6-441e-9bc9-35dd847c51ab@1193.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Gratin de coquillettes au jambon\n- Cuisse de poulet rôtie sauce framboises\n- Frites\n- Paupiette de veau à l'italienne\n- Poêlée de légumes verts\n- Tartine à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20250827T101500Z
+SUMMARY:Gratin de coquillettes au jambon\, Cuisse de poulet rôtie sauce framboises\, Frites\, Paupiette de veau à l'italienne\, Poêlée de légumes verts\, Tartine à la tomate et mozarella\, Salade verte
+UID:1bfd4777-6316-4977-863a-c0040544a64b@1bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de porc laqué\n- Riz cantonnais\n- Bouchée végétarienne\n- Julienne de légumes aux oignons
+DURATION:PT45M
+DTSTART:20250902T171500Z
+SUMMARY:Emincé de porc laqué\, Riz cantonnais\, Bouchée végétarienne\, Julienne de légumes aux oignons
+UID:b477d99c-002e-4b19-839b-1e2633a3a9a2@b477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Croque monsieur (jambon)\n- Salade verte\n- Croque madame (tomate et oeuf)\n- Salade verte\n- Saucisse fumée\n- Purée et brocolis
+DURATION:PT45M
+DTSTART:20250911T171500Z
+SUMMARY:Croque monsieur (jambon)\, Salade verte\, Croque madame (tomate et oeuf)\, Salade verte\, Saucisse fumée\, Purée et brocolis
+UID:20352dfd-7c6a-4cf6-a9cb-4b3cf8a340fb@2035.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Moules marinières\n- Filet de porc mignon au miel et romarin\n- Riz bio et carottes\n- Beignets de calamrars à la romaine\n- Riz bio et carottes\n- Bruchetta à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20250910T101500Z
+SUMMARY:Moules marinières\, Filet de porc mignon au miel et romarin\, Riz bio et carottes\, Beignets de calamrars à la romaine\, Riz bio et carottes\, Bruchetta à la tomate et mozarella\, Salade verte
+UID:18cfc113-af6d-4a76-ba53-f3d86a5c9eb9@18cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Pilons de poulet sauce barbecue\n- Frites\n- Omelette à l'espagnole\n- Haricots verts à l'ail et aux oignons
 DURATION:PT45M
 DTSTART:20250904T171500Z
 SUMMARY:Pilons de poulet sauce barbecue\, Frites\, Omelette à l'espagnole\, Haricots verts à l'ail et aux oignons
-UID:4823e04d-6365-46da-bff2-e5b886156b47@4823.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Pizza ronde au reblochon\n- Rosbeef-sauce poivre 5 baies\n- Purée de pomme de terre\n- Pavé de poisson à la bordelaise\n- Riz et épinards à la crème\n- Gratin de courgettes et d'aubergines à la féta\n- Salade verte
-DURATION:PT45M
-DTSTART:20250901T101500Z
-SUMMARY:Pizza ronde au reblochon\, Rosbeef-sauce poivre 5 baies\, Purée de pomme de terre\, Pavé de poisson à la bordelaise\, Riz et épinards à la crème\, Gratin de courgettes et d'aubergines à la féta\, Salade verte
-UID:85804dea-4598-4ae6-b46b-bf79f9c9a404@8580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Couscous aux 3 viandes\n- Semoule de couscous aux raisins\n- Flammekueche aux légumes d'été\n- Salade verte
-DURATION:PT45M
-DTSTART:20250821T101500Z
-SUMMARY:Couscous aux 3 viandes\, Semoule de couscous aux raisins\, Flammekueche aux légumes d'été\, Salade verte
-UID:6cfca6bb-f0e2-4580-a615-f8c47ea4d613@6cfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Steak haché sauce aux 3 poivres\n- Frites et épinards à la crème\n- Omelette bio aux oignons et poivrons marinés\n- Frites
-DURATION:PT45M
-DTSTART:20250820T101500Z
-SUMMARY:Steak haché sauce aux 3 poivres\, Frites et épinards à la crème\, Omelette bio aux oignons et poivrons marinés\, Frites
-UID:64dcaedb-18bb-4ddb-9801-240a276e622e@64dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartelette aux oignons\n- Emincé de veau au cidre\n- Frites\n- Beignets de calamars à la romaine concassé de tomates\n- Poëlée de légumes wok\n- Omelette bio aux oignons et poivrons rouges\n- Frites
-DURATION:PT45M
-DTSTART:20250903T101500Z
-SUMMARY:Tartelette aux oignons\, Emincé de veau au cidre\, Frites\, Beignets de calamars à la romaine concassé de tomates\, Poëlée de légumes wok\, Omelette bio aux oignons et poivrons rouges\, Frites
-UID:ae9ea594-b62d-4ccf-9df9-89238fc25f6a@ae9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Feuilleté hot-dog à la dinde\n- Escalope de poulet à la crème\n- Coquillettes\n- Samoussa de légumes - concassé de tomates\n- Poêlée de légumes à la forestière
-DURATION:PT45M
-DTSTART:20250830T101500Z
-SUMMARY:Feuilleté hot-dog à la dinde\, Escalope de poulet à la crème\, Coquillettes\, Samoussa de légumes - concassé de tomates\, Poêlée de légumes à la forestière
-UID:945b3bc4-11dd-44d8-b284-e9f412ba8b23@945b.org
+UID:2c9764c3-d4bb-43e2-ba30-d40c16e70701@2c97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Croque monsieur au jambon\n- Sauté de dinde aux poivrons\n- Semoule de couscous et ratatouille\n- Merguez grillées\n- Semoule de couscous et ratatouille\n- Pizza aux légumes grillés et oeuf poché\n- Salade verte
 DURATION:PT45M
 DTSTART:20250902T101500Z
 SUMMARY:Croque monsieur au jambon\, Sauté de dinde aux poivrons\, Semoule de couscous et ratatouille\, Merguez grillées\, Semoule de couscous et ratatouille\, Pizza aux légumes grillés et oeuf poché\, Salade verte
-UID:73726496-c436-48c1-b6f8-055ac8291e64@7372.org
+UID:532beffc-711f-417c-a2b4-271dbfe5271b@532b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Pintade laquée au miel\n- Frites\n- Galette de lentilles corail et boulgour\n- Frites et brocolis
+DURATION:PT45M
+DTSTART:20250825T171500Z
+SUMMARY:Pintade laquée au miel\, Frites\, Galette de lentilles corail et boulgour\, Frites et brocolis
+UID:b5db33d1-931c-4de2-a7f6-ae95c1a1ec2e@b5db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Feuilleté hot-dog à la dinde\n- Escalope de poulet à la crème\n- Coquillettes\n- Samoussa de légumes - concassé de tomates\n- Poêlée de légumes à la forestière
+DURATION:PT45M
+DTSTART:20250830T101500Z
+SUMMARY:Feuilleté hot-dog à la dinde\, Escalope de poulet à la crème\, Coquillettes\, Samoussa de légumes - concassé de tomates\, Poêlée de légumes à la forestière
+UID:373dc4d6-7a64-4e0e-9baa-97c647fd5f9a@373d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Steak haché sauce aux 5 baies\n- Semoule et ratatouille\n- Quiche aux poivrons et féta\n- Salade verte
+DURATION:PT45M
+DTSTART:20250910T171500Z
+SUMMARY:Steak haché sauce aux 5 baies\, Semoule et ratatouille\, Quiche aux poivrons et féta\, Salade verte
+UID:130d6ee2-d949-4c12-91f0-822e27d2a09c@130d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Poulet grillé à l'américaine\n- Frites\, tomate provençale et brocolis\n- Crêpe forestière et oeuf poché\n- Frites et brocolis
+DURATION:PT45M
+DTSTART:20250823T101500Z
+SUMMARY:Poulet grillé à l'américaine\, Frites\, tomate provençale et brocolis\, Crêpe forestière et oeuf poché\, Frites et brocolis
+UID:b2837e4a-f2e0-49ae-b907-be2966368aa0@b283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end (wei)
+DURATION:PT45M
+DTSTART:20250906T171500Z
+SUMMARY:Le rak est fermé ce week-end (wei)
+UID:93b3ffdd-d081-4784-a52e-202bcc2b307a@93b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Boul'boeuf aux epices - sauce tomate\n- Frites\n- Crêpe de blé noir forestière\n- Frites et poëlée méridionale
+DURATION:PT45M
+DTSTART:20250913T101500Z
+SUMMARY:Boul'boeuf aux epices - sauce tomate\, Frites\, Crêpe de blé noir forestière\, Frites et poëlée méridionale
+UID:c9fda506-0bd9-49e5-a671-385a016e462c@c9fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Croisillon dubarry (chou-fleur)\n- Sauté de veau marengo (fr)\n- Purée et brocolis\n- Poisson pané - concassé de tomates à l'ail\n- Purée et brocolis\n- Samoussa de légumes\n- Purée et brocolis
+DURATION:PT45M
+DTSTART:20250908T101500Z
+SUMMARY:Croisillon dubarry (chou-fleur)\, Sauté de veau marengo (fr)\, Purée et brocolis\, Poisson pané - concassé de tomates à l'ail\, Purée et brocolis\, Samoussa de légumes\, Purée et brocolis
+UID:04deb57b-4385-4fc2-9fb7-64d885ac59b6@04de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Jambonette de dinde confite\n- Coquillettes et brocolis\n- Croque au cheddar champignons et oignons\n- Salade verte
+DURATION:PT45M
+DTSTART:20250905T171500Z
+SUMMARY:Jambonette de dinde confite\, Coquillettes et brocolis\, Croque au cheddar champignons et oignons\, Salade verte
+UID:d8415081-81d2-4d6d-8467-8668f77aba2d@d841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de veau à la provençale\n- Riz basmati bio et poëlée de légumes verts\n- Tarte au chèvre et à la tomate\n- Salade verte
+DURATION:PT45M
+DTSTART:20250823T171500Z
+SUMMARY:Emincé de veau à la provençale\, Riz basmati bio et poëlée de légumes verts\, Tarte au chèvre et à la tomate\, Salade verte
+UID:ea61ce07-1d8c-4341-a66f-d970105a7d9a@ea61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Sauté de porc à la provençale\n- Pommes de terre vapeur\n- Curry végétarien au riz basmati et pois chiches
+DURATION:PT45M
+DTSTART:20250828T171500Z
+SUMMARY:Sauté de porc à la provençale\, Pommes de terre vapeur\, Curry végétarien au riz basmati et pois chiches
+UID:d998edb5-6d66-4e75-85d6-3d1ff02e9350@d998.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartine tomate et bleu\n- Fajitas au boeuf\n- Salade coleslaw et haricots rouges\n- Fajitas aux légumes et pois\n- Salade coleslaw\n- Dos de cabillaud sauce curry et lait de coco\n- Riz et carottes
+DURATION:PT45M
+DTSTART:20250905T101500Z
+SUMMARY:Tartine tomate et bleu\, Fajitas au boeuf\, Salade coleslaw et haricots rouges\, Fajitas aux légumes et pois\, Salade coleslaw\, Dos de cabillaud sauce curry et lait de coco\, Riz et carottes
+UID:46db70f2-d1db-427a-a9cb-ed1ce8fa5a8b@46db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Sauté de boeuf aux olives\n- Semoule de couscous ratatouille\n- Omelette bio aux oignons\, tomates et poivrons\n- Semoule de couscous ratatouille
+DURATION:PT45M
+DTSTART:20250829T171500Z
+SUMMARY:Sauté de boeuf aux olives\, Semoule de couscous ratatouille\, Omelette bio aux oignons\, tomates et poivrons\, Semoule de couscous ratatouille
+UID:548b6fee-38e5-4ab7-81c3-aa4990a40a48@548b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Pizza ronde au reblochon\n- Rosbeef-sauce poivre 5 baies\n- Purée de pomme de terre\n- Pavé de poisson à la bordelaise\n- Riz et épinards à la crème\n- Gratin de courgettes et d'aubergines à la féta\n- Salade verte
+DURATION:PT45M
+DTSTART:20250901T101500Z
+SUMMARY:Pizza ronde au reblochon\, Rosbeef-sauce poivre 5 baies\, Purée de pomme de terre\, Pavé de poisson à la bordelaise\, Riz et épinards à la crème\, Gratin de courgettes et d'aubergines à la féta\, Salade verte
+UID:ddbc62b0-40a2-4911-8e9f-f9a62f8e9e19@ddbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartelette aux oignons\n- Emincé de veau au cidre\n- Frites\n- Beignets de calamars à la romaine concassé de tomates\n- Poëlée de légumes wok\n- Omelette bio aux oignons et poivrons rouges\n- Frites
+DURATION:PT45M
+DTSTART:20250903T101500Z
+SUMMARY:Tartelette aux oignons\, Emincé de veau au cidre\, Frites\, Beignets de calamars à la romaine concassé de tomates\, Poëlée de légumes wok\, Omelette bio aux oignons et poivrons rouges\, Frites
+UID:bc16122a-5fdd-4ffe-8b57-7c1ea76c786f@bc16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Crêpe forestière\n- Rougail de saucisses de porc (fr)\n- Riz au curcuma\n- Rougail de saucisses végétales\n- Poëlée de légumes méridionale
+DURATION:PT45M
+DTSTART:20250830T171500Z
+SUMMARY:Crêpe forestière\, Rougail de saucisses de porc (fr)\, Riz au curcuma\, Rougail de saucisses végétales\, Poëlée de légumes méridionale
+UID:9704c446-568f-4b7d-b7b1-80fd46472bd2@9704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Bouchée de fruits de mer au curry\n- Aiguillette de poulet sauce colombo\n- Pommes de terre boulangère\n- Jambon rôti aux herbes sauce au miel et à l'orange\n- Jardinière de légumes\n- Quiche aux tomates\, courgettes et à la ricotta\n- Salade verte
+DURATION:PT45M
+DTSTART:20250904T101500Z
+SUMMARY:Bouchée de fruits de mer au curry\, Aiguillette de poulet sauce colombo\, Pommes de terre boulangère\, Jambon rôti aux herbes sauce au miel et à l'orange\, Jardinière de légumes\, Quiche aux tomates\, courgettes et à la ricotta\, Salade verte
+UID:3d35c705-e368-4a9a-81e0-23da4afd5e09@3d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end (wei)
+DURATION:PT45M
+DTSTART:20250906T101500Z
+SUMMARY:Le rak est fermé ce week-end (wei)
+UID:c6572cc0-ff6f-44cb-8005-0c911a12d449@c657.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Oeuf cocotte aux lardons\n- Emincé de boeuf aux poivrons\n- Gratin dauphinois\n- Cordon bleu de dinde\n- Coquillettes\n- Quiche aux aubergines et à la fêta\n- Salade verte
+DURATION:PT45M
+DTSTART:20250828T101500Z
+SUMMARY:Oeuf cocotte aux lardons\, Emincé de boeuf aux poivrons\, Gratin dauphinois\, Cordon bleu de dinde\, Coquillettes\, Quiche aux aubergines et à la fêta\, Salade verte
+UID:1ea281eb-155b-45f6-ac22-34d54d4b1702@1ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Spaghetti à la bolognaise (boeuf)\n- Spaghetti aux fèves\, curry et légumes
+DURATION:PT45M
+DTSTART:20250901T171500Z
+SUMMARY:Spaghetti à la bolognaise (boeuf)\, Spaghetti aux fèves\, curry et légumes
+UID:c6925697-12d4-49aa-bfc4-f30fbe6a2810@c692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Steak haché de boeuf sauce au poivre vert\n- Riz bio\n- Nems de légumes - concassé de tomates à l'ail\n- Riz bio et poëlée wok
+DURATION:PT45M
+DTSTART:20250827T171500Z
+SUMMARY:Steak haché de boeuf sauce au poivre vert\, Riz bio\, Nems de légumes - concassé de tomates à l'ail\, Riz bio et poëlée wok
+UID:5b8c18a5-ca2c-4ad4-b79f-c02cd3b0ff0b@5b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Croque oeuf & tomate\n- Navarin d'agneau printanier\n- Blanquette de poisson\n- Riz bio et carottes\n- Risotto aux courgettes et parmesan\n- Carottes
+DURATION:PT45M
+DTSTART:20250829T101500Z
+SUMMARY:Croque oeuf & tomate\, Navarin d'agneau printanier\, Blanquette de poisson\, Riz bio et carottes\, Risotto aux courgettes et parmesan\, Carottes
+UID:9c59e3f7-7c77-48ea-bd01-fd6e46c42767@9c59.org
 END:VEVENT
 END:VCALENDAR
