@@ -2,437 +2,472 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Paupiette de veau provençale\n- Pommes de terre boulangère\n- Courgette ronde farçie à la féta\n- Haricots verts à l'ail et aux oignons
-DURATION:PT45M
-DTSTART:20260728T101500Z
-SUMMARY:Paupiette de veau provençale\, Pommes de terre boulangère\, Courgette ronde farçie à la féta\, Haricots verts à l'ail et aux oignons
-UID:87531c3f-db3a-4a0d-b2a6-2ba726acb06b@8753.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends\n- Filet de poulet tandoori au lait coco\n- Riz bio et carottes bio\n- Tomate farcie végétarienne à la fêta\n- Riz bio et carottes bio
-DURATION:PT45M
-DTSTART:20260717T101500Z
-SUMMARY:Le rak est fermé tous les week-ends\, Filet de poulet tandoori au lait coco\, Riz bio et carottes bio\, Tomate farcie végétarienne à la fêta\, Riz bio et carottes bio
-UID:c948ed10-24b0-47a0-b862-14723de44b0c@c948.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Jambon rôti braisé - sauce moutarde\n- PurÉe et poëlée de légumes verts\n- Lasagnes aux courgettes\, carottes et épinards\n- Salade verte
-DURATION:PT45M
-DTSTART:20260730T101500Z
-SUMMARY:Jambon rôti braisé - sauce moutarde\, PurÉe et poëlée de légumes verts\, Lasagnes aux courgettes\, carottes et épinards\, Salade verte
-UID:49ae36d8-8770-42fb-b236-0fb8e6d40a07@49ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Fajitas au poulet\n- Haricots rouges et salade coleslaw\n- Fajitas végétariennes\n- Haricots rouges et salade coleslaw
-DURATION:PT45M
-DTSTART:20260724T101500Z
-SUMMARY:Fajitas au poulet\, Haricots rouges et salade coleslaw\, Fajitas végétariennes\, Haricots rouges et salade coleslaw
-UID:1d617e59-daac-444a-a9b3-4e46b643415b@1d61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260727T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:013470bd-4b79-4d81-97c1-2fc5deaa242d@0134.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260811T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:914496fa-bb03-4116-b422-6636fd5eb044@9144.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260710T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:c3234e62-edc0-44e6-9e0d-bce316482adc@c323.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Cuisse de poulet au curry\n- Frites et haricots verts\n- Omelette bio forestière\n- Frites et haricots verts
-DURATION:PT45M
-DTSTART:20260722T101500Z
-SUMMARY:Cuisse de poulet au curry\, Frites et haricots verts\, Omelette bio forestière\, Frites et haricots verts
-UID:470cb742-98b0-44fb-bae9-05a1ca0f00d3@470c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260806T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:6793dce1-db92-4de3-9339-f0a7cc3f5826@6793.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260718T171500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:7313be99-8950-44cd-95be-cc7dab66af84@7313.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé tous les week-ends
 DURATION:PT45M
 DTSTART:20260815T171500Z
 SUMMARY:Le rak est fermé tous les week-ends
-UID:6fbbf487-f4d9-4db4-b4be-3818128b70e8@6fbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260731T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:5c0b8be6-cb2f-4a86-aee1-45c3e93e4693@5c0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260805T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:53a2e9dd-5483-4ffa-bf99-bb5711f62ba3@53a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Emincé de boeuf aux poivrons\n- Pommes de terre hongroises\n- Poisson pané\n- Poëlée de légumes wok\n- Tarte au chèvre et tomates\n- Salade verte
-DURATION:PT45M
-DTSTART:20260723T101500Z
-SUMMARY:Emincé de boeuf aux poivrons\, Pommes de terre hongroises\, Poisson pané\, Poëlée de légumes wok\, Tarte au chèvre et tomates\, Salade verte
-UID:88f76997-be16-4341-a0c1-6c1be54e4cab@88f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Lasagnes bolognaise au boeuf\n- Salade verte\n- Lasagnes végétariennes au chèvre bio\n- Salade verte
-DURATION:PT45M
-DTSTART:20260715T101500Z
-SUMMARY:Lasagnes bolognaise au boeuf\, Salade verte\, Lasagnes végétariennes au chèvre bio\, Salade verte
-UID:49a84333-116b-4098-a65f-69b127bda952@49a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260810T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:abb03434-496e-4ce4-8fa9-3ee1dcb84c43@abb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260813T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:ebce1048-e562-40c8-80f5-3cc9eb4b389e@ebce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260728T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:aa5d8c41-6628-48f8-8a39-239adbb86511@aa5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260714T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:fa61f36f-f831-43e7-b280-618ce6d9a110@fa61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260725T171500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:02729d82-28da-4644-b9b8-83de8dff2b7b@0272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260729T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:da39f478-2bca-49d6-8d1a-bebd9b46dbcb@da39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260708T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:5f940591-1d78-4bb8-8b5e-ea13fd4b997a@5f94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260707T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:1d5971a5-2221-4631-835a-94a28141124b@1d59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260803T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:d3f6ba5b-1018-4aab-90f2-dc89f7830c1b@d3f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260718T101500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:98449f35-0aeb-4077-91a7-6351e8ec5209@9844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260804T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:1b6b3fe8-f790-4e09-820e-e1accb5e0962@1b6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260725T101500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:19a8d5bc-b524-4a25-81cc-64e76fa9fb9b@19a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Rosbeef-sauce poivre vert\n- Pommes de terre sautées\n- Gratin de courgettes\, aubergines et cantal\n- Salade verte
-DURATION:PT45M
-DTSTART:20260720T101500Z
-SUMMARY:Rosbeef-sauce poivre vert\, Pommes de terre sautées\, Gratin de courgettes\, aubergines et cantal\, Salade verte
-UID:a3d4dbfd-c02d-4d25-b75f-ad9c9e3b21b8@a3d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260808T171500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:2b868aef-c0dc-442c-8b8e-f745b1b0b10c@2b86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260724T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:8060a106-f7db-43dc-9b91-51de85cfc19a@8060.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Spaghettis bio bolognaise\n- Spaghettis bio aux aubergines\, poivrons et ricotta
-DURATION:PT45M
-DTSTART:20260706T101500Z
-SUMMARY:Spaghettis bio bolognaise\, Spaghettis bio aux aubergines\, poivrons et ricotta
-UID:4adc87ab-5252-48c7-9e36-03ca66e6d0b6@4adc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260815T101500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:8b9e01ed-c2d7-46a4-a48c-358790e69316@8b9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260814T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:a27f3740-9dbb-4f5d-b524-89e2488ef965@a27f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Emincé de veau forestière\n- Frites et brocolis bio\n- Omelette bio aux tomates et poivrons\n- Frites
-DURATION:PT45M
-DTSTART:20260716T101500Z
-SUMMARY:Emincé de veau forestière\, Frites et brocolis bio\, Omelette bio aux tomates et poivrons\, Frites
-UID:64bb7611-14e9-4b14-951b-67227fc3914b@64bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260711T101500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:5fa3808c-8859-4d52-aef9-fc31f8c8afd9@5fa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260721T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:19da4953-b115-4900-bafd-c6fed23b931d@19da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260722T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:18ce9c64-403a-44df-be40-5c676ffbe3cc@18ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Merguez grillées\n- Semoule bio et ratatouille\n- Parmentier aux poivrons rouges et cantal\n- Salade verte
-DURATION:PT45M
-DTSTART:20260713T101500Z
-SUMMARY:Merguez grillées\, Semoule bio et ratatouille\, Parmentier aux poivrons rouges et cantal\, Salade verte
-UID:7374388b-f44a-4e19-9d60-d6ea8ccf0108@7374.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce jour (férié)
-DURATION:PT45M
-DTSTART:20260714T101500Z
-SUMMARY:Le rak est fermé ce jour (férié)
-UID:87d647e8-f62d-416b-a3b3-51b90664e5be@87d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260715T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:2a2cdc3f-f9bf-4ca6-ba43-d81f840a26a6@2a2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260807T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:7995b974-b190-4ea2-88a4-fca1e5b50c1c@7995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tomate farcie (porc) - sauce tomate\n- Riz bio et carottes bio\n- Bruschetta à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20260731T101500Z
-SUMMARY:Tomate farcie (porc) - sauce tomate\, Riz bio et carottes bio\, Bruschetta à la tomate et mozarella\, Salade verte
-UID:b793f353-255b-414e-897d-7b5decf16a64@b793.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260720T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:92a27fa0-126c-4e2c-9de5-271e0e04f67b@92a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Côte de porc grillée sauce charcutière\n- Coquillettes bio et julienne de légumes\n- Pizza aux légumes grillés et oeuf poché\n- Salade verte
-DURATION:PT45M
-DTSTART:20260721T101500Z
-SUMMARY:Côte de porc grillée sauce charcutière\, Coquillettes bio et julienne de légumes\, Pizza aux légumes grillés et oeuf poché\, Salade verte
-UID:83ca9a60-9d89-4eaf-a336-57773351442e@83ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260713T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:2cea1489-16d7-41bd-abe2-142eea2168f2@2cea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260717T171500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:1d44adba-e3dc-4769-bdee-cd9d1b5d4628@1d44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260711T171500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:56043310-612c-4540-8012-9d48e79791e7@5604.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260801T171500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:9b6f7047-b829-43b6-b3ef-dd52791b09d9@9b6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Spaghettis bolognaise\n- Fromage râpé\n- Omelette aux oignons\, tomates et basilic\n- Spaghettis et poëlée wok
-DURATION:PT45M
-DTSTART:20260727T101500Z
-SUMMARY:Spaghettis bolognaise\, Fromage râpé\, Omelette aux oignons\, tomates et basilic\, Spaghettis et poëlée wok
-UID:a273d161-0f3b-43e3-b5e4-d799bb08f3ca@a273.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Escalope de dinde forestière\n- Coquillettes bio\n- Poëlée de nouilles asiatiques au parmesan\n- Poêlée wok
-DURATION:PT45M
-DTSTART:20260709T101500Z
-SUMMARY:Escalope de dinde forestière\, Coquillettes bio\, Poëlée de nouilles asiatiques au parmesan\, Poêlée wok
-UID:37285814-be8e-4bdb-90c6-388e9e55e33b@3728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260812T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:cce8b675-93b9-4686-81f0-e7012f28b6bb@cce8.org
+UID:de0ab9f1-cdd3-41ad-8c55-b27127d9eddb@de0a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Pilons de poulet à la mexicaine\n- Frites\n- Omelette aux tomates\, oignons et poivrons\n- Epinards à la crème
 DURATION:PT45M
 DTSTART:20260708T101500Z
 SUMMARY:Pilons de poulet à la mexicaine\, Frites\, Omelette aux tomates\, oignons et poivrons\, Epinards à la crème
-UID:62ccdb82-b7fc-420c-98e8-1fa4bff82bd5@62cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Sauté de veau à la provençale\n- Semoule et ratatouille\n- Gratin de courgettes\, tomates et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20260707T101500Z
-SUMMARY:Sauté de veau à la provençale\, Semoule et ratatouille\, Gratin de courgettes\, tomates et mozarella\, Salade verte
-UID:97c8484c-e688-45d8-b845-2b1d304c9569@97c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260709T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:a75fbe01-c888-4847-b5ae-6008fdd61ba9@a75f.org
+UID:accd6010-f571-4290-ad38-ec13531534d3@accd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé tous les week-ends
 DURATION:PT45M
-DTSTART:20260808T101500Z
+DTSTART:20260801T171500Z
 SUMMARY:Le rak est fermé tous les week-ends
-UID:fa7cb5a3-13e7-4e4f-afdf-f3e17b7178a0@fa7c.org
+UID:4896f7b0-10df-4aa8-a3a0-13fdba9edb6d@4896.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:- Steak haché sauce aux 3 poivres\n- Frites\n- Samoussas aux légumes - concassé de tomates à l'ail\n- Frites et brocolis bio
+DESCRIPTION:- Côte de porc grillée sauce charcutière\n- Coquillettes bio et julienne de légumes\n- Pizza aux légumes grillés et oeuf poché\n- Salade verte
 DURATION:PT45M
-DTSTART:20260729T101500Z
-SUMMARY:Steak haché sauce aux 3 poivres\, Frites\, Samoussas aux légumes - concassé de tomates à l'ail\, Frites et brocolis bio
-UID:49df0b47-f990-4a26-bb59-fb9d377ca94f@49df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260730T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:e0a780a9-4dbd-4f16-83db-b4be3ad41ea4@e0a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20260801T101500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:1938513f-2da2-416a-8edd-bd8ffad51141@1938.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260723T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:2b285220-f720-4cb1-b095-d83bbfc8ba1b@2b28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
-DURATION:PT45M
-DTSTART:20260706T171500Z
-SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:a31f0f52-6ccd-494f-8d8a-e0dcc959d109@a31f.org
+DTSTART:20260721T101500Z
+SUMMARY:Côte de porc grillée sauce charcutière\, Coquillettes bio et julienne de légumes\, Pizza aux légumes grillés et oeuf poché\, Salade verte
+UID:37247a25-966c-4638-b922-6c44535c5ea2@3724.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Pavé de poisson aux amandes\n- Riz madras\n- Bruschetta aux légumes d'été\n- Salade verte
 DURATION:PT45M
 DTSTART:20260710T101500Z
 SUMMARY:Pavé de poisson aux amandes\, Riz madras\, Bruschetta aux légumes d'été\, Salade verte
-UID:95189a70-5e03-4f95-b446-2121e2d8f877@9518.org
+UID:e4eba012-c696-40a9-a83f-f363458b6690@e4eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Steak de boeuf sauce échalotes\n- Frites\n- Omelette bio aux tomates\, oignons\, et poivrons\n- Epinards aux oignons
+DURATION:PT45M
+DTSTART:20260806T101500Z
+SUMMARY:Steak de boeuf sauce échalotes\, Frites\, Omelette bio aux tomates\, oignons\, et poivrons\, Epinards aux oignons
+UID:067d574c-0061-4b35-97fd-2d5002d24fe4@067d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Paupiette de veau provençale\n- Pommes de terre boulangère\n- Courgette ronde farçie à la féta\n- Haricots verts à l'ail et aux oignons
+DURATION:PT45M
+DTSTART:20260728T101500Z
+SUMMARY:Paupiette de veau provençale\, Pommes de terre boulangère\, Courgette ronde farçie à la féta\, Haricots verts à l'ail et aux oignons
+UID:8985d502-f883-4cd0-9932-d4ce848ad0ad@8985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Rosbeef-sauce poivre vert\n- Pommes de terre sautées\n- Gratin de courgettes\, aubergines et cantal\n- Salade verte
+DURATION:PT45M
+DTSTART:20260720T101500Z
+SUMMARY:Rosbeef-sauce poivre vert\, Pommes de terre sautées\, Gratin de courgettes\, aubergines et cantal\, Salade verte
+UID:3f410c28-bff7-496e-a095-5837a2784398@3f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Rôti de porc à la rhubarbe\n- Purée de pommes de terre et carottes bio\n- Poisson pané frais\n- Purée de carottes bio\n- Quiche à la tomate\, poivrons et mozzarella
+DURATION:PT45M
+DTSTART:20260805T101500Z
+SUMMARY:Rôti de porc à la rhubarbe\, Purée de pommes de terre et carottes bio\, Poisson pané frais\, Purée de carottes bio\, Quiche à la tomate\, poivrons et mozzarella
+UID:dbe54dc9-fa15-4f5b-8dd9-ad7d2b7b5864@dbe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260718T171500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:af9c693b-113e-4d89-8d8a-a68998503c0d@af9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260810T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:00cc9246-eda7-49d6-af05-bd897beeb4eb@00cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260713T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:54c51ad2-404b-460e-a507-1239d622813a@54c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Sauté de veau marengo\n- Pommes de terre et poëlée méridionale\n- Tagliatelles aux aubergines\, poivrons et ricotta\n- Fromage râpé et parmesan
+DURATION:PT45M
+DTSTART:20260803T101500Z
+SUMMARY:Sauté de veau marengo\, Pommes de terre et poëlée méridionale\, Tagliatelles aux aubergines\, poivrons et ricotta\, Fromage râpé et parmesan
+UID:6d5a791c-886f-4f25-891c-0518d55bcbc9@6d5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260715T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:7683daa0-2f1b-4491-853e-ce29dfd3afa1@7683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Cuisse de poulet au curry\n- Frites et haricots verts\n- Omelette bio forestière\n- Frites et haricots verts
+DURATION:PT45M
+DTSTART:20260722T101500Z
+SUMMARY:Cuisse de poulet au curry\, Frites et haricots verts\, Omelette bio forestière\, Frites et haricots verts
+UID:bfd5c7e7-432f-41a1-99ac-d32fb0c80b7b@bfd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260804T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:47855bee-6376-48a2-8dc2-2ba6b7dbfc84@4785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260728T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:f7750300-faa7-4096-aa5c-4514ec03e11f@f775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260725T101500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:cc12687b-4a90-41f2-9a45-ab20aaf12c9c@cc12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Merguez grillées\n- Semoule bio et ratatouille\n- Parmentier aux poivrons rouges et cantal\n- Salade verte
+DURATION:PT45M
+DTSTART:20260713T101500Z
+SUMMARY:Merguez grillées\, Semoule bio et ratatouille\, Parmentier aux poivrons rouges et cantal\, Salade verte
+UID:5aca099d-8e58-44ac-8b6f-7eb6ba8dd90d@5aca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260709T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:a018ae1d-812f-490b-bc3f-89461f4c525d@a018.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260803T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:ddd83e95-ece0-464f-b477-cdcc403b4475@ddd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260708T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:7a4ad5f7-8a5c-4e10-8434-b4a6fb3b0a60@7a4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tomate farcie (porc) - sauce tomate\n- Riz bio et carottes bio\n- Bruschetta à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20260731T101500Z
+SUMMARY:Tomate farcie (porc) - sauce tomate\, Riz bio et carottes bio\, Bruschetta à la tomate et mozarella\, Salade verte
+UID:e4f48ff1-c3ab-42fb-8b4b-5f96a6620676@e4f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Spaghettis bio bolognaise\n- Spaghettis bio aux aubergines\, poivrons et ricotta
+DURATION:PT45M
+DTSTART:20260706T101500Z
+SUMMARY:Spaghettis bio bolognaise\, Spaghettis bio aux aubergines\, poivrons et ricotta
+UID:13d21df9-6f69-4b59-94fa-7167cff7246c@13d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260815T101500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:dde6312c-9b10-464b-9949-288521c49e63@dde6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260808T171500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:3b8c9b88-6d94-4b0d-a7ad-6eafc12f52a7@3b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260721T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:2c13cd12-b0cd-4ca3-be2a-c2cbdac6689a@2c13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Jambon rôti braisé - sauce moutarde\n- PurÉe et poëlée de légumes verts\n- Lasagnes aux courgettes\, carottes et épinards\n- Salade verte
+DURATION:PT45M
+DTSTART:20260730T101500Z
+SUMMARY:Jambon rôti braisé - sauce moutarde\, PurÉe et poëlée de légumes verts\, Lasagnes aux courgettes\, carottes et épinards\, Salade verte
+UID:6513a5dc-8f2c-47d8-82ea-02fec29a8fef@6513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de veau forestière\n- Frites et brocolis bio\n- Omelette bio aux tomates et poivrons\n- Frites
+DURATION:PT45M
+DTSTART:20260716T101500Z
+SUMMARY:Emincé de veau forestière\, Frites et brocolis bio\, Omelette bio aux tomates et poivrons\, Frites
+UID:8c84c33c-d5ef-4b7a-bbcf-be6c49f059c3@8c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends\n- Filet de poulet tandoori au lait coco\n- Riz bio et carottes bio\n- Tomate farcie végétarienne à la fêta\n- Riz bio et carottes bio
+DURATION:PT45M
+DTSTART:20260717T101500Z
+SUMMARY:Le rak est fermé tous les week-ends\, Filet de poulet tandoori au lait coco\, Riz bio et carottes bio\, Tomate farcie végétarienne à la fêta\, Riz bio et carottes bio
+UID:853d2e83-3522-480e-8cce-4b080b458c16@853d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Fajitas au poulet\n- Haricots rouges et salade coleslaw\n- Fajitas végétariennes\n- Haricots rouges et salade coleslaw
+DURATION:PT45M
+DTSTART:20260724T101500Z
+SUMMARY:Fajitas au poulet\, Haricots rouges et salade coleslaw\, Fajitas végétariennes\, Haricots rouges et salade coleslaw
+UID:d6b36b81-6e0d-45ad-a576-a7199880bce3@d6b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260806T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:532dda6f-96d2-4b89-a370-69c476afc381@532d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260807T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:ba429767-9dcb-4d4d-9271-e57f1e2eff09@ba42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260723T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:50e70495-f0af-47cc-bc9b-83fc64b76240@50e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260706T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:8427e544-7122-4a08-afab-4196f07f457d@8427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260727T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:7f51f267-93c5-4fe2-a0df-6f15cbf52461@7f51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260731T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:8313fd94-480e-429c-9e36-31c837d64806@8313.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260711T171500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:014642da-03d3-49c2-ae88-5f2655e38969@0146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260718T101500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:cb74b22e-07ca-4423-9e8f-f8a6df2f94b7@cb74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260724T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:f54df251-35ec-4892-b1e5-89d113f6d575@f54d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
 DURATION:PT45M
 DTSTART:20260716T171500Z
 SUMMARY:Le rak est fermé le soir jusqu'au 23 août
-UID:7d6fe0d2-25fa-4e01-847d-ddee0d55de54@7d6f.org
+UID:3e038f6f-d3af-411d-8336-480bebc77e24@3e03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260801T101500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:6bd686f0-17c5-48d5-b0e8-289439f99c7e@6bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260811T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:1e950a2e-bbd4-405e-bacf-48d686372838@1e95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260717T171500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:60d6236b-66a7-4f3d-9046-dd98c8a4cb10@60d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Escalope de dinde forestière\n- Coquillettes bio\n- Poëlée de nouilles asiatiques au parmesan\n- Poêlée wok
+DURATION:PT45M
+DTSTART:20260709T101500Z
+SUMMARY:Escalope de dinde forestière\, Coquillettes bio\, Poëlée de nouilles asiatiques au parmesan\, Poêlée wok
+UID:69d17a3c-8c19-4d09-8aed-62be393f81d1@69d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260730T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:c88c92d3-7fcc-4a25-be82-91c71e29614a@c88c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260725T171500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:9552f30c-53cb-43f5-8623-29a674f616da@9552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Steak haché sauce aux 3 poivres\n- Frites\n- Samoussas aux légumes - concassé de tomates à l'ail\n- Frites et brocolis bio
+DURATION:PT45M
+DTSTART:20260729T101500Z
+SUMMARY:Steak haché sauce aux 3 poivres\, Frites\, Samoussas aux légumes - concassé de tomates à l'ail\, Frites et brocolis bio
+UID:6787f50e-18b4-4d7b-bffa-20be33a55074@6787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de boeuf aux poivrons\n- Pommes de terre hongroises\n- Poisson pané\n- Poëlée de légumes wok\n- Tarte au chèvre et tomates\n- Salade verte
+DURATION:PT45M
+DTSTART:20260723T101500Z
+SUMMARY:Emincé de boeuf aux poivrons\, Pommes de terre hongroises\, Poisson pané\, Poëlée de légumes wok\, Tarte au chèvre et tomates\, Salade verte
+UID:298b2176-6922-427f-8106-bd15e3c4d4ae@298b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260707T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:cae910c2-e21d-4ddb-8b9d-569759c484b1@cae9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260813T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:fcc4eac6-71c4-449d-a510-9f3d74de6c74@fcc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Lasagnes bolognaise au boeuf\n- Salade verte\n- Lasagnes végétariennes au chèvre bio\n- Salade verte
+DURATION:PT45M
+DTSTART:20260715T101500Z
+SUMMARY:Lasagnes bolognaise au boeuf\, Salade verte\, Lasagnes végétariennes au chèvre bio\, Salade verte
+UID:eba8e0c0-c63c-48d5-9da4-65d8a61e060b@eba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260814T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:3fb94e04-360c-4794-82c4-bcedece3b6c2@3fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260714T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:4b89f53d-bbd3-43bd-9ffc-17b4a10b5e0e@4b89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260711T101500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:2db00f8c-326a-4f62-8ffc-8b5c9566cd4c@2db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Quiche lorraine (porc)\n- Salade verte\n- Pavé de poisson à la bordelaise\n- Riz bio et brocolis bio\n- Nuggets de blé et concassé de tomates à l'ail\n- Riz bio
+DURATION:PT45M
+DTSTART:20260807T101500Z
+SUMMARY:Quiche lorraine (porc)\, Salade verte\, Pavé de poisson à la bordelaise\, Riz bio et brocolis bio\, Nuggets de blé et concassé de tomates à l'ail\, Riz bio
+UID:708d88c6-a1d8-49cd-bd76-7894c5473dcd@708d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260710T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:465adb2a-b1bc-4b70-8608-3d2c9d39f6d1@465a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260812T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:722e16ca-85da-4248-818c-af2d5513bfeb@722e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Sauté de veau à la provençale\n- Semoule et ratatouille\n- Gratin de courgettes\, tomates et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20260707T101500Z
+SUMMARY:Sauté de veau à la provençale\, Semoule et ratatouille\, Gratin de courgettes\, tomates et mozarella\, Salade verte
+UID:4bff3d5b-5f3f-48e7-b5e5-84a57321ddea@4bff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Escalope de poulet au curry et lait de coco\n- Riz bio et poëlée wok\n- Boul'lentilles et sarrasin - sauce tomate au basilic\n- Riz bio et poëlée wok
+DURATION:PT45M
+DTSTART:20260804T101500Z
+SUMMARY:Escalope de poulet au curry et lait de coco\, Riz bio et poëlée wok\, Boul'lentilles et sarrasin - sauce tomate au basilic\, Riz bio et poëlée wok
+UID:e123d4e8-4e33-4f34-af33-c9edbb60759a@e123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260720T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:cd36e011-ba13-4c09-834e-6a5df79406af@cd36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce jour (férié)
+DURATION:PT45M
+DTSTART:20260714T101500Z
+SUMMARY:Le rak est fermé ce jour (férié)
+UID:2057d7a1-c30d-4aca-8940-abc5ab30f4e7@2057.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Spaghettis bolognaise\n- Fromage râpé\n- Omelette aux oignons\, tomates et basilic\n- Spaghettis et poëlée wok
+DURATION:PT45M
+DTSTART:20260727T101500Z
+SUMMARY:Spaghettis bolognaise\, Fromage râpé\, Omelette aux oignons\, tomates et basilic\, Spaghettis et poëlée wok
+UID:96737fe5-348b-4517-bf99-5eff8f1cc0f6@9673.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20260808T101500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:fcd30088-095f-4e21-97e7-358f6b1a56c5@fcd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260729T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:6c6ed5bd-f1b8-42fc-8178-07e3b786b8fe@6c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260722T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:fb962f19-c135-4dc8-8903-3afdb275bd52@fb96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé le soir jusqu'au 23 août
+DURATION:PT45M
+DTSTART:20260805T171500Z
+SUMMARY:Le rak est fermé le soir jusqu'au 23 août
+UID:1b3fef1f-2ad4-440c-9b02-debdc92bb392@1b3f.org
 END:VEVENT
 END:VCALENDAR
