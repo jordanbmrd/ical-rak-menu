@@ -2,479 +2,395 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:- Pintade laquée au miel\n- Frites et poêlée asiatique\n- Croque madame (tomate et oeuf)\n- Salade verte
+DESCRIPTION:- Soupe de légumes d'hiver\n- Sauté de lapin à la moutarde\n- Purée et poëlée forestière\n- Brochette de poisson pané - sauce au fromage blanc\n- Tagliatelles bio\n- Bouchée de brocolis\, poivrons et ricotta\n- Tagliatelles bio
 DURATION:PT45M
-DTSTART:20261008T171500Z
-SUMMARY:Pintade laquée au miel\, Frites et poêlée asiatique\, Croque madame (tomate et oeuf)\, Salade verte
-UID:1eb746e5-39be-4390-a2b4-be62e10b2da8@1eb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Crème dubarry aux choux-fleurs\n- Steak de boeuf - sauce aux échalotes\n- Frites et haricots verts à l'ail\n- Poisson pané à la tomate sauce tomate\n- Frites\n- Galette de millet et boulgour au curry\n- Frites
-DURATION:PT45M
-DTSTART:20261112T111500Z
-SUMMARY:Crème dubarry aux choux-fleurs\, Steak de boeuf - sauce aux échalotes\, Frites et haricots verts à l'ail\, Poisson pané à la tomate sauce tomate\, Frites\, Galette de millet et boulgour au curry\, Frites
-UID:8c670f77-943e-47c0-ba28-e18c9e84f3fa@8c67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20261028T181500Z
-SUMMARY:Le rak est fermé ce soir
-UID:019a2afd-8e14-4936-88bf-318a90e9928f@019a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Spaghettis à la bolognaise\n- Fromage râpé\n- Spaghettis aux fèves\, curry et légumes\n- Fromage râpé
-DURATION:PT45M
-DTSTART:20261012T171500Z
-SUMMARY:Spaghettis à la bolognaise\, Fromage râpé\, Spaghettis aux fèves\, curry et légumes\, Fromage râpé
-UID:b1f99b65-26e7-43d2-90ba-3f4f38725db7@b1f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20261107T181500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:d3d2451c-e832-4a86-8fc0-8b62e2452e40@d3d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes\n- Cuisse de pintade aux raisins\n- Purée de pomme de terre\n- Omelette forestière\n- Jardinière de légumes
-DURATION:PT45M
-DTSTART:20261106T181500Z
-SUMMARY:Soupe de légumes\, Cuisse de pintade aux raisins\, Purée de pomme de terre\, Omelette forestière\, Jardinière de légumes
-UID:c1c38457-8b99-46a8-8dbb-09c1b73d807b@c1c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Emincé de dinde mariné façon kebab\n- Frites et salade iceberg\n- Omelette au fromage\n- Frites
-DURATION:PT45M
-DTSTART:20261020T171500Z
-SUMMARY:Soupe\, Emincé de dinde mariné façon kebab\, Frites et salade iceberg\, Omelette au fromage\, Frites
-UID:b7493e00-0e88-4586-9ebc-7273270a0fbe@b749.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Sauté de boeuf aux arachides\n- Riz et poëlée asiatique\n- Tortellonnis à la ricotta et tomates séchées\n- Fromage râpé et parmesan
-DURATION:PT45M
-DTSTART:20261019T171500Z
-SUMMARY:Soupe\, Sauté de boeuf aux arachides\, Riz et poëlée asiatique\, Tortellonnis à la ricotta et tomates séchées\, Fromage râpé et parmesan
-UID:ae0a16d4-c965-4cbe-b328-55addbc86d8e@ae0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Jour férié - rak fermé
-DURATION:PT45M
-DTSTART:20261111T111500Z
-SUMMARY:Jour férié - rak fermé
-UID:89f7e0fc-6c82-4a1b-bb93-69434660e6cc@89f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe au pistou avec coquillettes bio\n- Paupiette de veau sauce colombo\n- Tagliatelles bio et poëlée bretonne\n- Filet de dorade - sauce crustacés\n- Tagliatelles bio\n- Bouchée tomates\, oignons et poireaux\n- Tagliatelles bio
-DURATION:PT45M
-DTSTART:20261023T101500Z
-SUMMARY:Soupe au pistou avec coquillettes bio\, Paupiette de veau sauce colombo\, Tagliatelles bio et poëlée bretonne\, Filet de dorade - sauce crustacés\, Tagliatelles bio\, Bouchée tomates\, oignons et poireaux\, Tagliatelles bio
-UID:62c764a6-7ac8-429f-8617-ccc2dff162b6@62c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20261026T181500Z
-SUMMARY:Le rak est fermé ce soir
-UID:b0ffdd16-3d0a-4dc2-abb9-8d7b94de8867@b0ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Spaghettis bio à la bolognaise (boeuf)\n- Fromage râpé\n- Pané de blé à la tomate et mozzarella\n- Spaghettis bio et légumes
-DURATION:PT45M
-DTSTART:20261112T181500Z
-SUMMARY:Soupe\, Spaghettis bio à la bolognaise (boeuf)\, Fromage râpé\, Pané de blé à la tomate et mozzarella\, Spaghettis bio et légumes
-UID:a70a8158-db8e-4746-9141-15c4550b0c15@a70a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Emincé de porc laqué\n- Riz cantonais\n- Quiche aux poivrons tomates et olives\n- Salade verte
-DURATION:PT45M
-DTSTART:20261013T171500Z
-SUMMARY:Emincé de porc laqué\, Riz cantonais\, Quiche aux poivrons tomates et olives\, Salade verte
-UID:6d7cfb03-4877-4251-8bb2-0391e9190323@6d7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de carottes et lait de coco\n- Tajine d'agneau aux figues\n- Semoule bio et légumes ratatouille\n- Boudin noir ou chipolatas grillées\n- Purée et fondue de choux verts\n- Tortellonnis ricotta épinards sauce tomate au basilic
-DURATION:PT45M
-DTSTART:20261102T111500Z
-SUMMARY:Soupe de carottes et lait de coco\, Tajine d'agneau aux figues\, Semoule bio et légumes ratatouille\, Boudin noir ou chipolatas grillées\, Purée et fondue de choux verts\, Tortellonnis ricotta épinards sauce tomate au basilic
-UID:162cda1a-3469-45de-a5eb-ef9d0c4b1536@162c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Saucisse de molène aux choux\n- Pomme de terre vapeur\n- Filet de limande en croûte au beurre citronné\n- Pennes bio et épinards à la crème\n- Pâtes bio forestières  aux poireaux
-DURATION:PT45M
-DTSTART:20261110T111500Z
-SUMMARY:Saucisse de molène aux choux\, Pomme de terre vapeur\, Filet de limande en croûte au beurre citronné\, Pennes bio et épinards à la crème\, Pâtes bio forestières  aux poireaux
-UID:fcee08d5-4e12-4b71-8ead-a5ef07583a8a@fcee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Potage de poireaux et pommes de terre\n- Filet de porc mignon au miel et romarin\n- Semoule de couscous bio et ratatouille\n- Beignets de calamars - sauce au fromage blanc\n- Semoule bio et ratatouille\n- Bruschetta à la tomate et mozarella\n- Salade verte
-DURATION:PT45M
-DTSTART:20261021T101500Z
-SUMMARY:Potage de poireaux et pommes de terre\, Filet de porc mignon au miel et romarin\, Semoule de couscous bio et ratatouille\, Beignets de calamars - sauce au fromage blanc\, Semoule bio et ratatouille\, Bruschetta à la tomate et mozarella\, Salade verte
-UID:beb88fe5-207e-42a3-b952-8c74495dbbe4@beb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Cordon bleu de dinde - sauce fromagère\n- Purée et poêlée campagnarde\n- Flammekueche aux poireaux et aux oignons\n- Salade verte
-DURATION:PT45M
-DTSTART:20261014T171500Z
-SUMMARY:Cordon bleu de dinde - sauce fromagère\, Purée et poêlée campagnarde\, Flammekueche aux poireaux et aux oignons\, Salade verte
-UID:c2b5fb57-c140-4215-8eb4-34834e270760@c2b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes\n- Escalope de dinde viennoise\n- Tagliatelles bio et brocolis\n- Panini au cheddar et légumes grillés\n- Tagliatelles bio et brocolis
-DURATION:PT45M
-DTSTART:20261104T181500Z
-SUMMARY:Soupe de légumes\, Escalope de dinde viennoise\, Tagliatelles bio et brocolis\, Panini au cheddar et légumes grillés\, Tagliatelles bio et brocolis
-UID:004781db-5613-49ee-b518-78186e86157f@0047.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20261107T111500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:56a25af8-482e-4b6f-8c99-694c48759a3f@56a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Crème de potimarrons bio\n- Rôti d'agneau au thym et crème d'ail\n- Frites et haricots verts à l'ail\n- Fish and chips sauce tartare\n- Frites\n- Omelette aux fines herbes\n- Frites
-DURATION:PT45M
-DTSTART:20261022T101500Z
-SUMMARY:Crème de potimarrons bio\, Rôti d'agneau au thym et crème d'ail\, Frites et haricots verts à l'ail\, Fish and chips sauce tartare\, Frites\, Omelette aux fines herbes\, Frites
-UID:3abef54b-b701-4b43-a5be-049551eac604@3abe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20261031T111500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:17eeb7b7-293e-4f61-804c-b6ed6e25cc02@17ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe d'épinards et pommes de terre\n- Hachis parmentier de boeuf et canard\n- Salade verte\n- Beignets de calamrars à la romaine\n- Riz bio pilaf et carottes bio\n- Pâtes au potimarrons et pois gourmand
-DURATION:PT45M
-DTSTART:20261103T111500Z
-SUMMARY:Soupe d'épinards et pommes de terre\, Hachis parmentier de boeuf et canard\, Salade verte\, Beignets de calamrars à la romaine\, Riz bio pilaf et carottes bio\, Pâtes au potimarrons et pois gourmand
-UID:a488db27-8b95-47c6-aab1-317ada0418ff@a488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Sauté de porc au cidre et aux pommes\n- Riz madras et poélée wok\n- Lasagnes végétariennes aux légumes d'hiver\n- Salade verte
-DURATION:PT45M
-DTSTART:20261027T111500Z
-SUMMARY:Sauté de porc au cidre et aux pommes\, Riz madras et poélée wok\, Lasagnes végétariennes aux légumes d'hiver\, Salade verte
-UID:2a94e62e-cb91-45bb-8826-94ddafcfdbef@2a94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Aiguillettes de poulet - sauce fromagère\n- Spaghettis bio et légumes grillés\n- Quiche aux poivrons et à la fêta\n- Salade verte
-DURATION:PT45M
-DTSTART:20261021T171500Z
-SUMMARY:Soupe\, Aiguillettes de poulet - sauce fromagère\, Spaghettis bio et légumes grillés\, Quiche aux poivrons et à la fêta\, Salade verte
-UID:6371d46b-5266-4331-81cb-cb4d32e7ff63@6371.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Velouté de carottes au cumin\n- Sauté de veau marengo\n- Pommes de terre vitelotte pommes vapeur brocolis\n- Filet de poisson meunière au beurre citronné\n- Riz bio et jardinière de légumes\n- Courgette ronde farcie à la fêta et au boulgour\n- Riz bio
-DURATION:PT45M
-DTSTART:20261020T101500Z
-SUMMARY:Velouté de carottes au cumin\, Sauté de veau marengo\, Pommes de terre vitelotte pommes vapeur brocolis\, Filet de poisson meunière au beurre citronné\, Riz bio et jardinière de légumes\, Courgette ronde farcie à la fêta et au boulgour\, Riz bio
-UID:b90a1674-9ccf-4f0f-872d-1a2855d10539@b90a.org
+DTSTART:20261109T111500Z
+SUMMARY:Soupe de légumes d'hiver\, Sauté de lapin à la moutarde\, Purée et poëlée forestière\, Brochette de poisson pané - sauce au fromage blanc\, Tagliatelles bio\, Bouchée de brocolis\, poivrons et ricotta\, Tagliatelles bio
+UID:bc04e263-c761-4155-914b-7d7a113b1287@bc04.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Le rak est fermé tous les week-ends
 DURATION:PT45M
 DTSTART:20261024T101500Z
 SUMMARY:Le rak est fermé tous les week-ends
-UID:bb3cc782-f9ca-469d-99f1-bd01a39f3ec7@bb3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20261024T171500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:74884c36-cd90-45f1-86ec-e8d072144ebf@7488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes d'hiver\n- Sauté de lapin à la moutarde\n- Purée et poëlée forestière\n- Brochette de poisson pané - sauce au fromage blanc\n- Tagliatelles bio\n- Bouchée de brocolis\, poivrons et ricotta\n- Tagliatelles bio
-DURATION:PT45M
-DTSTART:20261109T111500Z
-SUMMARY:Soupe de légumes d'hiver\, Sauté de lapin à la moutarde\, Purée et poëlée forestière\, Brochette de poisson pané - sauce au fromage blanc\, Tagliatelles bio\, Bouchée de brocolis\, poivrons et ricotta\, Tagliatelles bio
-UID:19a868a8-ce8e-46b9-8711-66d090a97a99@19a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes\n- Aiguillette de poulet colombo\n- riz bio aux légumes\n- Samoussa aux légumes - concassé de tomates à l'ail\n- riz bio aux légumes
-DURATION:PT45M
-DTSTART:20261105T181500Z
-SUMMARY:Soupe de légumes\, Aiguillette de poulet colombo\, riz bio aux légumes\, Samoussa aux légumes - concassé de tomates à l'ail\, riz bio aux légumes
-UID:8f8320cb-3c37-48c1-ad0c-b6b16935bd76@8f83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de brocolis\n- Coquelet à l'estragon\n- Frites\n- Omelette aux tomates et poivrons\n- Gratin de potimarrons\n- Salade verte
-DURATION:PT45M
-DTSTART:20261028T111500Z
-SUMMARY:Soupe de brocolis\, Coquelet à l'estragon\, Frites\, Omelette aux tomates et poivrons\, Gratin de potimarrons\, Salade verte
-UID:4206e0f5-4949-4342-ada9-a97bdc3a180b@4206.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20261029T181500Z
-SUMMARY:Le rak est fermé ce soir
-UID:1d7dc892-04e7-44ef-b295-fe01d332327b@1d7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Lamelles de kebab sauce blanche\n- Frites et salade iceberg-tomate et oignons\n- Omelette forestière\n- Frites
-DURATION:PT45M
-DTSTART:20261110T181500Z
-SUMMARY:Soupe\, Lamelles de kebab sauce blanche\, Frites et salade iceberg-tomate et oignons\, Omelette forestière\, Frites
-UID:2f8e62a8-e361-46e1-bda2-57221fed63ef@2f8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes\n- Spaghettis  carbonara\n- Fromage râpé\n- Spaghettis aux fèves\, légumes et curry\n- Fromage râpé
-DURATION:PT45M
-DTSTART:20261102T181500Z
-SUMMARY:Soupe de légumes\, Spaghettis  carbonara\, Fromage râpé\, Spaghettis aux fèves\, légumes et curry\, Fromage râpé
-UID:0b6f531e-51cc-4046-bcd7-e5cc31285246@0b6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de légumes\n- Pizza au kebab\n- Salade verte\n- Pizza aux légumes\, pesto et oeuf poché\n- Salade verte
-DURATION:PT45M
-DTSTART:20261103T181500Z
-SUMMARY:Soupe de légumes\, Pizza au kebab\, Salade verte\, Pizza aux légumes\, pesto et oeuf poché\, Salade verte
-UID:fe90a8c9-7b24-4a40-a1bc-412adf57fa8e@fe90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Salade de gésiers de volaille et lardons\n- Travers de porc barbecue\n- Lentilles bio et choux de bruxelles\n- Filet de limande meunière beurre citronné\n- Tagliatelles bio et brunoise de légumes
-DURATION:PT45M
-DTSTART:20261006T101500Z
-SUMMARY:Salade de gésiers de volaille et lardons\, Travers de porc barbecue\, Lentilles bio et choux de bruxelles\, Filet de limande meunière beurre citronné\, Tagliatelles bio et brunoise de légumes
-UID:7bd77874-bbf8-4865-b1d8-cbf642f8b09e@7bd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce week-end
-DURATION:PT45M
-DTSTART:20261031T181500Z
-SUMMARY:Le rak est fermé ce week-end
-UID:1d07cf64-24ea-4343-8cd8-c2f612809de1@1d07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Salade d'oeuf poché aux croûtons\n- Lamelles de kebab sauce blanche\n- Frites\n- Filet de limande en croûte\n- Frites\n- Omelette aux oignons et poivrons rouges\n- Poêlée asiatique
-DURATION:PT45M
-DTSTART:20261014T101500Z
-SUMMARY:Salade d'oeuf poché aux croûtons\, Lamelles de kebab sauce blanche\, Frites\, Filet de limande en croûte\, Frites\, Omelette aux oignons et poivrons rouges\, Poêlée asiatique
-UID:38726fa0-84d7-46f4-819f-371da2295211@3872.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Gratin dauphinois\n- Cordon bleu de dinde\n- Coquillettes bio et trio de légumes anciens bio\n- Quiche aux aubergines et fêta\n- Salade verte
-DURATION:PT45M
-DTSTART:20261007T171500Z
-SUMMARY:Gratin dauphinois\, Cordon bleu de dinde\, Coquillettes bio et trio de légumes anciens bio\, Quiche aux aubergines et fêta\, Salade verte
-UID:a7ba93dc-d5f2-4a42-b5df-ca722d38289a@a7ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de courgettes à la vache qui rit\n- Hachis parmentier de boeuf\n- Salade verte\n- Poisson pané à la tomate concassé de tomates à l'ail\n- Purée et brocolis\n- Samoussa de légumes - concassé de tomates à l'ail\n- Purée et brocolis
-DURATION:PT45M
-DTSTART:20261019T101500Z
-SUMMARY:Soupe de courgettes à la vache qui rit\, Hachis parmentier de boeuf\, Salade verte\, Poisson pané à la tomate concassé de tomates à l'ail\, Purée et brocolis\, Samoussa de légumes - concassé de tomates à l'ail\, Purée et brocolis
-UID:2953b676-ac7c-4543-9204-74afab527b13@2953.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Cordon bleu de dinde - sauce tomate\n- Frites\n- Omelette au fromage\n- Poêlée de légumes verts
-DURATION:PT45M
-DTSTART:20261023T171500Z
-SUMMARY:Soupe\, Cordon bleu de dinde - sauce tomate\, Frites\, Omelette au fromage\, Poêlée de légumes verts
-UID:cbcfc14d-e33f-4dad-a7d3-c557d2cb1a5b@cbcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartelette lorraine (lardons)\n- Emincé de boeuf aux poivrons\n- Gratin dauphinois\n- Cordon bleu de dinde\n- Coquillettes bio et poëlée campagnarde\n- Quiche aux aubergines et à la fêta\n- Salade verte
-DURATION:PT45M
-DTSTART:20261008T101500Z
-SUMMARY:Tartelette lorraine (lardons)\, Emincé de boeuf aux poivrons\, Gratin dauphinois\, Cordon bleu de dinde\, Coquillettes bio et poëlée campagnarde\, Quiche aux aubergines et à la fêta\, Salade verte
-UID:4e734b72-eeaa-4f37-986f-f2cd432fb71d@4e73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20261027T181500Z
-SUMMARY:Le rak est fermé ce soir
-UID:f07a2429-91ea-412d-bf29-fbc2fea1e1ed@f07a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de courgettes\n- Steak haché du boucher sauce poivre vert\n- Purée et haricots verts à l'ail\n- Quiche végétarienne mexicaine\n- Salade verte
-DURATION:PT45M
-DTSTART:20261029T111500Z
-SUMMARY:Soupe de courgettes\, Steak haché du boucher sauce poivre vert\, Purée et haricots verts à l'ail\, Quiche végétarienne mexicaine\, Salade verte
-UID:610371ff-174e-4f1c-91ac-b23cd56727c2@6103.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Escalope de dinde forestière\n- Printanière de légumes\n- Quiche mexicaine végétarienne\n- Salade verte
-DURATION:PT45M
-DTSTART:20261006T171500Z
-SUMMARY:Escalope de dinde forestière\, Printanière de légumes\, Quiche mexicaine végétarienne\, Salade verte
-UID:2067f63e-89be-454f-b302-dcd4b9d21399@2067.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Croissant au jambon\n- Cuisse de poulet sauce arachide\n- Frites et choux romanesco\n- Saucisse aux oignons de roscoff\n- Frites\n- Bruschetta aux courgettes\, oignons et cheddar\n- Salade verte
-DURATION:PT45M
-DTSTART:20261007T101500Z
-SUMMARY:Croissant au jambon\, Cuisse de poulet sauce arachide\, Frites et choux romanesco\, Saucisse aux oignons de roscoff\, Frites\, Bruschetta aux courgettes\, oignons et cheddar\, Salade verte
-UID:58bd2ff4-f0de-4f50-a135-23d960fd3710@58bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de petits pois à la crème\n- Osso bucco de dinde à la tunisienne\n- Boulgour et carottes bio\n- Pavé de poisson aux cêpes sauce forestière\n- Riz bio et carottes bio\n- Quiche végétarienne à la mexicaine\n- Salade verte
-DURATION:PT45M
-DTSTART:20261106T111500Z
-SUMMARY:Soupe de petits pois à la crème\, Osso bucco de dinde à la tunisienne\, Boulgour et carottes bio\, Pavé de poisson aux cêpes sauce forestière\, Riz bio et carottes bio\, Quiche végétarienne à la mexicaine\, Salade verte
-UID:d6d31448-4f8d-439a-8aa5-1fa01dd71807@d6d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Paupiette de veau colombo\n- Coquillettes bio et brocolis bio\n- Ravioli ricotta et épinards sauce crème aux herbes\n- Fromage râpé et parmesan
-DURATION:PT45M
-DTSTART:20261009T171500Z
-SUMMARY:Paupiette de veau colombo\, Coquillettes bio et brocolis bio\, Ravioli ricotta et épinards sauce crème aux herbes\, Fromage râpé et parmesan
-UID:80dcd0c8-281f-44f0-8399-65fa000b64f1@80dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Pilons de poulet sauce barbecue\n- Frites\n- Omelette à l'espagnole\n- Julienne de légumes aux brocolis
-DURATION:PT45M
-DTSTART:20261015T171500Z
-SUMMARY:Pilons de poulet sauce barbecue\, Frites\, Omelette à l'espagnole\, Julienne de légumes aux brocolis
-UID:a5ff47fc-e636-4bfa-98da-63e24dc2e9be@a5ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe à l'oignon\n- Choucroute (porc)\n- Pommes de terre vapeur\n- Rissolette de veau - sauce provençale\n- Pommes de terre boulangère\n- Omelette aux oignons\, basilic et persil\n- Omelette aux oignons\, basilic et persil\n- Epinards à la crème
-DURATION:PT45M
-DTSTART:20261104T111500Z
-SUMMARY:Soupe à l'oignon\, Choucroute (porc)\, Pommes de terre vapeur\, Rissolette de veau - sauce provençale\, Pommes de terre boulangère\, Omelette aux oignons\, basilic et persil\, Omelette aux oignons\, basilic et persil\, Epinards à la crème
-UID:964bddda-420a-4655-93e0-f4f2a060b18a@964b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Panini à la saucisse fumée\n- Pommes de terre vapeur - salade verte\n- Panini au cheddar et aux légumes\n- Pommes de terre vapeur - salade verte
-DURATION:PT45M
-DTSTART:20261022T171500Z
-SUMMARY:Soupe\, Panini à la saucisse fumée\, Pommes de terre vapeur - salade verte\, Panini au cheddar et aux légumes\, Pommes de terre vapeur - salade verte
-UID:a5140fcf-d2be-4955-a576-3b9c6c6a1079@a514.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartine à la tomate et au reblochon\n- Côte de porc marinées au miel et sauce soja\n- Purée et carottes bio\n- Blanquette de poisson\n- Riz bio et carottes bio\n- Risotto aux courgettes et au parmesan\n- Parmesan râpé
-DURATION:PT45M
-DTSTART:20261009T101500Z
-SUMMARY:Tartine à la tomate et au reblochon\, Côte de porc marinées au miel et sauce soja\, Purée et carottes bio\, Blanquette de poisson\, Riz bio et carottes bio\, Risotto aux courgettes et au parmesan\, Parmesan râpé
-UID:9bbd7123-17df-4a58-93a6-1563407015e8@9bbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Tartelette aux oignons et champignons\n- Sauté de dinde aux poivrons\n- Semoule et ratatouille\n- Merguez grillées\n- Semoule et ratatouille\n- Pizza aux légumes grillés et oeuf poché\n- Salade verte
-DURATION:PT45M
-DTSTART:20261013T101500Z
-SUMMARY:Tartelette aux oignons et champignons\, Sauté de dinde aux poivrons\, Semoule et ratatouille\, Merguez grillées\, Semoule et ratatouille\, Pizza aux légumes grillés et oeuf poché\, Salade verte
-UID:df4a40a0-8eeb-40cb-bf3a-99d9ac58a0cb@df4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Emincé de veau au curry et lait de coco\n- Riz bio et poëlée wok\n- Brick de légumes\n- Riz bio
-DURATION:PT45M
-DTSTART:20261109T181500Z
-SUMMARY:Soupe\, Emincé de veau au curry et lait de coco\, Riz bio et poëlée wok\, Brick de légumes\, Riz bio
-UID:b29078b9-0cb2-4543-ae5f-08186e3d95fb@b290.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe de brocolis et pommes de terre\n- Steak haché - sauce aux 3 poivres\n- Frites et haricots beurre\n- Fish and chips sauce tartare\n- Frites\n- Galette de boulgour et lentilles corail\n- Frites
-DURATION:PT45M
-DTSTART:20261105T111500Z
-SUMMARY:Soupe de brocolis et pommes de terre\, Steak haché - sauce aux 3 poivres\, Frites et haricots beurre\, Fish and chips sauce tartare\, Frites\, Galette de boulgour et lentilles corail\, Frites
-UID:b8e36e8c-edee-4f6b-bb3a-a42670f2098a@b8e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Bouchée de fruits de mer au curry\n- Aiguillette de poulet colombo\n- Coquillettes bio et jardinière de légumes\n- Jambon rôti aux herbes - sauce miel & orange\n- Coquillettes bio\n- Quiche aux tomates et courgettes à la ricotta\n- Salade verte
-DURATION:PT45M
-DTSTART:20261015T101500Z
-SUMMARY:Bouchée de fruits de mer au curry\, Aiguillette de poulet colombo\, Coquillettes bio et jardinière de légumes\, Jambon rôti aux herbes - sauce miel & orange\, Coquillettes bio\, Quiche aux tomates et courgettes à la ricotta\, Salade verte
-UID:6215fce8-6d85-446a-a67a-87e29e78887c@6215.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Acras de morue au citron\n- Emincé de veau au cidre et pommes\n- Riz bio et brocolis bio\n- Filet de merlu sauce curry et lait de coco\n- Riz bio et brocolis bio\n- Fajitas aux légumes et pois bio\n- Salade de coleslaw et haricots rouges
-DURATION:PT45M
-DTSTART:20261016T101500Z
-SUMMARY:Acras de morue au citron\, Emincé de veau au cidre et pommes\, Riz bio et brocolis bio\, Filet de merlu sauce curry et lait de coco\, Riz bio et brocolis bio\, Fajitas aux légumes et pois bio\, Salade de coleslaw et haricots rouges
-UID:7cf35ed3-e506-4e7c-803d-dbd5fde2408f@7cf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Feuilleté hot-dog à la dinde\n- Escalope de poulet à la crème\n- Coquillettes bio\n- Samoussa de légumes - concassé de tomates à l'ail\n- Coquillettes bio et légumes
-DURATION:PT45M
-DTSTART:20261010T101500Z
-SUMMARY:Feuilleté hot-dog à la dinde\, Escalope de poulet à la crème\, Coquillettes bio\, Samoussa de légumes - concassé de tomates à l'ail\, Coquillettes bio et légumes
-UID:d358c27b-4415-416c-88ad-8d10a25cf717@d358.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé ce soir
-DURATION:PT45M
-DTSTART:20261030T181500Z
-SUMMARY:Le rak est fermé ce soir
-UID:a8100ba9-4632-4667-8bd2-06cf74b6c88a@a810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Crème de champignons\n- Goulash (boeuf paprika)\n- Coquillettes bio et légumes verts\n- Dahl de lentilles corail bio
-DURATION:PT45M
-DTSTART:20261026T111500Z
-SUMMARY:Crème de champignons\, Goulash (boeuf paprika)\, Coquillettes bio et légumes verts\, Dahl de lentilles corail bio
-UID:359dde82-0f91-4f8f-a398-39247e3d3e3c@359d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Pizza au reblochon\n- Rosbeef - sauce poivre 5 baies\n- Purée de pommes de terre\n- Pavé de poisson à la bordelaise\n- Riz bio et épinards à la crème\n- Gratin de courgettes et aubergines à la fêta\n- Salade verte
-DURATION:PT45M
-DTSTART:20261012T101500Z
-SUMMARY:Pizza au reblochon\, Rosbeef - sauce poivre 5 baies\, Purée de pommes de terre\, Pavé de poisson à la bordelaise\, Riz bio et épinards à la crème\, Gratin de courgettes et aubergines à la fêta\, Salade verte
-UID:38f00f7f-8b89-412f-a444-c6946cf3a21d@38f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Jour férié - rak fermé
-DURATION:PT45M
-DTSTART:20261111T181500Z
-SUMMARY:Jour férié - rak fermé
-UID:2da0a2f1-90a9-4ff6-b31b-f9667effa2b5@2da0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20261017T101500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:99e24678-cd05-4180-9d10-e36ca763f518@99e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Le rak est fermé tous les week-ends
-DURATION:PT45M
-DTSTART:20261017T171500Z
-SUMMARY:Le rak est fermé tous les week-ends
-UID:a716ed0f-b924-406f-a843-300a41f77324@a716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe berbère aux pois chiches\n- Brochette de dinde à l'orientale\n- Boulgour et poëlée asiatique\n- Filet de poisson - sauce au curry\n- Pommes de terre vapeur\n- Boul' d'avocats\, haricots rouges et cheddar\n- Boulgour et poëlée asiatique
-DURATION:PT45M
-DTSTART:20261113T111500Z
-SUMMARY:Soupe berbère aux pois chiches\, Brochette de dinde à l'orientale\, Boulgour et poëlée asiatique\, Filet de poisson - sauce au curry\, Pommes de terre vapeur\, Boul' d'avocats\, haricots rouges et cheddar\, Boulgour et poëlée asiatique
-UID:c1672d4f-b4ff-472e-88a3-7ad7f6f230a1@c167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Soupe\n- Steak haché sauce poivre vert\n- Coquillettes bio\n- Nuggets de blé - concassé de tomates à l'ail\n- Coquillettes bio et brocolis bio
-DURATION:PT45M
-DTSTART:20261113T181500Z
-SUMMARY:Soupe\, Steak haché sauce poivre vert\, Coquillettes bio\, Nuggets de blé - concassé de tomates à l'ail\, Coquillettes bio et brocolis bio
-UID:3400ec88-f1cc-4e6f-95ca-10db78e880b1@3400.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:- Crêpe forestière\n- Rougail de saucisses de porc(fr)\n- Riz bio au curcuma et brunoise de légumes\n- Rougail végétarienne\n- Riz bio
-DURATION:PT45M
-DTSTART:20261010T171500Z
-SUMMARY:Crêpe forestière\, Rougail de saucisses de porc(fr)\, Riz bio au curcuma et brunoise de légumes\, Rougail végétarienne\, Riz bio
-UID:ab1dfeb4-c16f-42be-8ede-6474f364fc04@ab1d.org
+UID:ae420e93-5c16-4b21-b57c-e590b4029aa5@ae42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Manchons de canard confits sauce au poivre vert\n- Pommes de terre hongroises\n- Croque au cheddar champignons et oignons\n- Trio de légumes bio
 DURATION:PT45M
 DTSTART:20261016T171500Z
 SUMMARY:Manchons de canard confits sauce au poivre vert\, Pommes de terre hongroises\, Croque au cheddar champignons et oignons\, Trio de légumes bio
-UID:6aa36cdb-c6eb-4512-86b2-6c0be0e429a4@6aa3.org
+UID:185547e4-b5a5-4a7e-8001-b5fcf2421acc@1855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Lamelles de kebab sauce blanche\n- Frites et salade iceberg-tomate et oignons\n- Omelette forestière\n- Frites
+DURATION:PT45M
+DTSTART:20261110T181500Z
+SUMMARY:Soupe\, Lamelles de kebab sauce blanche\, Frites et salade iceberg-tomate et oignons\, Omelette forestière\, Frites
+UID:de4a1f60-3254-4476-99ed-5df524046064@de4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Cordon bleu de dinde - sauce tomate\n- Frites\n- Omelette au fromage\n- Poêlée de légumes verts
+DURATION:PT45M
+DTSTART:20261023T171500Z
+SUMMARY:Soupe\, Cordon bleu de dinde - sauce tomate\, Frites\, Omelette au fromage\, Poêlée de légumes verts
+UID:1c61749e-890d-43f5-8679-0756a9c5c7a2@1c61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Crème de champignons\n- Goulash (boeuf paprika)\n- Coquillettes bio et légumes verts\n- Dahl de lentilles corail bio
+DURATION:PT45M
+DTSTART:20261026T111500Z
+SUMMARY:Crème de champignons\, Goulash (boeuf paprika)\, Coquillettes bio et légumes verts\, Dahl de lentilles corail bio
+UID:cb9013c4-e1e0-4686-80cf-3d7eabe1ed8a@cb90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Tartelette aux oignons et champignons\n- Sauté de dinde aux poivrons\n- Semoule et ratatouille\n- Merguez grillées\n- Semoule et ratatouille\n- Pizza aux légumes grillés et oeuf poché\n- Salade verte
+DURATION:PT45M
+DTSTART:20261013T101500Z
+SUMMARY:Tartelette aux oignons et champignons\, Sauté de dinde aux poivrons\, Semoule et ratatouille\, Merguez grillées\, Semoule et ratatouille\, Pizza aux légumes grillés et oeuf poché\, Salade verte
+UID:0a4cc836-8912-42b6-a053-1ccc8481a3db@0a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20261031T181500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:3353ff2f-2285-4658-b279-2c95fbe145e8@3353.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Panini à la saucisse fumée\n- Pommes de terre vapeur - salade verte\n- Panini au cheddar et aux légumes\n- Pommes de terre vapeur - salade verte
+DURATION:PT45M
+DTSTART:20261022T171500Z
+SUMMARY:Soupe\, Panini à la saucisse fumée\, Pommes de terre vapeur - salade verte\, Panini au cheddar et aux légumes\, Pommes de terre vapeur - salade verte
+UID:70680121-3e11-43d6-a151-b64bf75a4b30@7068.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de légumes\n- Escalope de dinde viennoise\n- Tagliatelles bio et brocolis\n- Panini au cheddar et légumes grillés\n- Tagliatelles bio et brocolis
+DURATION:PT45M
+DTSTART:20261104T181500Z
+SUMMARY:Soupe de légumes\, Escalope de dinde viennoise\, Tagliatelles bio et brocolis\, Panini au cheddar et légumes grillés\, Tagliatelles bio et brocolis
+UID:1a4bd245-e0c1-4e7e-882f-8bb6edbfcb8b@1a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe au pistou avec coquillettes bio\n- Paupiette de veau sauce colombo\n- Tagliatelles bio et poëlée bretonne\n- Filet de dorade - sauce crustacés\n- Tagliatelles bio\n- Bouchée tomates\, oignons et poireaux\n- Tagliatelles bio
+DURATION:PT45M
+DTSTART:20261023T101500Z
+SUMMARY:Soupe au pistou avec coquillettes bio\, Paupiette de veau sauce colombo\, Tagliatelles bio et poëlée bretonne\, Filet de dorade - sauce crustacés\, Tagliatelles bio\, Bouchée tomates\, oignons et poireaux\, Tagliatelles bio
+UID:105fd698-f719-456d-8b15-e856442ea84b@105f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Salade d'oeuf poché aux croûtons\n- Lamelles de kebab sauce blanche\n- Frites\n- Filet de limande en croûte\n- Frites\n- Omelette aux oignons et poivrons rouges\n- Poêlée asiatique
+DURATION:PT45M
+DTSTART:20261014T101500Z
+SUMMARY:Salade d'oeuf poché aux croûtons\, Lamelles de kebab sauce blanche\, Frites\, Filet de limande en croûte\, Frites\, Omelette aux oignons et poivrons rouges\, Poêlée asiatique
+UID:fa06f712-088b-49aa-8e30-edaed6f532e4@fa06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Spaghettis bio à la bolognaise (boeuf)\n- Fromage râpé\n- Pané de blé à la tomate et mozzarella\n- Spaghettis bio et légumes
+DURATION:PT45M
+DTSTART:20261112T181500Z
+SUMMARY:Soupe\, Spaghettis bio à la bolognaise (boeuf)\, Fromage râpé\, Pané de blé à la tomate et mozzarella\, Spaghettis bio et légumes
+UID:02717294-5aae-4b4a-9f05-a1b8f29b0ad4@0271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Sauté de porc au cidre et aux pommes\n- Riz madras et poélée wok\n- Lasagnes végétariennes aux légumes d'hiver\n- Salade verte
+DURATION:PT45M
+DTSTART:20261027T111500Z
+SUMMARY:Sauté de porc au cidre et aux pommes\, Riz madras et poélée wok\, Lasagnes végétariennes aux légumes d'hiver\, Salade verte
+UID:93d5af04-da6e-47b9-ba5f-e137ac197067@93d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de légumes\n- Aiguillette de poulet colombo\n- riz bio aux légumes\n- Samoussa aux légumes - concassé de tomates à l'ail\n- riz bio aux légumes
+DURATION:PT45M
+DTSTART:20261105T181500Z
+SUMMARY:Soupe de légumes\, Aiguillette de poulet colombo\, riz bio aux légumes\, Samoussa aux légumes - concassé de tomates à l'ail\, riz bio aux légumes
+UID:1ca79c0e-a62f-4528-9251-59cdf6f9081a@1ca7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe à l'oignon\n- Choucroute (porc)\n- Pommes de terre vapeur\n- Rissolette de veau - sauce provençale\n- Pommes de terre boulangère\n- Omelette aux oignons\, basilic et persil\n- Omelette aux oignons\, basilic et persil\n- Epinards à la crème
+DURATION:PT45M
+DTSTART:20261104T111500Z
+SUMMARY:Soupe à l'oignon\, Choucroute (porc)\, Pommes de terre vapeur\, Rissolette de veau - sauce provençale\, Pommes de terre boulangère\, Omelette aux oignons\, basilic et persil\, Omelette aux oignons\, basilic et persil\, Epinards à la crème
+UID:9e2a83b0-7b2b-43df-a18a-3fbac9f6ae41@9e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20261027T181500Z
+SUMMARY:Le rak est fermé ce soir
+UID:3a256486-2dac-4a6f-9d08-1041e41c15a9@3a25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Acras de morue au citron\n- Emincé de veau au cidre et pommes\n- Riz bio et brocolis bio\n- Filet de merlu sauce curry et lait de coco\n- Riz bio et brocolis bio\n- Fajitas aux légumes et pois bio\n- Salade de coleslaw et haricots rouges
+DURATION:PT45M
+DTSTART:20261016T101500Z
+SUMMARY:Acras de morue au citron\, Emincé de veau au cidre et pommes\, Riz bio et brocolis bio\, Filet de merlu sauce curry et lait de coco\, Riz bio et brocolis bio\, Fajitas aux légumes et pois bio\, Salade de coleslaw et haricots rouges
+UID:3d15777d-75c4-4233-baae-ee6e5fa64257@3d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Bouchée de fruits de mer au curry\n- Aiguillette de poulet colombo\n- Coquillettes bio et jardinière de légumes\n- Jambon rôti aux herbes - sauce miel & orange\n- Coquillettes bio\n- Quiche aux tomates et courgettes à la ricotta\n- Salade verte
+DURATION:PT45M
+DTSTART:20261015T101500Z
+SUMMARY:Bouchée de fruits de mer au curry\, Aiguillette de poulet colombo\, Coquillettes bio et jardinière de légumes\, Jambon rôti aux herbes - sauce miel & orange\, Coquillettes bio\, Quiche aux tomates et courgettes à la ricotta\, Salade verte
+UID:53c65131-bdf2-418f-9425-abd0bd901a01@53c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de brocolis et pommes de terre\n- Steak haché - sauce aux 3 poivres\n- Frites et haricots beurre\n- Fish and chips sauce tartare\n- Frites\n- Galette de boulgour et lentilles corail\n- Frites
+DURATION:PT45M
+DTSTART:20261105T111500Z
+SUMMARY:Soupe de brocolis et pommes de terre\, Steak haché - sauce aux 3 poivres\, Frites et haricots beurre\, Fish and chips sauce tartare\, Frites\, Galette de boulgour et lentilles corail\, Frites
+UID:9d741456-e7a1-4e53-85d8-42c80711d0e2@9d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de légumes\n- Spaghettis  carbonara\n- Fromage râpé\n- Spaghettis aux fèves\, légumes et curry\n- Fromage râpé
+DURATION:PT45M
+DTSTART:20261102T181500Z
+SUMMARY:Soupe de légumes\, Spaghettis  carbonara\, Fromage râpé\, Spaghettis aux fèves\, légumes et curry\, Fromage râpé
+UID:bc6b3897-6302-4584-872c-c7e46006ae9c@bc6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce week-end
+DURATION:PT45M
+DTSTART:20261031T111500Z
+SUMMARY:Le rak est fermé ce week-end
+UID:ac797ebf-8b5c-4df2-94d7-75fd5507bd6c@ac79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Emincé de veau au curry et lait de coco\n- Riz bio et poëlée wok\n- Brick de légumes\n- Riz bio
+DURATION:PT45M
+DTSTART:20261109T181500Z
+SUMMARY:Soupe\, Emincé de veau au curry et lait de coco\, Riz bio et poëlée wok\, Brick de légumes\, Riz bio
+UID:d5acdef8-15be-4ff8-845c-018a2a2797c0@d5ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de petits pois à la crème\n- Osso bucco de dinde à la tunisienne\n- Boulgour et carottes bio\n- Pavé de poisson aux cêpes sauce forestière\n- Riz bio et carottes bio\n- Quiche végétarienne à la mexicaine\n- Salade verte
+DURATION:PT45M
+DTSTART:20261106T111500Z
+SUMMARY:Soupe de petits pois à la crème\, Osso bucco de dinde à la tunisienne\, Boulgour et carottes bio\, Pavé de poisson aux cêpes sauce forestière\, Riz bio et carottes bio\, Quiche végétarienne à la mexicaine\, Salade verte
+UID:fd9b9b43-7bb7-49fa-9ebb-06fd22be9ae4@fd9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20261107T181500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:dfb8879b-70b3-4cfd-bdd6-c21640501005@dfb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20261029T181500Z
+SUMMARY:Le rak est fermé ce soir
+UID:a718813d-84f1-4f9f-b49a-7d7835b76f5b@a718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Emincé de dinde mariné façon kebab\n- Frites et salade iceberg\n- Omelette au fromage\n- Frites
+DURATION:PT45M
+DTSTART:20261020T171500Z
+SUMMARY:Soupe\, Emincé de dinde mariné façon kebab\, Frites et salade iceberg\, Omelette au fromage\, Frites
+UID:6bc61349-9834-4102-acfc-eb1ff8b32eff@6bc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20261030T181500Z
+SUMMARY:Le rak est fermé ce soir
+UID:b6232966-dcad-41ff-98f4-6e5121c6e87c@b623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Aiguillettes de poulet - sauce fromagère\n- Spaghettis bio et légumes grillés\n- Quiche aux poivrons et à la fêta\n- Salade verte
+DURATION:PT45M
+DTSTART:20261021T171500Z
+SUMMARY:Soupe\, Aiguillettes de poulet - sauce fromagère\, Spaghettis bio et légumes grillés\, Quiche aux poivrons et à la fêta\, Salade verte
+UID:6aea7d94-af74-460a-bfd9-f8438b3556fa@6aea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de carottes et lait de coco\n- Tajine d'agneau aux figues\n- Semoule bio et légumes ratatouille\n- Boudin noir ou chipolatas grillées\n- Purée et fondue de choux verts\n- Tortellonnis ricotta épinards sauce tomate au basilic
+DURATION:PT45M
+DTSTART:20261102T111500Z
+SUMMARY:Soupe de carottes et lait de coco\, Tajine d'agneau aux figues\, Semoule bio et légumes ratatouille\, Boudin noir ou chipolatas grillées\, Purée et fondue de choux verts\, Tortellonnis ricotta épinards sauce tomate au basilic
+UID:93d42690-e375-4904-bc42-9e3155a8eb69@93d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20261017T101500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:d96ab0be-32d0-4559-8ab7-6d07c10a5d98@d96a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Crème dubarry aux choux-fleurs\n- Steak de boeuf - sauce aux échalotes\n- Frites et haricots verts à l'ail\n- Poisson pané à la tomate sauce tomate\n- Frites\n- Galette de millet et boulgour au curry\n- Frites
+DURATION:PT45M
+DTSTART:20261112T111500Z
+SUMMARY:Crème dubarry aux choux-fleurs\, Steak de boeuf - sauce aux échalotes\, Frites et haricots verts à l'ail\, Poisson pané à la tomate sauce tomate\, Frites\, Galette de millet et boulgour au curry\, Frites
+UID:bbee543f-a48b-40b5-9737-36b5dfd395cb@bbee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20261107T111500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:08064059-3fac-42d5-965c-ff5382e6f167@0806.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Sauté de boeuf aux arachides\n- Riz et poëlée asiatique\n- Tortellonnis à la ricotta et tomates séchées\n- Fromage râpé et parmesan
+DURATION:PT45M
+DTSTART:20261019T171500Z
+SUMMARY:Soupe\, Sauté de boeuf aux arachides\, Riz et poëlée asiatique\, Tortellonnis à la ricotta et tomates séchées\, Fromage râpé et parmesan
+UID:505ec2ac-0531-446e-bf4b-1aaee3ab743b@505e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20261017T171500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:8051b111-11e6-4fc6-b8d9-959c36cb7ab4@8051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Jour férié - rak fermé
+DURATION:PT45M
+DTSTART:20261111T181500Z
+SUMMARY:Jour férié - rak fermé
+UID:ac8872b7-b242-4bec-84cd-bc29b2268ec6@ac88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Crème de potimarrons bio\n- Rôti d'agneau au thym et crème d'ail\n- Frites et haricots verts à l'ail\n- Fish and chips sauce tartare\n- Frites\n- Omelette aux fines herbes\n- Frites
+DURATION:PT45M
+DTSTART:20261022T101500Z
+SUMMARY:Crème de potimarrons bio\, Rôti d'agneau au thym et crème d'ail\, Frites et haricots verts à l'ail\, Fish and chips sauce tartare\, Frites\, Omelette aux fines herbes\, Frites
+UID:213df00a-fd88-4598-9cc1-764948f6894b@213d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Potage de poireaux et pommes de terre\n- Filet de porc mignon au miel et romarin\n- Semoule de couscous bio et ratatouille\n- Beignets de calamars - sauce au fromage blanc\n- Semoule bio et ratatouille\n- Bruschetta à la tomate et mozarella\n- Salade verte
+DURATION:PT45M
+DTSTART:20261021T101500Z
+SUMMARY:Potage de poireaux et pommes de terre\, Filet de porc mignon au miel et romarin\, Semoule de couscous bio et ratatouille\, Beignets de calamars - sauce au fromage blanc\, Semoule bio et ratatouille\, Bruschetta à la tomate et mozarella\, Salade verte
+UID:ec26388e-0dfb-48e8-996e-834d28232ee7@ec26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de courgettes à la vache qui rit\n- Hachis parmentier de boeuf\n- Salade verte\n- Poisson pané à la tomate concassé de tomates à l'ail\n- Purée et brocolis\n- Samoussa de légumes - concassé de tomates à l'ail\n- Purée et brocolis
+DURATION:PT45M
+DTSTART:20261019T101500Z
+SUMMARY:Soupe de courgettes à la vache qui rit\, Hachis parmentier de boeuf\, Salade verte\, Poisson pané à la tomate concassé de tomates à l'ail\, Purée et brocolis\, Samoussa de légumes - concassé de tomates à l'ail\, Purée et brocolis
+UID:4222a258-1bdf-447e-bc72-f54f168035ef@4222.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de légumes\n- Pizza au kebab\n- Salade verte\n- Tortellinis ricotta\, mozzarella et tomates séchées\n- Fromage râpé
+DURATION:PT45M
+DTSTART:20261103T181500Z
+SUMMARY:Soupe de légumes\, Pizza au kebab\, Salade verte\, Tortellinis ricotta\, mozzarella et tomates séchées\, Fromage râpé
+UID:1e0fd85b-5205-46ba-85d2-9162ed8cfe91@1e0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe\n- Steak haché sauce poivre vert\n- Coquillettes bio\n- Nuggets de blé - concassé de tomates à l'ail\n- Coquillettes bio et brocolis bio
+DURATION:PT45M
+DTSTART:20261113T181500Z
+SUMMARY:Soupe\, Steak haché sauce poivre vert\, Coquillettes bio\, Nuggets de blé - concassé de tomates à l'ail\, Coquillettes bio et brocolis bio
+UID:ac3b17ee-682a-445e-9289-a1d4bcfee832@ac3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20261028T181500Z
+SUMMARY:Le rak est fermé ce soir
+UID:0e06205d-dc2c-4d10-9540-97b745e789a7@0e06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé ce soir
+DURATION:PT45M
+DTSTART:20261026T181500Z
+SUMMARY:Le rak est fermé ce soir
+UID:2e8c2028-c01c-4a40-a0fe-ffa43e866b47@2e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Saucisse de molène aux choux\n- Pomme de terre vapeur\n- Filet de limande en croûte au beurre citronné\n- Pennes bio et épinards à la crème\n- Pâtes bio forestières  aux poireaux
+DURATION:PT45M
+DTSTART:20261110T111500Z
+SUMMARY:Saucisse de molène aux choux\, Pomme de terre vapeur\, Filet de limande en croûte au beurre citronné\, Pennes bio et épinards à la crème\, Pâtes bio forestières  aux poireaux
+UID:aea5312e-0e11-4267-83d9-440dd89d340f@aea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Le rak est fermé tous les week-ends
+DURATION:PT45M
+DTSTART:20261024T171500Z
+SUMMARY:Le rak est fermé tous les week-ends
+UID:12779edc-4b64-41e9-9319-12966f37471f@1277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Emincé de porc laqué\n- Riz cantonais\n- Quiche aux poivrons tomates et olives\n- Salade verte
+DURATION:PT45M
+DTSTART:20261013T171500Z
+SUMMARY:Emincé de porc laqué\, Riz cantonais\, Quiche aux poivrons tomates et olives\, Salade verte
+UID:c143bcf8-4c31-4575-a3ec-a0e503e9403b@c143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Jour férié - rak fermé
+DURATION:PT45M
+DTSTART:20261111T111500Z
+SUMMARY:Jour férié - rak fermé
+UID:387b9a42-b650-4546-ae20-d2de6bc0497d@387b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Velouté de carottes au cumin\n- Sauté de veau marengo\n- Pommes de terre vitelotte pommes vapeur brocolis\n- Filet de poisson meunière au beurre citronné\n- Riz bio et jardinière de légumes\n- Courgette ronde farcie à la fêta et au boulgour\n- Riz bio
+DURATION:PT45M
+DTSTART:20261020T101500Z
+SUMMARY:Velouté de carottes au cumin\, Sauté de veau marengo\, Pommes de terre vitelotte pommes vapeur brocolis\, Filet de poisson meunière au beurre citronné\, Riz bio et jardinière de légumes\, Courgette ronde farcie à la fêta et au boulgour\, Riz bio
+UID:733f9622-34d2-40e6-a808-772821f1f6e6@733f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de légumes\n- Cuisse de pintade aux raisins\n- Purée de pomme de terre\n- Omelette forestière\n- Jardinière de légumes
+DURATION:PT45M
+DTSTART:20261106T181500Z
+SUMMARY:Soupe de légumes\, Cuisse de pintade aux raisins\, Purée de pomme de terre\, Omelette forestière\, Jardinière de légumes
+UID:f0677806-0a82-41f2-986d-bee0543fe389@f067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe d'épinards et pommes de terre\n- Hachis parmentier de boeuf et canard\n- Salade verte\n- Beignets de calamrars à la romaine\n- Riz bio pilaf et carottes bio\n- Pâtes au potimarrons et pois gourmand
+DURATION:PT45M
+DTSTART:20261103T111500Z
+SUMMARY:Soupe d'épinards et pommes de terre\, Hachis parmentier de boeuf et canard\, Salade verte\, Beignets de calamrars à la romaine\, Riz bio pilaf et carottes bio\, Pâtes au potimarrons et pois gourmand
+UID:21e3c1b3-662e-44bd-87f1-0cb12d85b75f@21e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de courgettes\n- Steak haché du boucher sauce poivre vert\n- Purée et haricots verts à l'ail\n- Quiche végétarienne mexicaine\n- Salade verte
+DURATION:PT45M
+DTSTART:20261029T111500Z
+SUMMARY:Soupe de courgettes\, Steak haché du boucher sauce poivre vert\, Purée et haricots verts à l'ail\, Quiche végétarienne mexicaine\, Salade verte
+UID:4dbf6ed0-f14b-46b2-8753-2ef545ef6a1b@4dbf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:- Saucisse de roscoff aux oignons rosés\n- Pommes de terre et chou vert\n- Filet de cabillaud - sauce curry et lait de coco\n- Pommes de terre et chou vert
 DURATION:PT45M
 DTSTART:20261030T111500Z
 SUMMARY:Saucisse de roscoff aux oignons rosés\, Pommes de terre et chou vert\, Filet de cabillaud - sauce curry et lait de coco\, Pommes de terre et chou vert
-UID:bb323fdb-4122-43a3-a61b-6d1ebd7030d5@bb32.org
+UID:c291390c-1924-4254-aa45-f2525263c343@c291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Cordon bleu de dinde - sauce fromagère\n- Purée et poêlée campagnarde\n- Flammekueche aux poireaux et aux oignons\n- Salade verte
+DURATION:PT45M
+DTSTART:20261014T171500Z
+SUMMARY:Cordon bleu de dinde - sauce fromagère\, Purée et poêlée campagnarde\, Flammekueche aux poireaux et aux oignons\, Salade verte
+UID:a1be26e9-63dd-4bfc-a462-d7cb06eb3409@a1be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe de brocolis\n- Coquelet à l'estragon\n- Frites\n- Omelette aux tomates et poivrons\n- Gratin de potimarrons\n- Salade verte
+DURATION:PT45M
+DTSTART:20261028T111500Z
+SUMMARY:Soupe de brocolis\, Coquelet à l'estragon\, Frites\, Omelette aux tomates et poivrons\, Gratin de potimarrons\, Salade verte
+UID:c599798b-6552-49ae-b5d7-d04bace754e0@c599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Pilons de poulet sauce barbecue\n- Frites\n- Omelette à l'espagnole\n- Julienne de légumes aux brocolis
+DURATION:PT45M
+DTSTART:20261015T171500Z
+SUMMARY:Pilons de poulet sauce barbecue\, Frites\, Omelette à l'espagnole\, Julienne de légumes aux brocolis
+UID:f12da910-b850-43b5-ba26-b63540e5855a@f12d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Soupe berbère aux pois chiches\n- Brochette de dinde à l'orientale\n- Boulgour et poëlée asiatique\n- Filet de poisson - sauce au curry\n- Pommes de terre vapeur\n- Boul' d'avocats\, haricots rouges et cheddar\n- Boulgour et poëlée asiatique
+DURATION:PT45M
+DTSTART:20261113T111500Z
+SUMMARY:Soupe berbère aux pois chiches\, Brochette de dinde à l'orientale\, Boulgour et poëlée asiatique\, Filet de poisson - sauce au curry\, Pommes de terre vapeur\, Boul' d'avocats\, haricots rouges et cheddar\, Boulgour et poëlée asiatique
+UID:b304b3f6-1d64-4ee6-a95a-c13219abb7ad@b304.org
 END:VEVENT
 END:VCALENDAR
