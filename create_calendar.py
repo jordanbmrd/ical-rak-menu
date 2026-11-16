@@ -11,7 +11,7 @@ def clean_html(raw_html):
     return cleantext
 
 def get_menu_by_date_and_time(rss_url, target_date, meal_time):
-    response = requests.get(rss_url)
+    response = requests.get(rss_url, timeout=30)
     response.raise_for_status()
     root = ET.fromstring(response.content)
 
@@ -62,7 +62,7 @@ def create_calendar_with_menus(rss_url, output_file):
     calendar = Calendar()
     tz = pytz.timezone("Europe/Paris")
 
-    response = requests.get(rss_url)
+    response = requests.get(rss_url, timeout=30)
     response.raise_for_status()
     root = ET.fromstring(response.content)
 
@@ -103,4 +103,7 @@ def create_calendar_with_menus(rss_url, output_file):
 # Exemple d'appel à la fonction
 rss_url = "http://services.imt-atlantique.fr/rak/rss/menus.xml"
 output_file = "menus.ics"
-create_calendar_with_menus(rss_url, output_file)
+try:
+    create_calendar_with_menus(rss_url, output_file)
+except requests.RequestException as error:
+    print(f"Unable to fetch the menu feed; keeping the existing calendar: {error}")
